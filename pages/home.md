@@ -1,9 +1,9 @@
 ---
 title: Home
-meta-description: 100 or so words
-meta-keywords: Psychology, research, students, courses
 permalink: /
 layout: home
+keywords: 'Psychology, research, students, courses'
+description: >-
 feature: false
 feature-title: 
 feature-body: 
