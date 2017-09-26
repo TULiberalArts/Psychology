@@ -2,7 +2,7 @@
 title: Graduate
 permalink: /graduate/
 layout: page
-meta-keywords: 'graduate, phd, students, Psychology program'
+keywords: 'graduate, phd, students, Psychology program'
 description: >-
 published: true
 sidebar: true
