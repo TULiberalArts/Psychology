@@ -1,8 +1,9 @@
 ---
 title: Resources
-meta-keywords: clinical, services, internship, research
 permalink: /resources/
 layout: page
+keywords: 'clinical, services, internship, research'
+description: >-
 published: true
 ---
 ## Resources are here to help! 
