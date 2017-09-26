@@ -1,8 +1,9 @@
 ---
 title: Next Stops
-meta-keywords: 'transfer, apply, visit, College of Liberal Arts, Psychology, careers'
 permalink: /next-stops/
 layout: page
+keywords: 'transfer, apply, visit, College of Liberal Arts, Psychology, careers'
+description: >-
 published: true
 ---
 
