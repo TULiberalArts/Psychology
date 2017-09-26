@@ -1,8 +1,9 @@
 ---
 title: Undergraduate
-meta-keywords: 'psychology, undergraduate, research, lab, Temple'
 permalink: /undergraduate/
 layout: page
+keywords: 'psychology, undergraduate, research, lab, Temple'
+description: >-
 published: true
 sidebar: true
 sidebar-content: |
