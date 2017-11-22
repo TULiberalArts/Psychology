@@ -113,7 +113,7 @@ When you are ready to apply, submit your application online at [admissions.templ
 - Psychology GPA 3.67
 - Overall GPA 3.67
 - Academic writing sample demonstrating proficiency in academic writing appropriate for the master’s level of study
-- A mentorship agreement from the [faculty sponsor](http://www.cla.temple.edu/psychology/files/2016/02/Faculty-Sponsors.pdf)
+- A mentorship agreement from the faculty sponsor list (see below)
 
 ### Applications
 
@@ -147,6 +147,29 @@ Nicole Pileggi, M.Ed.<br>
 616 Weiss Hall<br>
 [215-204-3403](tel:2152043403)<br>
 [nicole.pileggi@temple.edu](mailto:nicole.pileggi@temple.edu)<br>
+
+## Faculty Sponsors
+
+The following faculty members are willing to sponsor students for the 4+1 program. It is each student’s responsibility to contact a faculty member to initiate a conversation about sponsorship for the 4+1 program. Please be prepared to discuss your research interests, potential research projects, your responsibilities in the sponsor’s lab, and the sponsor’s expectations for your research progress in each semester of the program.
+
+- [Lauren Alloy](https://liberalarts.temple.edu/academics/faculty/alloy-lauren)
+- [Debra Bangasser](https://liberalarts.temple.edu/academics/faculty/bangasser-debra)
+- [Lisa Briand](https://liberalarts.temple.edu/academics/faculty/briand-lisa)
+- [Jason Chein](https://liberalarts.temple.edu/academics/faculty/chein-jason) 
+- [Deborah Drabick](https://liberalarts.temple.edu/academics/faculty/drabick-deborah) 
+- [Tania Giovannetti](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania) 
+- [Elizabeth Gunderson](https://liberalarts.temple.edu/academics/faculty/gunderson-elizabeth) 
+- [Donald Hantula](https://liberalarts.temple.edu/academics/faculty/hantula-donald) 
+- [Kathy Hirsh-Pasek](https://liberalarts.temple.edu/academics/faculty/hirsh-pasek-kathryn) 
+- [Andrew Karpinski](https://liberalarts.temple.edu/academics/faculty/karpinski-andrew) 
+- [Philip Kendall](https://liberalarts.temple.edu/academics/faculty/kendall-philip-c)
+- [Peter Marshall](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j) 
+- [Michael McCloskey](https://liberalarts.temple.edu/academics/faculty/mccloskey-michael) 
+- [Nora Newcombe](https://liberalarts.temple.edu/academics/faculty/newcombe-nora) 
+- [Ingrid Olson](https://liberalarts.temple.edu/academics/faculty/olson-ingrid) 
+- [Thomas F. Shipley](https://liberalarts.temple.edu/academics/faculty/shipleythomas) 
+- [Ronald Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ronald) 
+- [Hongling Xie](https://liberalarts.temple.edu/academics/faculty/xie-hongling)
 
 ## Research Opportunities
 
