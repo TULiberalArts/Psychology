@@ -9,6 +9,8 @@ published: true
 
 ## Graduate Faculty and Research
 
+![BCS Faculty]({{site.baseurl}}/media/BCS-Photo-Oct-2017-web-copy.jpg){:.img-right}
+
 ## Brain and Cognitive Sciences Faculty & Research
 
 Faculty and students in the Brain and Cognitive Sciences Program are working on a wide range of research questions across the domains of cognition, perception, and neuroscience. Students in this program are presented with a unique opportunity for integrative work across a variety of perspectives. A list of faculty working in the BCS Program is given below, along with a brief indication of their research interests.
@@ -90,6 +92,8 @@ You should contact individual faculty members to seek their advice.
 Yes.
 
 ___
+
+![BCS Faculty]({{site.baseurl}}/media/ClinicalGroupPhoto.jpg){:.img-right}
 
 ## Clinical Psychology
 
