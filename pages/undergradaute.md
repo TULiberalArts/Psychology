@@ -150,4 +150,4 @@ Nicole Pileggi, M.Ed.<br>
 
 ## Research Opportunities
 
-For a list of current labs and research opportunities, please see the [Undergraduate Research]("undergraduate research") page. 
+For a list of current labs and research opportunities, please see the [Undergraduate Research]("undergraduate-research") page. 
