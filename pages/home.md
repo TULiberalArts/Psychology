@@ -18,26 +18,26 @@ Psychology students are encouraged to develop applied skills through focused exp
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title=" " 
+    title="Get Involved in Research!" 
     content=" " 
     image="" 
-    button-link=" " 
+    button-link="undergraduate-research" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
       title=" " 
-      content=" " 
+      content="Graduate Programs" 
       image="" 
-      button-link=" " 
+      button-link="graduate" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
+        title="Clinical Services" 
         content=" " 
         image="" 
-        button-link=" " 
+        button-link="resources/#clinical-services" 
         button-text="Learn More" %}
       </div>
 </div>
