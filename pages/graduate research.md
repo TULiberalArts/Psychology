@@ -25,19 +25,19 @@ Email: [jchein@temple.edu](mailto:jchein@temple.edu)
 
 ### BCS Faculty & Research Interests
 
-- [Debra Bangasser, Ph.D.](https://liberalarts.temple.edu/academics/faculty/bangasser-debra): Neurobiology of stress, anxiety, and learning (Currently Accepting Graduate Students)
-- [Lisa Briand, Ph.D.](https://liberalarts.temple.edu/academics/faculty/briand-lisa): Animal Models of Addiction (Currently Accepting Graduate Students)
-- [Jason Chein, Ph.D.](https://liberalarts.temple.edu/academics/faculty/chein-jason): Cognitive neuroscience (Currently Accepting Graduate Students)
+- [Debra Bangasser, Ph.D.](https://liberalarts.temple.edu/academics/faculty/bangasser-debra): Neurobiology of stress, anxiety, and learning - Currently Accepting Graduate Students
+- [Lisa Briand, Ph.D.](https://liberalarts.temple.edu/academics/faculty/briand-lisa): Animal Models of Addiction - Currently Accepting Graduate Students
+- [Jason Chein, Ph.D.](https://liberalarts.temple.edu/academics/faculty/chein-jason): Cognitive neuroscience - Currently Accepting Graduate Students
 - [Tania Giovannetti, Ph.D.](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania): Human neuropsychology & everyday action
-- [Elizabeth Gunderson, Ph.D.](https://liberalarts.temple.edu/academics/faculty/gunderson-elizabeth): Cognitive development; mathematical cognition (Currently Accepting Graduate Students)
-- [Peter Marshall, Ph.D.](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j): Developmental social cognitive neuroscience (Currently Accepting Graduate Students)
-- [Nora S. Newcombe, Ph.D.](https://liberalarts.temple.edu/academics/faculty/newcombe-nora): Cognition & Development (Currently Accepting Graduate Students)
-- [Ingrid Olson, Ph.D.](https://liberalarts.temple.edu/academics/faculty/olson-ingrid): Human memory, the interaction of memory, emotion, and language; Cognitive Neuroscience (Currently Accepting Graduate Students)
-- [Vinay Parikh, Ph.D.](https://liberalarts.temple.edu/academics/faculty/parikh-vinay): Neurochemical substrates of cognition and cognitive disorders (Currently Accepting Graduate Students)
-- [Thomas F. Shipley, Ph.D.](https://liberalarts.temple.edu/academics/faculty/shipleythomas): Spatial Perception & Cognition; Event perception; STEM Education (Currently Accepting Graduate Students)
-- [David Smith, Ph. D.](https://liberalarts.temple.edu/academics/faculty/smith-david): Cognitive & Decision Neuroscience (Currently Accepting Graduate Students)
+- [Elizabeth Gunderson, Ph.D.](https://liberalarts.temple.edu/academics/faculty/gunderson-elizabeth): Cognitive development; mathematical cognition - Currently Accepting Graduate Students
+- [Peter Marshall, Ph.D.](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j): Developmental social cognitive neuroscience - Currently Accepting Graduate Students
+- [Nora S. Newcombe, Ph.D.](https://liberalarts.temple.edu/academics/faculty/newcombe-nora): Cognition & Development - Currently Accepting Graduate Students
+- [Ingrid Olson, Ph.D.](https://liberalarts.temple.edu/academics/faculty/olson-ingrid): Human memory, the interaction of memory, emotion, and language; Cognitive Neuroscience - Currently Accepting Graduate Students
+- [Vinay Parikh, Ph.D.](https://liberalarts.temple.edu/academics/faculty/parikh-vinay): Neurochemical substrates of cognition and cognitive disorders - Currently Accepting Graduate Students
+- [Thomas F. Shipley, Ph.D.](https://liberalarts.temple.edu/academics/faculty/shipleythomas): Spatial Perception & Cognition; Event perception; STEM Education - Currently Accepting Graduate Students
+- [David Smith, Ph. D.](https://liberalarts.temple.edu/academics/faculty/smith-david): Cognitive & Decision Neuroscience - Currently Accepting Graduate Students)
 - [Robert Weisberg, Ph.D.](https://liberalarts.temple.edu/academics/faculty/weisberg-robert): Creativity
-- [Mathieu Wimmer, Ph.D.](https://liberalarts.temple.edu/academics/faculty/wimmer-mathieu): Epigenetics of addiction and memory (Currently Accepting Graduate Students)
+- [Mathieu Wimmer, Ph.D.](https://liberalarts.temple.edu/academics/faculty/wimmer-mathieu): Epigenetics of addiction and memory - Currently Accepting Graduate Students
 
 ### FAQ about the BCS Program
 
