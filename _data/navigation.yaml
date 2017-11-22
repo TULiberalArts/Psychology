@@ -4,6 +4,10 @@
   url: /graduate/
 - text: Faculty
   url: /faculty/
+- text: Undergraduate Research
+  url: /undergraduate-research/
+- text: Graduate Research
+  url: /graduate-research/
 - text: Research
   url: /research/
 - text: Resources
