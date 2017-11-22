@@ -17,9 +17,11 @@ Another opportunity to carry out research is through the [Psychology Honors Prog
 
 There are various opportunities to participate in psychology research studies at Temple. If you are a Temple student, one way to find out more about participating in research is through the Sona Systems site at: [temple.sona-systems.com](https://temple.sona-systems.com).
 
+___
+
 ## Faculty Sponsors for Collaborative Research
 
-## Description of project(s) on which students might work:
+### Description of project(s) on which students might work:
 
 Name: Dr. Lauren Alloy<br>
 Office: 762 Weiss Hall<br>
@@ -75,8 +77,8 @@ Assisting in research in our lab is best suited for students who are interested 
 
 - **Headings/Tags/Keywords: stress, sex difference, attention, depression, post-traumatic stress disorder**
 
-Lab:  Behavioral Neurophysiology Lab<br>
-PI:  Lisa Briand<br>
+Lab: Behavioral Neurophysiology Lab<br>
+PI: Lisa Briand<br>
 Website:  [http://www.briandlab.com/](http://www.briandlab.com/)<br>
 Contact Person: Lisa Briand, [lbriand@temple.edu](mailto:lbriand@temple.edu)<br>
 
