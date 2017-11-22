@@ -173,4 +173,4 @@ The following faculty members are willing to sponsor students for the 4+1 progra
 
 ## Research Opportunities
 
-For a list of current labs and research opportunities, please see the [Undergraduate Research]("undergraduate-research") page. 
+For a list of current labs and research opportunities, please see the [Undergraduate Research](https://develop.cla.temple.edu/psychology/undergraduate-research/) page. 
