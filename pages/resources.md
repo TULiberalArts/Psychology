@@ -22,6 +22,30 @@ The Adult Anxiety Clinic of Temple (AACT) is an internationally known center for
 
 The CAADC is an internationally renowned research and training clinic that offers assessment and cognitive-behavioral treatment of anxiety in youth ages 7 to 17 years. Common concerns of the youth who come to the CAADC include generalized worry, social anxiety, phobias, separation anxiety, panic symptoms, and anxiety-related school refusal. All services are provided by advanced doctoral students and supervised by licensed clinical psychologists. Daytime and evening appointments are available, and fees are based on a sliding scale. For further information or to complete a telephone screening to determine if our services fit your needs, please leave a voice message for our clinic coordinator at (215) 204-7165. For more information, please look at our [website](http://www.childanxiety.org/) or download a [CAADC brochure](http://www.cla.temple.edu/psychology/files/2013/11/CAADC_Brochure.pdf).
 
+## Opportunities to Participate in Research: Non Temple Students
+
+For those who are not Temple students, below is a list of research groups organized by the age groups of people that typically participate in their research studies. Please click the specific links for more information on current studies.
+
+### Infants and Young Children (1-4 years)
+- [Developmental Science Lab](http://www.temple.edu/devscilab/)
+- [Temple Infant and Child Lab](http://www.temple.edu/infantlab/) (Ambler campus)
+- [Temple Cognition & Learning Lab](http://sites.temple.edu/cognitionlearning/)
+
+### Older Children (5-12 years)
+
+- [Temple Cognition & Learning Lab](http://sites.temple.edu/cognitionlearning/)
+
+### Adolescents
+
+- [Mood and Cognition Lab](http://www.temple.edu/moodandcognitionlab/) (ages 14-16 years)
+- [Temple University Neurocognition Lab](http://www.temple.edu/tunl/)
+- [Adolescent Decision Making Lab](http://www.laurencesteinberg.com/research/current-projects)
+
+### Adults
+
+- [Research in Spatial Cognition Lab](http://sites.temple.edu/risc/)
+- [Mechanisms of Affect Dysregulation Lab](http://sites.temple.edu/madlab/)
+
 ## Undergraduate Resources
 
 ## Honors Psychology Program
