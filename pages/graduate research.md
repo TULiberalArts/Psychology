@@ -9,7 +9,7 @@ published: true
 
 ## Graduate Faculty and Research
 
-![BCS Faculty]({{site.baseurl}}/media/BCS-Photo-Oct-2017-web-copy.jpg){:.img-right}
+![BCS Faculty]({{site.baseurl}}/media/Resized BCS-Photo-Oct-2017-web-copy.png){:.img-right}
 
 ## Brain and Cognitive Sciences Faculty & Research
 
