@@ -97,9 +97,7 @@ The Department of Psychology has four Ph.D Programs:
 - Developmental
 - Social 
 
-A student is ultimately accepted into a specific program. However, all Ph.D. applicants must meet the requirements for admission.
-
-Please visit the [Psychology Graduate Admissions](https://liberalarts.temple.edu/admissions/graduate/psychology) page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+A student is ultimately accepted into a specific program. However, all Ph.D. applicants must meet the requirements for admission. Please visit the [Psychology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/psychology) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Graduate Contact
 
