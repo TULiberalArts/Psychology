@@ -3,10 +3,9 @@ title: Graduate
 permalink: /graduate/
 layout: page
 keywords: 'graduate, phd, students, Psychology program'
-description: >-
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Peter Marshall, Ph.D  
    656 Weiss Hall  
@@ -68,7 +67,7 @@ sidebar-content: > #
    Nicole Pileggi, M.Ed.  
    616 Weiss Hall    
    [(215) 204-3403](tel:2152043403)   
-   [nicole.pileggi@temple.edu](mailto:nicole.pileggi@temple.edu)  
+   [nicole.pileggi@temple.edu](mailto:nicole.pileggi@temple.edu)
 ---
 
 ## Program Overview
@@ -92,80 +91,15 @@ Some of the laboratories and research groups of BCS Faculty members are also par
 
 ## Admissions Process
 
-The Department of Psychology has four Ph.D Programs: Brain and Cognitive Sciences, Clinical, Developmental, and Social. A student is ultimately accepted into a specific program. However, all Ph.D. applicants must meet the requirements for admission.
+The Department of Psychology has four Ph.D Programs: 
+- Brain and Cognitive Sciences
+- Clinical
+- Developmental
+- Social 
 
-## Requirements for Admission
+A student is ultimately accepted into a specific program. However, all Ph.D. applicants must meet the requirements for admission.
 
-The Department of Psychology has several Ph.D. programs (Brain and Cognitive Sciences, Clinical, Developmental, and Social). A student is ultimately accepted into a specific program. However, all Ph.D. applicants must meet the requirements for admission listed below.
-
-- **Coursework Required for Admission Consideration**: Applicants to the doctoral program must hold a B.A. or B.S. degree and must have completed at least four 3-credit courses in Psychology, including one laboratory course in Psychology or a research methods course in Psychology. In addition, a Natural Sciences laboratory course is recommended and a Statistics course is required.
-
-- **The GRE: We require verbal and quantitative GRE scores**. On the new GRE, the minimum scores are 153 verbal, 151 quantitative, and 305 total.  On the old GRE, the minimum scores are 500 verbal, 650 quantitative, and 1150 total GRE.  The GRE Subject Exam in Psychology is optional. Please have your GRE scores sent to Temple University electronically by ETS; our code is 2906. Applicants with GRE scores below these minima, but who can provide other evidence of strong academic credentials, will be seriously considered. We accept GRE scores up to five years after the test was taken. Applicants with GRE scores older than 5 years should re-take the test.
-
-- **Undergraduate GPA**: A minimum undergraduate GPA of 3.25; or a minimum undergraduate GPA during the last two years of undergraduate education of 3.5; or a minimum graduate GPA of 3.25 with at least 9 credits of graduate coursework. In extenuating circumstances, we may consider applicants with slightly lower GPAs.
-- Letters of recommendation: Arrange for three letters of recommendation from persons familiar with your abilities and scholarly potential, including, if possible, two from professors in your major subject.  The instructions for how those letters should be submitted by the letter writers are given later, as you work through the application process.
-
-- **Proficiency in English**:  A test demonstrating proficiency in English is required of all applicants who are not native speakers of English, except applicants with an undergraduate or graduate degree conferred by an American university, who are exempt from the English proficiency requirements. Students who have received their undergraduate degrees from non-English-speaking institutions must demonstrate proficiency in English.  Proficiency in English can be demonstrated by performance on the TOEFL, International English Language Testing System (IELTS Academic),or the Pearson Test of Academic English (PTE Academic).  Test scores should be electronically sent to the institutional code 2906.  The minimum TOEFL score needed for acceptance is as follows: 620 paper-based, 260 computer-based, or 105 internet-based. Individuals for whom English is not a first language must achieve a minimum score of 28 on the internet-based TOEFL speaking section or a minimum score of 55 on the Test of Spoken English.  The minimum test score for the IELTS Academic is 7.5.  The minimum score required for the Pearson Test of Academic English is 53.
-
-- **International applicants** should consult the page at [http://www.temple.edu/grad/admissions/international.htm](http://www.temple.edu/grad/admissions/international.htm) to make sure that they meet the requirements for degree equivalency listed there.
-
-All completed applications are reviewed. If you do not meet one or more of the admission requirements (e.g., lacking a lab course; a GRE score below the minimum) your application, if complete, will be reviewed.
-
-## Application Procedure
-
-The application deadline is **December 1, 2017. The Social Psychology Program is not accepting Ph.D. students into the program for the 2018-2019 academic year**. Before preparing your application please read our requirements for admission. 
-
-## How to Apply:
-
-### Clinical Psychology Program:(**THE BULLETIN IS NOT UPDATED WITH THE CORRECT INFORMATION. THIS CONTENT BELOW NEEDS TO STAY UNTIL THEY UPDATE THE BULLETIN**)
-
-1. **Complete the initial application to the Graduate School at Temple**.
-a. Visit [http://www.temple.edu/apply/common/appcheck.asp](http://www.temple.edu/apply/common/appcheck.asp) and follow the directions to apply online.
-b. After filling in your personal information you will be asked to select a program. Select “Psychology/PhD” and then select your specific area of concentration (Brain and Cognitive Sciences, Clinical, Developmental, or Social).
-c. Complete the application, submit, and pay electronically. Print out a copy of the application for your files.
-
-_NOTE: When you are working on the Statement of Goals (item 23 in the application), which is required of all students, here are some guidelines to assist you.  Your statement of goals should emphasize your individual strengths, interests, and future objectives. The quality of your statement may be critical for acceptance into the program, as well as for any financial aid.
-
-2. **Return to this page to prepare additional application materials**.
-a. Download and complete the four page [Graduate Data Sheet](https://liberalarts.temple.edu/sites/liberalarts/files/PsychGradDataSheetOct20151.pdf) that is required to accompany the Temple University Application for Graduate Study.
-b. Please prepare a resumé (also called a CV in academic circles).
-c. Have available the Statement of Goals from your on-line application.
-
-3. **Submitting additional materials for your application**.
-a. We use Interfolio to collect and submit the additional application materials. Please create an account at [www.interfolio.com](www.interfolio.com) to submit your materials. There is a fee for opening an Interfolio account, but it is worth it for the convenience that it will bring to you and those who write letters for you.
-
-b. Request three confidential letters of recommendation from your evaluators through your Interfolio account.  Please note that obtaining letters of recommendation through your Interfolio account replaces the stipulation on the graduate school application instructions that paper reference reports for Psychology applicants should be returned sealed to the applicant, who will then forward them with all other application materials in one complete package to the department.  When you use Interfolio to obtain your letters of recommendation, you DO NOT need to have paper copies of the letters mailed to you or send them via postal mail to the department.  You can ignore instructions, including those on the Temple University Graduate School site, that say otherwise.  All we need are letters sent through Interfolio.  In addition, we do not have any other forms for your letter writers to fill out.  All we require is a letter.  There is no summary rating or evaluation form.
-
-c. Have your official Transcripts Sent to Temple University Psychology Department. Request that transcripts from all your undergraduate institutions (including those from which you did not receive a degree) be sent to Temple University Department of Psychology.  If you have completed graduate credits, transcripts from those institutions should also be sent to us. All official transcripts should be sent to the following address:
-
-Graduate Coordinator<br/>
-Dept. of Psychology<br/>
-657 Weiss Hall (265-67)<br/>
-1701 North 13th Street<br/>
-Philadelphia, PA 19122-6085<br/>
-
-d. Upload copies of your transcripts to your Interfolio Account. These can be unofficial or student copies of transcripts. Graduate transcripts (if applicable) should also be uploaded here. We need these unofficial transcripts so that we will have electronic versions of all your important documents in your Interfolio file, in addition to the official versions sent to the Psychology Department.
-
-e.  In addition to the copies of your transcripts, please upload the following required application materials to your Interfolio account. The completed [Graduate Data Sheet](https://liberalarts.temple.edu/sites/liberalarts/files/PsychGradDataSheetOct20151.pdf), your Statement of Goals (which Interfolio calls a Personal Statement), and your CV.  If available, copies of any publications can also be uploaded.
-
-f.  Once you have your application materials pulled together, please do the following to have your application submitted to the department.
-- Start a new “Delivery” within Interfolio.
-- Search for “Temple” to pull up the entry for the appropriate program.
-- Add the appropriate documents to be submitted.
-- Select “Electronic Delivery” as the delivery method.
-- Check out your delivery.
-- You will receive email confirmation from Interfolio when your delivery is complete.
-
-Please make sure that all those documents are sent to us through Interfolio and are not up-loaded to your Temple application. The documents just listed are separate from your Temple application, and must be submitted through Interfolio if we are to receive them.
-
-Your Interfolio account is not linked to your application to the Graduate School at Temple. Therefore, after you send your documents through Interfolio, your Temple Graduate School application may list missing documents (i.e., those submitted through Interfolio). Do not be concerned, as this is a procedural matter only. If your application is missing any necessary documents, we will contact you. No one will be rejected because of missing documents. If you do not hear from us requesting any information, then you can rest assured that your application is complete.
-
-4. **Have your test scores sent to Temple**. 
-Please have your GRE scores (and English proficiency scores if required) sent to Temple University electronically by ETS; the Temple University code is 2906.
-
-### Brain and Cognitive Sciences, Developmental, or Social Psychology
-
-- Applications for the Brain and Cognitive Sciences, Developmental, or Social Psychology see the [Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext). **Please note that the PSYCAS portal cannot be used to apply to the Clinical program**.
+Please visit the [Psychology Graduate Admissions](https://liberalarts.temple.edu/admissions/graduate/psychology) page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Graduate Contact
 
