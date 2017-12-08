@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: home
+layout: home3
 keywords: 'Psychology, research, students, courses'
 description: >-
   Students develop critical thinking skills through courses that emphasize the scientific basis of psychology, statistical      
