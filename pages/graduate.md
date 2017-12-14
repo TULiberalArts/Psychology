@@ -107,7 +107,7 @@ Director of Graduate Studies<br/>
 _**Does the Psychology Department offer a master’s degree?**_
 No. All students are accepted and enrolled in our full-time Ph.D. program in psychology.
 
-_**Does the Psychology Department accept part-time students?**__
+_**Does the Psychology Department accept part-time students?**_
 No, we do not. The graduate program is a full-time program.
 
 _**Can you send me information about your program and an application packet in the mail?**_
