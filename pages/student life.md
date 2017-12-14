@@ -22,9 +22,9 @@ PMA strives to provide opportunities for students to enhance the understanding a
 Instructions: Membership forms can be picked up either during scheduled office hours or on the table outside of our office in Weiss Hall room 405. They may be dropped off in our mailbox in the 6th floor mail room of Weiss Hall or to one of our executive board members during office hours. With any questions or concerns, emails are to be sent to: pma.temple@gmail.com
 
 ### PMA Officers
-
+![Ross Divers]({{site.baseurl}}/media/resized Ross-Divers-2.jpg){:.img-right}
 **Ross Divers, President**
-Ross is a junior psychology major, with a Cognitive Neuroscience minor.  He currently serves as the President of the Psychology Major’s Association and the local chapter of Psi Chi Honor Society.  Ross is also a research assistant in the Adolescent Development of Emotion, Personality, and Psychopathology lab, working with Dr. Olino, as well as the Cognitive Neuropsychology lab with Dr. Giovannetti, where he was named a Diamond Research Scholar.  He plans on pursuing a career in neuropsychology.  In his spare time,  he likes to cook, read, and explore Philadelphia.
+Ross is a junior psychology major, with a Cognitive Neuroscience minor. He currently serves as the President of the Psychology Major’s Association and the local chapter of Psi Chi Honor Society.  Ross is also a research assistant in the Adolescent Development of Emotion, Personality, and Psychopathology lab, working with Dr. Olino, as well as the Cognitive Neuropsychology lab with Dr. Giovannetti, where he was named a Diamond Research Scholar. He plans on pursuing a career in neuropsychology.  In his spare time,  he likes to cook, read, and explore Philadelphia.
 
 **Annabelle Recierdo, Vice President**
 Annabelle is a senior Psychology major with a Sociology minor. She currently serves as the Vice President of the Psychology Majors Association, and the local chapter of The National Society of Leadership and Success. Annabelle is also a research assistant in the Adolescent Development of Emotion, Personality, and Psychopathology Lab and The Equity and Outcomes Lab. She plans to pursue a career in School Psychology. In Annabelle’s spare time, she enjoys riding her bike around the city, going to concerts, and collecting antiques.
