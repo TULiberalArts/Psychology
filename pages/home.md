@@ -53,7 +53,7 @@ The dedicated academic advisor for Psychology is available to meet with students
         title="Clinical Services" 
         content="Three specific clinical services are offered through the department: Psychological Services Center (PSC), Adult Anxiety Clinic and the Child and Adolescent Anxiety Disorders Clinic (CAADC)." 
         image="" 
-        button-link="resources/#clinical-services" 
+        button-link="resources/clinical-services" 
         button-text="Learn More" %}
       </div>
 </div>
