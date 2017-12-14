@@ -87,7 +87,9 @@ The department of psychology has 4 areas of study in the doctoral program. They 
 
 ## New for 2016! Interdisciplinary Program in Decision Neuroscience
 
-Some of the laboratories and research groups of BCS Faculty members are also part of a new interdisciplinary PhD program in Decision Neuroscience. The program is currently being coordinated through the Fox School of Business at Temple and is accepting graduate students for Fall 2016. Please click [here](http://www.fox.temple.edu/cms_academics/phd/decision-neuroscience/) for more information.
+Some of the laboratories and research groups of BCS Faculty members are also part of a new interdisciplinary PhD program in Decision Neuroscience. The program is currently being coordinated through the Fox School of Business at Temple and is accepting graduate students for Fall 2016. Please see the 
+
+Learn more about the [PhD in Decision Neuroscience](http://www.fox.temple.edu/cms_academics/phd/decision-neuroscience/).
 
 ## Admissions Process
 
@@ -192,4 +194,4 @@ Yes.
 
 ## Careers
 
-Individuals earning Ph.D. degrees in Psychology have moved on to a variety of interesting and fulfilling positions.  We have been consistently successful in placing our graduates in the types of positions they were hoping to obtain. At the present time, it is typical for most individuals with newly-earned Psychology Ph.D. degrees to go on to postdoctoral research positions, and this holds for our students as well.  Many of our graduates secure prestigious postdoctoral positions, where they bring their skills and knowledge to the highest levels.  Many of those students then obtain faculty positions at well-known institutions, where they carry out cutting-edge research in diverse areas from behavioral neuroscience to clinical science.  Other students obtain research positions in industry.
+Individuals earning Ph.D. degrees in Psychology have moved on to a variety of interesting and fulfilling positions. We have been consistently successful in placing our graduates in the types of positions they were hoping to obtain. At the present time, it is typical for most individuals with newly-earned Psychology Ph.D. degrees to go on to postdoctoral research positions, and this holds for our students as well. Many of our graduates secure prestigious postdoctoral positions, where they bring their skills and knowledge to the highest levels. Many of those students then obtain faculty positions at well-known institutions, where they carry out cutting-edge research in diverse areas from behavioral neuroscience to clinical science. Other students obtain research positions in industry.
