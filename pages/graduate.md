@@ -71,6 +71,7 @@ sidebar-content: |
 ---
 
 ## Program Overview
+![Behavior Lab]({{site.baseurl}}/media/resized Behavior-Lab-3.jpg){:.img-right}
 
 The largest doctoral program in the College of Liberal Arts, the Psychology Department offers concentrations in Clinical Psychology, Developmental Psychology, Brain and Cognitive Sciences, and Social Psychology.  Graduate students have the opportunity to participate in an interdisciplinary program in Developmental Psychopathology and an interdisciplinary certificate program in Neuroscience.
 
