@@ -79,6 +79,61 @@ The Temple University Undergraduate Psychology program provides a modern curricu
 
 Students are strongly encouraged to develop applied skills through rigorous and highly focused experiential learning in research laboratories and community–based internships. The curriculum is designed to be sufficiently flexible to satisfy the diversity of needs among undergraduates. As such an individually tailored curriculum may be selected for the purpose of preparing students for employment or further study in psychology, neuroscience, medicine, law, business, or other fields.
 
+## Honors Psychology Program
+
+The Honors Psychology program is designed to be a 2-year study that begins with a yearlong investigation of methodology, critical thinking and writing. In the second year, the program culminates in the production of a senior thesis that is presented at the student poster session. Each semester, the class explores a new topic in-depth. Student-led discussions complement traditional lectures, encouraging students to engage fully with the course content.
+
+The Honors Psychology program has several main goals. First, students may expect an integrated panoramic view of the field of psychology, from its historical roots to current perspectives. Second, the program will provide students with a foundation in scientific methodology. Students will then take that knowledge to design, implement, and analyze data for their senior thesis.  Third, this hands-on experience is designed to encourage students to grapple with key theoretical and research ideas related to their particular interest. Additionally, the program offers an intimate and individualized experience to prepare students for the future career paths to which they aspire.
+
+Students who are psychology majors with a 3.5 GPA (or higher) may receive an invitation to attend an informational session during the spring semester of their second year of study at Temple. The informational session is an opportunity to learn more about the program. Upon entering the honors program, students must maintain at least a 3.5 GPA throughout the duration of the honors program.
+
+For more information please contact:
+
+Ms. Nicole Pileggi<br>
+Undergraduate Advisor<br>
+616 Weiss Hall<br> 
+[nicole.pileggi@temple.edu](nicole.pileggi@temple.edu)<br>
+
+## Psychology Internship and Practicum
+
+### Psychology Internship And Practicum (Psych 3785/3787)
+
+The Psychology Internship/Practicum is a course that is designed to give you experience in the work-world and, as such, is unlike most other courses you will take.  You will have dual responsibility:  to provide the best service possible to your agency/school/company (you will be, in some sense, an ambassador for Temple and for the Department), and to communicate regularly with me.
+
+This course is called Internship (Psych 3785) the first semester; if taken a second semester (at either the same or a different location) it is called Practicum (Psych 3787).  You can receive anywhere from 1-12 credits per course. Credits are determined by how many hours you would be working at the internship site.  PLEASE NOTE that these credits can fulfill upper level CLA requirements for graduation but CANNOT BE APPLIED TOWARD THE MAJOR REQUIREMENTS.  Also, note that this is one of the rare classes you cannot retake in a following semester and have the most recent grade supplant your prior grade in terms of your GPA calculation (thus, take your internship seriously!).
+
+To gain an internship, you are asked to review the list of pre-approved sites, or consult with CLA on the College list of sites.  Choose sites that represent the type of work experience you would like.  You contact the site, identify yourself as a Temple undergraduate majoring in Psychology, and ask if they have an internship available for the semester in which you are interested.  If yes, they may want to interview you in person, or via phone.  You should always be prepared with questions to ask them. If you do decide to take an internship, then you must make a registration appointment with Nicole Pileggi [nicole.pileggi@temple.edu](mailto:nicole.pileggi@temple.edu), as this is by special authorization only.  You must bring to that meeting the name of the site, and the supervisor’s name and contact information.  You must also update Nicole Pileggi should the supervisor’s name and/or contact information change during the course of your internship.
+
+In addition, if there is any potential conflict of interest between yourself and your supervisor, it needs to be documented at the start of the semester.  Sample conflicts of interest are as follows:  your supervisor is some (by blood or marriage) relative to yourself; your supervisor is a friend of your family; or you have had some form of romantic relationship with your supervisor.  Such conflicts of interest may be easily navigated in some cases but in others may prevent you from working with that supervisor.  By contacting Dr. James at the start of the semester regarding such conflicts of interest we can discuss how best to serve you in PSY 3785/3787.  Failing to report such known conflicts of interest to Dr. James will result in a failing grade.
+
+**The requirements for the course are as follows:**
+
+- Excellent performance in your job. You are required to spend 3 – 4 hours a week on the job per credit if taking Internship during Fall or Spring semesters.  For example, 3 credits requires 9 – 12 hours per week at the internship site.  Different arrangements apply to Summer Internship (6 – 7 hours a week per credit if taken for 6 weeks).
+
+- Meetings with Dr. James during the semester. You are required to meet with Dr. James twice a semester:  roughly late in the first half of the semester and also toward the end of the semester (I will send notices regarding this).  Because of the condensed format of summer 1 and summer 2 internships there will be only a single required meeting around mid-semester (which can be in the form of a phone meeting if one is at a distant internship site).  All are welcome to stop in during my posted office hours or schedule an appointment to meet via email.
+
+- Bi-weekly reports (designated BWRs) during the fall and spring and weekly reports in the summer 1 & summer 2 semesters will be uploaded to their course-designated online links. Each report MUST begin with:  Your name; the number of credit hours of internship credits for which you are enrolled; your internship site & supervisor’s name; the number of hours you logged at your internship site during the current report; the total time to date spent at your internship site so far this semester. For example:
+
+Peter James
+3 credits
+TU psychology department – Dr. Peter Marshall (supervisor)
+18 hrs this report period
+18 hrs total this semester (as this is the first report)
+The other new interns and I completed our training this week and began to …
+
+The content and bulk of the text for your reports is flexible.  All should include at least a summary (if not specific details) of your internship experience for the current reporting period but this does not need to be the bulk of the text of any single report.
+
+The reports minimally need to be 500 words each and should give me a good idea of what you have been doing and any new skills or experience you are gaining.  If a report is under 500 words, it will receive a zero grade.  Additionally, reports can be about what you expect to happen moving forward, for example, when you set an appointment to speak with your supervisor about your last day and if there will be an exit interview.  Basically, if it is something you feel is notable (good or bad) about your internship, then it is apt for your report.  Due dates for posted updates can be found on the blackboard site.
+
+A final paper centered on your work internship experience. Separate guidelines for that paper are online under course content.  The reports you submit over the semester can be a valuable resource for you to construct this final paper.
+
+Your grade will be determined by your work evaluation (50%), your journal entries (15%), semester meetings with Dr. James (totaling 10%) and your final paper (25%).
+
+Peter James, Ph.D.<br>
+Associate Chair, Psychology Department<br>
+617 Weiss Hall<br>
+[pjames@temple.edu](mailto:pjames@temple.edu)<br>
+
 ## Psychology 5-Year Master’s Program (+1)
 
 ### Program Description
