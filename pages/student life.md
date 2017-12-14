@@ -8,7 +8,7 @@ published: true
 ---
 
 ## Psychology Majors Association (PMA)
-
+![Student Life]({{site.baseurl}}/media/resized student life 1.jpg){:.img-right}
 ### Mission Statement/Statement of Purpose
 
 PMA strives to provide opportunities for students to enhance the understanding and appreciation of psychology through a variety of social and professional activities that one would not encounter in the classroom. PMA creates environments where students can participate in volunteer work, field trips, learn about post-graduation options, as well as furthering career opportunities. We strongly encourage and assist students in networking and creating strong connections with faculty members in order to build their skills and develop the abilities needed to succeed in their respective fields.
