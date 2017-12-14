@@ -80,10 +80,10 @@ Students Interested in receiving a Specialization in Neuroscience through the Ne
 
 The department of psychology has 4 areas of study in the doctoral program. They are:
 
-- [Brain and Cognitive Sciences](graduate-research/brain-and-cognitive-sciences)
-- [Clinical Psychology](graduate research/clinical-psychology)
-- [Developmental Psychology](graduate research/developmental-psychology)
-- [Social Psychology](graduate research/social-psychology)
+- [Brain and Cognitive Sciences](graduate-research/#Brain and Cognitive Sciences Faculty & Research)
+- [Clinical Psychology](graduate-research/#Clinical Psychology)
+- [Developmental Psychology](graduate-research/#Developmental Psychology)
+- [Social Psychology](graduate-research/#social psychology)
 
 A student is ultimately accepted into a specific program. However, all Ph.D. applicants must meet the requirements for admission. Please visit the [Psychology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/psychology) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
