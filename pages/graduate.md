@@ -74,32 +74,24 @@ sidebar-content: |
 
 The largest doctoral program in the College of Liberal Arts, the Psychology Department offers concentrations in Clinical Psychology, Developmental Psychology, Brain and Cognitive Sciences, and Social Psychology.  Graduate students have the opportunity to participate in an interdisciplinary program in Developmental Psychopathology and an interdisciplinary certificate program in Neuroscience.
 
-Students Interested in receiving a Specialization in Neuroscience through the Neuroscience Program should visit their [website](mailto:http://www.cla.temple.edu/neuroscience/).
+Students Interested in receiving a Specialization in Neuroscience through the Neuroscience Program should visit the [Neuroscience Program Website](http://www.cla.temple.edu/neuroscience/).
 
 ## Programs of Study
 
 The department of psychology has 4 areas of study in the doctoral program. They are:
 
-- [Brain and Cognitive Sciences](graduate research/brain-and-cognitive-sciences)
+- [Brain and Cognitive Sciences]("graduate research/brain-and-cognitive-sciences")
 - [Clinical Psychology](graduate research/clinical-psychology)
 - [Developmental Psychology]graduate research/developmental-psychology)
 - [Social Psychology](graduate research/social-psychology)
+
+A student is ultimately accepted into a specific program. However, all Ph.D. applicants must meet the requirements for admission. Please visit the [Psychology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/psychology) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## New for 2016! Interdisciplinary Program in Decision Neuroscience
 
 Some of the laboratories and research groups of BCS Faculty members are also part of a new interdisciplinary PhD program in Decision Neuroscience. The program is currently being coordinated through the Fox School of Business at Temple and is accepting graduate students for Fall 2016. Please see the 
 
 Learn more about the [PhD in Decision Neuroscience](http://www.fox.temple.edu/cms_academics/phd/decision-neuroscience/).
-
-## Admissions Process
-
-The Department of Psychology has four Ph.D Programs: 
-- Brain and Cognitive Sciences
-- Clinical
-- Developmental
-- Social 
-
-A student is ultimately accepted into a specific program. However, all Ph.D. applicants must meet the requirements for admission. Please visit the [Psychology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/psychology) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Graduate Contact
 
@@ -108,11 +100,6 @@ For questions related to the graduate program offerings in general, please conta
 Dr. Deborah Drabick<br/>
 Director of Graduate Studies<br/>
 [deborah.drabick@temple.edu](mailto:deborah.drabick@temple.edu)<br/>
-
-## Graduate Handbook
-
-APPROVED BY THE GRADUATE COMMITTEE, June 2008; most recent revision, August 2015.
-
 - [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Psychology%20Graduate%20Handbook.pdf)
 
 ## FAQ about the Psychology Graduate Program
