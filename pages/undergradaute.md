@@ -154,4 +154,5 @@ The following faculty members are willing to sponsor students for the 4+1 progra
 
 ## Research Opportunities
 
-For a list of current labs and research opportunities, please see the [Undergraduate Research](https://develop.cla.temple.edu/psychology/undergraduate-research/) page. 
+For a list of current labs and research opportunities, please see the [Department of Psychology
+Collaborative Research Register of Faculty Sponsors](https://liberalarts.temple.edu/sites/liberalarts/files/Department-of-Psychology-Collaborative-Research-2017-2018.pdf) (pdf) which lists all current opportunities, requirements, lab and research project descriptions and applications to apply. 
