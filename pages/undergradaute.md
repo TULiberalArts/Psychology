@@ -72,7 +72,7 @@ sidebar-content: |
 ---
 
 ## Program Overview
-![Brhavior Lab 2]({{site.baseurl}}/media/resized Behavior-Lab 2-1024x638.jpg){:.img-right}
+![Behavior Lab 2]({{site.baseurl}}/media/resized Behavior-Lab 2-1024x638.jpg){:.img-right}
 The Department of Psychology has a strong commitment to scholarly and scientific excellence. It has been heralded as one of the most diverse universities in the nation. This setting offers exciting opportunities for research and scholarly discourse.
 
 The Temple University Undergraduate Psychology program provides a modern curriculum covering a breadth of content, ranging from biological bases of cognition and behavior to sociocultural influences on human interactions and psychological disorders. The curriculum is designed to develop students’ critical thinking skills through emphasis of the scientific basis of Psychology and courses in statistics and research methodology. The program also emphasizes the integration and synthesis of information across courses and activities through the stepwise progression of the curriculum from the introductory, foundational, and advanced classes up to the final capstone course that is taken in the senior year.
