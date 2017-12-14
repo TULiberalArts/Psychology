@@ -80,7 +80,7 @@ Students Interested in receiving a Specialization in Neuroscience through the Ne
 
 The department of psychology has 4 areas of study in the doctoral program. They are:
 
-- [Brain and Cognitive Sciences](graduate-research/#Brain and Cognitive Sciences Faculty & Research)
+- [Brain and Cognitive Sciences](graduate-research/#brain-and-cognitive-sciences-faculty-&-research)
 - [Clinical Psychology](graduate-research/#Clinical Psychology)
 - [Developmental Psychology](graduate-research/#Developmental Psychology)
 - [Social Psychology](graduate-research/#social psychology)
