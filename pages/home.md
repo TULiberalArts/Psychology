@@ -7,8 +7,9 @@ description: >-
 feature: true
 feature-title: 
 feature-body: >-
-  The Psychology curriculum includes foundational courses that cover a breadth of content, ranging 
-  from the biological bases of cognition and behavior to sociocultural influences on human interactions.
+  The Department of Psychology has a threefold mission: To answer questions on the cutting edge of psychology research,
+  to provide training to undergraduate and graduate students in the broad fields of psychology, and to provide individuals
+  and the community with psychological services based on the best current practices in psychology.
 feature-image: media/Psych hero.png
 published: true
 ---
@@ -42,7 +43,7 @@ The dedicated academic advisor for Psychology is available to meet with students
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
       title="Graduate Programs" 
-      content="NEEDS SHORT DESCRIPTION" 
+      content="Our department houses top-quality scientists and excellent teachers on our faculty. We also employ specialized  psychologists practicing in the Philadelphia region as adjuncts to provide additional educational opportunities for our students." 
       image="" 
       button-link="graduate" 
       button-text="Learn More" %}
@@ -50,7 +51,7 @@ The dedicated academic advisor for Psychology is available to meet with students
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
         title="Clinical Services" 
-        content="NEEDS SHORT DESCRIPTION" 
+        content="Three specific clinical services are offered through the department: Psychological Services Center (PSC), Adult Anxiety Clinic and the Child and Adolescent Anxiety Disorders Clinic (CAADC)." 
         image="" 
         button-link="resources/#clinical-services" 
         button-text="Learn More" %}
