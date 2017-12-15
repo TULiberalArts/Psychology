@@ -94,10 +94,15 @@ Some of the laboratories and research groups of BCS Faculty members are also par
 
 Learn more about the [PhD in Decision Neuroscience](http://www.fox.temple.edu/cms_academics/phd/decision-neuroscience/).
 
+## Careers
+Individuals earning Ph.D. degrees in Psychology have moved on to a variety of interesting and fulfilling positions. We have been consistently successful in placing our graduates in the types of positions they were hoping to obtain. At the present time, it is typical for most individuals with newly-earned Psychology Ph.D. degrees to go on to postdoctoral research positions, and this holds for our students as well. Many of our graduates secure prestigious postdoctoral positions, where they bring their skills and knowledge to the highest levels. Many of those students then obtain faculty positions at well-known institutions, where they carry out cutting-edge research in diverse areas from behavioral neuroscience to clinical science. Other students obtain research positions in industry.
+
+**_For questions related to the graduate program offerings in general, please contact:_**
+
+Dr. Deborah Drabick<br/>
+Director of Graduate Studies<br/>
+[deborah.drabick@temple.edu](mailto:deborah.drabick@temple.edu)<br/>
+
+### Graduate Resources 
 - [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Psychology%20Graduate%20Handbook.pdf)
 - [Psychology Gradyate Program FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/FAQ%20about%20the%20Psychology%20Graduate%20Program.pdf)
-
-
-## Careers
-
-Individuals earning Ph.D. degrees in Psychology have moved on to a variety of interesting and fulfilling positions. We have been consistently successful in placing our graduates in the types of positions they were hoping to obtain. At the present time, it is typical for most individuals with newly-earned Psychology Ph.D. degrees to go on to postdoctoral research positions, and this holds for our students as well. Many of our graduates secure prestigious postdoctoral positions, where they bring their skills and knowledge to the highest levels. Many of those students then obtain faculty positions at well-known institutions, where they carry out cutting-edge research in diverse areas from behavioral neuroscience to clinical science. Other students obtain research positions in industry.
