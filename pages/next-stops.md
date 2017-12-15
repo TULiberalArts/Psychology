@@ -32,6 +32,8 @@ After graduation, our students pursue a diverse range of careers, such as:
 - Neuropsychology (PhD)
 - Medical School (MD, DO)
 
+## Notable Alumni
+
 ## Careers
 
 An undergraduate degree in Psychology affords many opportunities for careers and further study at the graduate level, because the knowledge and skills learned through the major (e.g., critical thinking, human behavior) are important to many disciplines. Psychology majors are often employed in management positions, real estate, sales, marketing, social services, and labor relations. Many psychology majors also go on to graduate study in psychology or other fields, including law, medicine, and business school.
