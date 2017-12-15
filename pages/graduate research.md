@@ -103,7 +103,7 @@ Email: [jchein@temple.edu](mailto:jchein@temple.edu)
 - [Robert Weisberg, Ph.D.](https://liberalarts.temple.edu/academics/faculty/weisberg-robert): Creativity
 - [Mathieu Wimmer, Ph.D.](https://liberalarts.temple.edu/academics/faculty/wimmer-mathieu): Epigenetics of addiction and memory - Currently Accepting Graduate Students
 
-**[FAQ about the BCS Program]**(https://liberalarts.temple.edu/sites/liberalarts/files/FAQ%20about%20the%20BCS%20Program.pdf)
+**[FAQ about the BCS Program](https://liberalarts.temple.edu/sites/liberalarts/files/FAQ%20about%20the%20BCS%20Program.pdf)**
 
 ___
 
@@ -160,7 +160,7 @@ The goals of the clinical psychology Ph.D. training program are:
 
 The overarching goal of the program is to train creative and competent scientists and practitioners who are producers and consumers of knowledge in psychological science and will be competent to function successfully in academic, research, and clinical settings.  Some of our students go on to do work that is largely clinical in nature upon completion of their degrees.  It is our goal that these graduates not only bring excellence, professionalism, and leadership to their clinical work, but that they do so within a scientific framework.  As we define it, this means that they bring the perspectives and habits of scientific inquiry into their clinical work and that their work is continually informed by advances in the scientific literature.  For instance, these graduates should be well versed in the application of empirically supported treatments for psychological, emotional and behavioral disorders. Likewise, for the increasing numbers of graduates who choose an academically or research-oriented career path, it is our goal that their research endeavors are informed by a fundamental understanding of psychopathology and a solid foundation of clinical skill and experience in the assessment and treatment of persons with psychological, emotional and behavioral disorders.  To accomplish these goals, Temple students are directly involved in both research and clinical training throughout their tenure, beginning in their very first year.
 
-**[FAQ about the Clinical Program]**(https://liberalarts.temple.edu/sites/liberalarts/files/Clinical%20Psychology%20FAQ.pdf)
+**[FAQ about the Clinical Program](https://liberalarts.temple.edu/sites/liberalarts/files/Clinical%20Psychology%20FAQ.pdf)**
 
 ### Clinical Psychology Resources
 
