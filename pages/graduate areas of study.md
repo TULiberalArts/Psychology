@@ -1,6 +1,6 @@
 ---
-title: Graduate Research
-permalink: /graduate-research/
+title: Graduate Areas of Study
+permalink: /graduate-areas-of-study/
 layout: page
 keywords: ''
 description: >-
