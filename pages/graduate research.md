@@ -5,6 +5,70 @@ layout: page
 keywords: ''
 description: >-
 published: true
+sidebar: true
+sidebar-content: |
+  **Chair:**  
+   Peter Marshall, Ph.D  
+   656 Weiss Hall  
+   [(215) 204-7360](tel:2152047360)  
+   [Pjmarsh@temple.edu](mailto:Pjmarsh@temple.edu)  
+   
+   ___
+   
+  **Associate Chair:**  
+   Peter James, Ph.D  
+   606 Weiss Hall  
+   [(215) 204-3409](tel:2152043409)  
+   [pjames@temple.edu](mailto:pjames@temple.edu)  
+   
+    ___
+   
+   **Director of Graduate Studies:**  
+   Deborah Drabick, Ph.D.     
+   822 Weiss Hall  
+   [(215) 204-0957](tel:2152040957)  
+   [deborah.drabick@temple.edu](mailto:deborah.drabick@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Laura Dean  
+   654 Weiss Hall   
+   [(215) 204-2644](tel:2152042644)  
+   [ldean@temple.edu](mailto:ldean@temple.edu)  
+   
+   ___
+   
+   **Assistant Administrator:**  
+   Michelle Bonilla  
+   657 Weiss Hall   
+   [(215) 204-7317](tel:2152047317)  
+   [mbonilla@temple.edu](mailto:mbonilla@temple.edu)  
+   
+    ___
+
+   **Coordinators:**  
+   Lauren McDuffie  
+   659 Weiss Hall    
+   [(215) 204-7321](tel:2152047321)   
+   [LMcD@temple.edu](mailto:LMcD@temple.edu)  
+
+   Sarah McLaughlin, Neuroscience Student Services Specialist/Coordinator  
+   638 Weiss Hall    
+   [(215) 204-3441](tel:2152043441)  
+   [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)
+   
+   Vanessa Allen-Smith, Graduate Coordinator  
+   653 Weiss Hall    
+   [(215) 204-7667](tel:2152047667)   
+   [vallens@temple.edu](mailto:vallens@temple.edu)  
+   
+   **Senior Academic Advisor:**
+   
+   Nicole Pileggi, M.Ed.  
+   616 Weiss Hall    
+   [(215) 204-3403](tel:2152043403)   
+   [nicole.pileggi@temple.edu](mailto:nicole.pileggi@temple.edu)
 ---
 
 ## Graduate Faculty and Research
@@ -39,7 +103,7 @@ Email: [jchein@temple.edu](mailto:jchein@temple.edu)
 - [Robert Weisberg, Ph.D.](https://liberalarts.temple.edu/academics/faculty/weisberg-robert): Creativity
 - [Mathieu Wimmer, Ph.D.](https://liberalarts.temple.edu/academics/faculty/wimmer-mathieu): Epigenetics of addiction and memory - Currently Accepting Graduate Students
 
-#### [FAQ about the BCS Program](https://liberalarts.temple.edu/sites/liberalarts/files/FAQ%20about%20the%20BCS%20Program.pdf)
+**[FAQ about the BCS Program]**(https://liberalarts.temple.edu/sites/liberalarts/files/FAQ%20about%20the%20BCS%20Program.pdf)
 
 ___
 
@@ -68,13 +132,6 @@ Chair, Graduate Clinical Admissions
 4th Floor, Weiss Hall
 Email: [rfauber@temple.edu](mailto:rfauber@temple.edu)
 
-### Clinical Psychology Resources
-
-- View [Student Selection Process](http://www.cla.temple.edu/psychology/files/2015/08/STUDENT-SELECTION-PROCESS.pdf) (pdf)
-- View [Student Admissions, Outcomes, and Other Data](http://www.cla.temple.edu/psychology/files/2017/03/NEW-C-20-data-2016.pdf) (.pdf) 
-- Learn about the [CUDCP Policy]("graduate research/#CUDCP-policy) for Graduate School Offers and Acceptances
-- [**CLINICAL ADMISSIONS 2017 UPDATE**](http://www.cla.temple.edu/psychology/files/2017/02/Clinical-Admissions-update-2017.pdf)
-
 ### Primary Faculty
 
 - [Lauren Alloy, Ph.D.](https://liberalarts.temple.edu/academics/faculty/alloy-lauren)
@@ -93,17 +150,24 @@ Email: [rfauber@temple.edu](mailto:rfauber@temple.edu)
 
 The goals of the clinical psychology Ph.D. training program are:
 
-Goal 1. Develop clinical psychologists who have a broad understanding of the knowledge base and theoretical and methodological foundations in psychology, and more specifically, in the field of clinical psychology.
+- Develop clinical psychologists who have a broad understanding of the knowledge base and theoretical and methodological foundations in psychology, and more specifically, in the field of clinical psychology.
 
-Goal 2. Develop clinical psychologists who possess the knowledge and skills to conduct high quality and ethical research and make meaningful contributions to the empirical and theoretical literature in clinical psychology.
+- Develop clinical psychologists who possess the knowledge and skills to conduct high quality and ethical research and make meaningful contributions to the empirical and theoretical literature in clinical psychology.
 
-Goal 3. Develop clinical psychologists who are competent in the practice of clinical psychology and are skilled in the ethical application of empirically supported principles and techniques of assessment and intervention in their professional activities.
+- Develop clinical psychologists who are competent in the practice of clinical psychology and are skilled in the ethical application of empirically supported principles and techniques of assessment and intervention in their professional activities.
 
-Goal 4. Develop clinical psychologists who seek to integrate science and practice in their research and clinical activities.
+- Develop clinical psychologists who seek to integrate science and practice in their research and clinical activities.
 
 The overarching goal of the program is to train creative and competent scientists and practitioners who are producers and consumers of knowledge in psychological science and will be competent to function successfully in academic, research, and clinical settings.  Some of our students go on to do work that is largely clinical in nature upon completion of their degrees.  It is our goal that these graduates not only bring excellence, professionalism, and leadership to their clinical work, but that they do so within a scientific framework.  As we define it, this means that they bring the perspectives and habits of scientific inquiry into their clinical work and that their work is continually informed by advances in the scientific literature.  For instance, these graduates should be well versed in the application of empirically supported treatments for psychological, emotional and behavioral disorders. Likewise, for the increasing numbers of graduates who choose an academically or research-oriented career path, it is our goal that their research endeavors are informed by a fundamental understanding of psychopathology and a solid foundation of clinical skill and experience in the assessment and treatment of persons with psychological, emotional and behavioral disorders.  To accomplish these goals, Temple students are directly involved in both research and clinical training throughout their tenure, beginning in their very first year.
 
-#### [FAQ about the Clinical Program](https://liberalarts.temple.edu/sites/liberalarts/files/Clinical%20Psychology%20FAQ.pdf)
+**[FAQ about the Clinical Program]**(https://liberalarts.temple.edu/sites/liberalarts/files/Clinical%20Psychology%20FAQ.pdf)
+
+### Clinical Psychology Resources
+
+- View [Student Selection Process](http://www.cla.temple.edu/psychology/files/2015/08/STUDENT-SELECTION-PROCESS.pdf) (pdf)
+- View [Student Admissions, Outcomes, and Other Data](http://www.cla.temple.edu/psychology/files/2017/03/NEW-C-20-data-2016.pdf) (.pdf) 
+- Learn about the [CUDCP Policy]("graduate research/#CUDCP-policy) for Graduate School Offers and Acceptances
+- [**CLINICAL ADMISSIONS 2017 UPDATE**](http://www.cla.temple.edu/psychology/files/2017/02/Clinical-Admissions-update-2017.pdf)
 
 ___
 
@@ -188,14 +252,6 @@ Note: The Social Psychology Program is accepting Ph.D. students into the program
 - [Andrew Karpinski, Ph.D.](https://liberalarts.temple.edu/academics/faculty/karpinski-andrew)
 
 ___
-
-## Graduate Contact
-
-For questions related to the graduate program offerings in general, please contact:
-
-Dr. Deborah Drabick<br/>
-Director of Graduate Studies<br/>
-[deborah.drabick@temple.edu](mailto:deborah.drabick@temple.edu)<br/>
 
 ## CUDCP Policy
 
