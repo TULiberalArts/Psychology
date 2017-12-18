@@ -113,6 +113,7 @@ The department of psychology has 4 areas of study in the doctoral program:
         button-link="resources/clinical-services" 
         button-text="Learn More" %}
      </div>    
+       
  ___     
      
 
