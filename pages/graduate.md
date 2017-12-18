@@ -87,7 +87,7 @@ The department of psychology has 4 areas of study in the doctoral program. They 
 - [Social Psychology](https://develop.cla.temple.edu/psychology/graduate-areas-of-study/)
 
 <div class="row row-wide">
-  <div class="col m10 2">{% include cards/card2-image.html 
+  <div class="col m12 14">{% include cards/card2-image.html 
     title="[Brain and Cognitive Sciences]" 
     content="" 
     image="" 
