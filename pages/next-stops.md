@@ -34,6 +34,26 @@ After graduation, our students pursue a diverse range of careers, such as:
 
 ## Notable Alumni
 
+So many of our distinguished alumni have gone on to great accomplishments. The stories below featture some of our outstanding alumni that have risen to levels of professional acclaim and successes! 
+
+**_Alumni Spotlight**_
+
+- [Rolanda Findlay](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-rolanda-findlay)
+  Lieutenant Commander (LCDR); Aerospace Experimental Psychologist
+  B.A. in Psychology from Temple in 2004 
+  
+- [Marcus ALlen](https://liberalarts.temple.edu/about-us/newsroom/temple-alum-marcus-allen-speaks-being-agent-change)
+  CEO of Big Brothers Big Sisters Independence Region
+  B.A. in Psychology from Temple in 2001
+  
+- [Jonathan S. Comer](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-jonathan-s-comer-phd)
+  Professor of Psychology and Psychiatry at Florida International University
+  M.A. and Ph.D. in Clinical Psychology with a Concentration in Developmental Psychopathology from Temple
+  
+- [Wayne Mackey](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-wayne-mackey)
+  Postdoctoral fellow in David Heeger’s Computational Neuroimaging Lab at NYU
+  B.A. in Psychology from Temple in 2012
+
 ## Careers
 
 An undergraduate degree in Psychology affords many opportunities for careers and further study at the graduate level, because the knowledge and skills learned through the major (e.g., critical thinking, human behavior) are important to many disciplines. Psychology majors are often employed in management positions, real estate, sales, marketing, social services, and labor relations. Many psychology majors also go on to graduate study in psychology or other fields, including law, medicine, and business school.
