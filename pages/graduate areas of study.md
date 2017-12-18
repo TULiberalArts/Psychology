@@ -83,9 +83,9 @@ In addition to pursuing a Ph.D. in the Psychology Department, graduate students 
 
 For further information or questions concerning the Doctoral Program in Brain and Cognitive Sciences, contact:
 
-[Dr. Jason Chein](https://liberalarts.temple.edu/academics/faculty/chein-jason)
-Director, Brain and Cognitive Sciences
-Email: [jchein@temple.edu](mailto:jchein@temple.edu)
+[Dr. Jason Chein](https://liberalarts.temple.edu/academics/faculty/chein-jason)<br/>
+Director, Brain and Cognitive Sciences<br/>
+Email: [jchein@temple.edu](mailto:jchein@temple.edu)<br/>
 
 ### BCS Faculty & Research Interests
 
