@@ -82,7 +82,7 @@ Students Interested in receiving a Specialization in Neuroscience through the Ne
 The department of psychology has 4 areas of study in the doctoral program:
 
 <div class="row">
-  <div class="col s8 m2">{% include cards/card2-image.html 
+  <div class="col s10 m2">{% include cards/card2-image.html 
     title="Brain and Cognitive Sciences" 
     content="" 
     image="" 
@@ -90,7 +90,7 @@ The department of psychology has 4 areas of study in the doctoral program:
     button-text="Learn More" %}
   </div>
   <div class="row">
-    <div class="col s8 m2">{% include cards/card2-image.html 
+    <div class="col s10 m2">{% include cards/card2-image.html 
       title="Clinical Psychology" 
       content="" 
       image="" 
@@ -98,7 +98,7 @@ The department of psychology has 4 areas of study in the doctoral program:
       button-text="Learn More" %}
     </div>
     <div class="row">
-      <div class="col s8 m2">{% include cards/card2-image.html 
+      <div class="col s10 m2">{% include cards/card2-image.html 
         title="Developmental Psychology" 
         content="" 
         image="" 
@@ -106,15 +106,15 @@ The department of psychology has 4 areas of study in the doctoral program:
         button-text="Learn More" %}
       </div>
       <div class="row">
-      <div class="col s8 m2">{% include cards/card2-image.html 
+      <div class="col s10 m2">{% include cards/card2-image.html 
         title="Social Psychology" 
         content="" 
         image="" 
         button-link="resources/clinical-services" 
         button-text="Learn More" %}
-     </div>
+     </div>    
+ ___     
      
-___
 
 A student is ultimately accepted into a specific program. However, all Ph.D. applicants must meet the requirements for admission. Please visit the [Psychology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/psychology) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
