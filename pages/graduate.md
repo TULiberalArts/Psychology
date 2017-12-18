@@ -94,7 +94,7 @@ The department of psychology has 4 areas of study in the doctoral program. They 
     button-link="undergraduate-research" 
     button-text="Learn More" %}
   </div>
-  <div class="row row-wide">
+  <div class="row">
     <div class="col s10 m4">{% include cards/card2-image.html 
       title="Clinical Psychology" 
       content="" 
