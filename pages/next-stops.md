@@ -36,7 +36,7 @@ After graduation, our students pursue a diverse range of careers, such as:
 
 So many of our distinguished alumni have gone on to great accomplishments. The stories below featture some of our outstanding alumni that have risen to levels of professional acclaim and successes! 
 
-**_Alumni Spotlight**_
+**_Alumni Spotlight_**
 
 - [Rolanda Findlay](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-rolanda-findlay)
   Lieutenant Commander (LCDR); Aerospace Experimental Psychologist
