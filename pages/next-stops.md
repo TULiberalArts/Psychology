@@ -42,7 +42,7 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
   Lieutenant Commander (LCDR); Aerospace Experimental Psychologist<br/>
   B.A. in Psychology from Temple in 2004<br/> 
   
-- [Marcus ALlen](https://liberalarts.temple.edu/about-us/newsroom/temple-alum-marcus-allen-speaks-being-agent-change)<br/>
+- [Marcus Allen](https://liberalarts.temple.edu/about-us/newsroom/temple-alum-marcus-allen-speaks-being-agent-change)<br/>
   CEO of Big Brothers Big Sisters Independence Region<br/>
   B.A. in Psychology from Temple in 2001<br/>
   
