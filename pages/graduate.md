@@ -88,7 +88,7 @@ The department of psychology has 4 areas of study in the doctoral program. They 
 
 <div class="row row-wide">
   <div class="col m12 14">{% include cards/card2-image.html 
-    title="[Brain and Cognitive Sciences]" 
+    title="Brain and Cognitive Sciences" 
     content="" 
     image="" 
     button-link="undergraduate-research" 
