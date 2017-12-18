@@ -87,7 +87,7 @@ The department of psychology has 4 areas of study in the doctoral program. They 
 - [Social Psychology](https://develop.cla.temple.edu/psychology/graduate-areas-of-study/)
 
 <div class="row row-wide">
-  <div class="col s10 m3">{% include cards/card2-image.html 
+  <div class="col s10 m4">{% include cards/card2-image.html 
     title="Brain and Cognitive Sciences" 
     content="" 
     image="" 
@@ -95,7 +95,7 @@ The department of psychology has 4 areas of study in the doctoral program. They 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col s10 m3">{% include cards/card2-image.html 
+    <div class="col s10 m4">{% include cards/card2-image.html 
       title="Clinical Psychology" 
       content="" 
       image="" 
@@ -103,7 +103,7 @@ The department of psychology has 4 areas of study in the doctoral program. They 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col s10 m3">{% include cards/card2-image.html 
+      <div class="col s10 m4">{% include cards/card2-image.html 
         title="Developmental Psychology" 
         content="" 
         image="" 
@@ -111,14 +111,14 @@ The department of psychology has 4 areas of study in the doctoral program. They 
         button-text="Learn More" %}
       </div>
       <div class="row row-wide">
-      <div class="col s10 m3">{% include cards/card2-image.html 
+      <div class="col s10 m4">{% include cards/card2-image.html 
         title="Social Psychology" 
         content="" 
         image="" 
         button-link="resources/clinical-services" 
         button-text="Learn More" %}
      </div>
-</div>
+     
 ___
 
 A student is ultimately accepted into a specific program. However, all Ph.D. applicants must meet the requirements for admission. Please visit the [Psychology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/psychology) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
