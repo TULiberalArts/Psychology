@@ -38,21 +38,21 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
 
 **_Alumni Spotlight_**
 
-- [Rolanda Findlay](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-rolanda-findlay)
-  Lieutenant Commander (LCDR); Aerospace Experimental Psychologist
-  B.A. in Psychology from Temple in 2004 
+- [Rolanda Findlay](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-rolanda-findlay)<br/>
+  Lieutenant Commander (LCDR); Aerospace Experimental Psychologist<br/>
+  B.A. in Psychology from Temple in 2004<br/> 
   
-- [Marcus ALlen](https://liberalarts.temple.edu/about-us/newsroom/temple-alum-marcus-allen-speaks-being-agent-change)
-  CEO of Big Brothers Big Sisters Independence Region
-  B.A. in Psychology from Temple in 2001
+- [Marcus ALlen](https://liberalarts.temple.edu/about-us/newsroom/temple-alum-marcus-allen-speaks-being-agent-change)<br/>
+  CEO of Big Brothers Big Sisters Independence Region<br/>
+  B.A. in Psychology from Temple in 2001<br/>
   
-- [Jonathan S. Comer](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-jonathan-s-comer-phd)
-  Professor of Psychology and Psychiatry at Florida International University
-  M.A. and Ph.D. in Clinical Psychology with a Concentration in Developmental Psychopathology from Temple
+- [Jonathan S. Comer](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-jonathan-s-comer-phd)<br/>
+  Professor of Psychology and Psychiatry at Florida International University<br/>
+  M.A. and Ph.D. in Clinical Psychology with a Concentration in Developmental Psychopathology from Temple<br/>
   
-- [Wayne Mackey](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-wayne-mackey)
-  Postdoctoral fellow in David Heeger’s Computational Neuroimaging Lab at NYU
-  B.A. in Psychology from Temple in 2012
+- [Wayne Mackey](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-wayne-mackey)<br/>
+  Postdoctoral fellow in David Heeger’s Computational Neuroimaging Lab at NYU<br/>
+  B.A. in Psychology from Temple in 2012<br/>
 
 ## Careers
 
