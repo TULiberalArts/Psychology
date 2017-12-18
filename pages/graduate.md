@@ -112,7 +112,9 @@ The department of psychology has 4 areas of study in the doctoral program:
         image="" 
         button-link="resources/clinical-services" 
         button-text="Learn More" %}
-     </div>      
+</div>      
+
+___
 
 A student is ultimately accepted into a specific program. However, all Ph.D. applicants must meet the requirements for admission. Please visit the [Psychology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/psychology) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
