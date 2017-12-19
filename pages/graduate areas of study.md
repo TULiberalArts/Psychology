@@ -127,10 +127,10 @@ Website: [APA Office of Program Consultation and Accreditation](http://www.apa.o
 
 For information concerning application for admission to the Doctoral Program in Clinical Psychology, please thoroughly review the material associated with the links below.  For further information or questions, please contact:
 
-[Dr. Robert Fauber](https://liberalarts.temple.edu/academics/faculty/fauber-robert)
-Chair, Graduate Clinical Admissions
-4th Floor, Weiss Hall
-Email: [rfauber@temple.edu](mailto:rfauber@temple.edu)
+[Dr. Robert Fauber](https://liberalarts.temple.edu/academics/faculty/fauber-robert)<br/>
+_Chair, Graduate Clinical Admissions_<br/>
+4th Floor, Weiss Hall<br/>
+Email: [rfauber@temple.edu](mailto:rfauber@temple.edu)<br/>
 
 ### Primary Faculty
 
@@ -210,9 +210,9 @@ Many of these experiences are easily achieved within the department and through 
 
 For further information or questions concerning the Doctoral Program in Developmental Psychology, contact:
 
-[Dr. Hongling Xie](https://liberalarts.temple.edu/academics/faculty/xie-hongling)
-Director of Graduate Area of Developmental Psychology
-Email: [hongling.xie@temple.edu](mailto:hongling.xie@temple.edu)
+[Dr. Hongling Xie](https://liberalarts.temple.edu/academics/faculty/xie-hongling)<br/>
+_Director of Graduate Area of Developmental Psychology_<br/>
+Email: [hongling.xie@temple.edu](mailto:hongling.xie@temple.edu)<br/>
 
 **Primary Faculty**
 
@@ -240,7 +240,7 @@ For more details, prospective applicants are encouraged to explore the web pages
 For further information or questions concerning the Doctoral Program in Social Psychology, contact:
 
 [Dr. Andrew Karpinski](https://liberalarts.temple.edu/academics/faculty/karpinski-andrew)<br/>
-Director<br/>
+_Director_<br/>
 Telephone: (484) 222-0379<br/>
 E-mail: [andrew.karpinski@temple.edu](mailto:andrew.karpinski@temple.edu)<br/>
 
@@ -265,7 +265,7 @@ The [Council of University Directors of Clinical Training](http://www.cudcp.us/)
 
 - Offers of admission can be extended during a large time period. Most initial offers of admission are extended by April 1. Offers may be communicated by phone or email, but should be followed up by a written confirmation within 48 hours.
 
-- You should not be pressured, nor feel compelled to accept an offer of admission before April 15! This applies to offers of admission and to funding offers that accompany admission. It is impermissible for programs to request a decision prior to April 15 or to indicate that funding will be available only if students make decisions earlier than this date. Violations of this policy should be reported to CUDCP immediately (http://cudcp.us/contact.html) and your identity will be protected. Of course, it is permissible for you to accept an offer as soon as you are certain of your decision (i.e., even before April 15). But the decision to do so should be based on you, and not due to pressure placed upon you by a training program.
+- You should not be pressured, nor feel compelled to accept an offer of admission before April 15! This applies to offers of admission and to funding offers that accompany admission. It is impermissible for programs to request a decision prior to April 15 or to indicate that funding will be available only if students make decisions earlier than this date. Violations of this policy should be reported to [CUDCP](http://cudcp.us/contact.html) immediately and your identity will be protected. Of course, it is permissible for you to accept an offer as soon as you are certain of your decision (i.e., even before April 15). But the decision to do so should be based on you, and not due to pressure placed upon you by a training program.
  
 - Do not hold more than two offers for more than one week unless there is specific information (e.g., a visit is scheduled, funding decisions) you are waiting to receive from the program. Difficulty making up one’s mind is not considered an adequate excuse to limit the options available to other applicants.
 
