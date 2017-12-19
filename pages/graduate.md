@@ -81,70 +81,21 @@ Students Interested in receiving a Specialization in Neuroscience through the Ne
 
 The department of psychology has 4 areas of study in the doctoral program:
 
- <div class="row row-wide">
-      <div class="col s10 m2">
-          <span class="white-text">I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively. I am similar to what is called a panel in other frameworks.
-          <a href="google.com"><span class="materialize-red-text">Learn More</a>  
-          </span>
+ <div class="row">
+  <div class="col s6 m15 18"></div>
+        <div class="col s10 m6">
+            <div class="card">
+              <div class="card-image">
+              <img src="http://www.cla.temple.edu/english/files/2015/07/IMG_3824-1.jpg">
+              <span class="card-title"></span>
+            </div>
+            <div class="card-action">
+              <a href="#">A Letter to Poets</a>
+            </div>
+            </div>
+          </div>
         </div>
-        </div>
-  <div class="row row-wide">
-      <div class="col s10 m2">
-          <span class="white-text">I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively. I am similar to what is called a panel in other frameworks.
-          <a href="google.com"><span class="materialize-red-text">Learn More</a>  
-          </span>
-         </div>
-        </div> 
-  <div class="row row-wide">
-      <div class="col s10 m2">
-          <span class="white-text">I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively. I am similar to what is called a panel in other frameworks.
-          <a href="google.com"><span class="materialize-red-text">Learn More</a>  
-          </span>
-        </div>
-       </div>
-        <div class="row">
-      <div class="col s10 m2">
-        <div class="card-panel grey">
-          <span class="white-text">I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively. I am similar to what is called a panel in other frameworks.
-          <a href="google.com"><span class="materialize-red-text">Learn More</a>  
-          </span>
-        </div>
-        </div>
-        
-    title="Brain and Cognitive Sciences" 
-    content="" 
-    image="" 
-    button-link="undergraduate-research" 
-    button-text="Learn More" %}
-  </div>
-    <div class="row row-wide">
-    <div class="col s10 m2">{% include cards/card2-image.html 
-      title="Clinical Psychology" 
-      content="" 
-      image="" 
-      button-link="graduate" 
-      button-text="Learn More" %}
-    </div>
-      <div class="row">
-      <div class="col s10 m2">{% include cards/card2-image.html 
-        title="Developmental Psychology" 
-        content="" 
-        image="" 
-        button-link="resources/clinical-services" 
-        button-text="Learn More" %}
-     </div>
-       <div class="row">
-      <div class="col s10 m2">{% include cards/card2-image.html 
-        title="Social Psychology" 
-        content="" 
-        image="" 
-        button-link="resources/clinical-services" 
-        button-text="Learn More" %}
-</div>      
+      </div>
 
 ___
 
