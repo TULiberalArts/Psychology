@@ -100,7 +100,7 @@ The department of psychology has 4 areas of study in the doctoral program:
         <div class="col s8 m3">
             <div class="card">
               <div class="card-image">
-              <img src="https://github.com/TULiberalArts/Psychology/blob/master/media/ClinicalGroupPhoto.jpg">
+              <img src="http://www.cla.temple.edu/psychology/files/2013/09/ClinicalGroupPhoto.jpg">
               <span class="card-title"></span>
             </div>
             <div class="card-action">
