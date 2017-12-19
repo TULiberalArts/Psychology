@@ -86,11 +86,25 @@ The department of psychology has 4 areas of study in the doctoral program:
         <div class="col s8 m3">
             <div class="card">
               <div class="card-image">
-              <img src="https://github.com/TULiberalArts/Psychology/blob/master/media/Resized%20BCS-Photo-Oct-2017-web-copy.png">
+              <img src="https://github.com/TULiberalArts/Psychology/blob/master/media/resized%20FfMRI2.png">
               <span class="card-title"></span>
             </div>
             <div class="card-action">
               <a href="#">Brain and Cognitive Sciences</a>
+            </div>
+            </div>
+          </div>
+        </div>
+  <div class="row">
+   <div class="col s6 m15"></div>
+        <div class="col s8 m3">
+            <div class="card">
+              <div class="card-image">
+              <img src="https://github.com/TULiberalArts/Psychology/blob/master/media/Resized%20BCS-Photo-Oct-2017-web-copy.png">
+              <span class="card-title"></span>
+            </div>
+            <div class="card-action">
+              <a href="#">Clinical Psychology</a>
             </div>
             </div>
           </div>
