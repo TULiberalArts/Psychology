@@ -83,7 +83,7 @@ The department of psychology has 4 areas of study in the doctoral program:
 
  <div class="row">
   <div class="col s6 m15 18"></div>
-        <div class="col s10 m6">
+        <div class="col s8 m3">
             <div class="card">
               <div class="card-image">
               <img src="http://www.cla.temple.edu/english/files/2015/07/IMG_3824-1.jpg">
