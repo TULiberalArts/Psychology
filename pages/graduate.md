@@ -86,17 +86,15 @@ The department of psychology has 4 areas of study in the doctoral program:
         <div class="col s8 m3">
             <div class="card">
               <div class="card-image">
-              <img src="http://www.cla.temple.edu/english/files/2015/07/IMG_3824-1.jpg">
+              <img src="https://github.com/TULiberalArts/Psychology/blob/master/media/Resized%20BCS-Photo-Oct-2017-web-copy.png">
               <span class="card-title"></span>
             </div>
             <div class="card-action">
-              <a href="#">A Letter to Poets</a>
+              <a href="#">Brain and Cognitive Sciences</a>
             </div>
             </div>
           </div>
         </div>
-      </div>
-
 ___
 
 A student is ultimately accepted into a specific program. However, all Ph.D. applicants must meet the requirements for admission. Please visit the [Psychology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/psychology) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
