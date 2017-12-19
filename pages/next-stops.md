@@ -34,7 +34,7 @@ After graduation, our students pursue a diverse range of careers, such as:
 
 ## Notable Alumni
 
-So many of our distinguished alumni have gone on to great accomplishments. The stories below featture some of our outstanding alumni that have risen to levels of professional acclaim and successes! 
+So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni that have risen to levels of professional acclaim and successes! 
 
 **_Alumni Spotlight_**
 
