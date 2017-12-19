@@ -225,7 +225,7 @@ Email: [hongling.xie@temple.edu](mailto:hongling.xie@temple.edu)
 - [Laurence Steinberg](https://liberalarts.temple.edu/academics/faculty/steinberg-laurence)
 - [Ronald Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ronald)
 - [Marsha Weinraub](https://liberalarts.temple.edu/academics/faculty/weinraub-marsha)
-- [Hongling Xie](https://liberalarts.temple.edu/academics/faculty/xie-hongling)(https://liberalarts.temple.edu/academics/faculty/xie-hongling)
+- [Hongling Xie](https://liberalarts.temple.edu/academics/faculty/xie-hongling)
 
 **Please note that Drs. Weinraub and Overton are not accepting students for admission in Fall 2017.**
 
