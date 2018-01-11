@@ -6,7 +6,9 @@ keywords: 'transfer, apply, visit, College of Liberal Arts, Psychology, careers'
 description: >-
 published: true
 ---
-Students may receive course credit for internship and research experiences outside the classroom. Our program offers a wide range of internships that allow students to apply their learning to real-life situations while gaining work experience and building a professional network.
+Students may receive course credit for internship and research experiences outside the classroom. Our program offers a wide range of internships that allow students to apply their learning to real-life situations while gaining work experience and building a professional network. An undergraduate degree in Psychology affords many opportunities for careers and further study at the graduate level, because the knowledge and skills learned through the major (e.g., critical thinking, human behavior) are important to many disciplines. Psychology majors are often employed in management positions, real estate, sales, marketing, social services, and labor relations. Many psychology majors also go on to graduate study in psychology or other fields, including law, medicine, and business school.
+
+Temple Psychology students are informed of career options and advised of career decisions through a formal course, called Careers in Psychology. This course is designed to encourage students to begin to prepare for their career early during their undergraduate training so that they may maximally benefit from their undergraduate education.
 
 Examples of internship settings include:
 
@@ -50,12 +52,6 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
 - [Wayne Mackey](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-wayne-mackey)<br/>
   Postdoctoral fellow in David Heeger’s Computational Neuroimaging Lab at NYU<br/>
   B.A. in Psychology from Temple in 2012<br/>
-
-## Careers
-
-An undergraduate degree in Psychology affords many opportunities for careers and further study at the graduate level, because the knowledge and skills learned through the major (e.g., critical thinking, human behavior) are important to many disciplines. Psychology majors are often employed in management positions, real estate, sales, marketing, social services, and labor relations. Many psychology majors also go on to graduate study in psychology or other fields, including law, medicine, and business school.
-
-Temple Psychology students are informed of career options and advised of career decisions through a formal course, called Careers in Psychology. This course is designed to encourage students to begin to prepare for their career early during their undergraduate training so that they may maximally benefit from their undergraduate education.
 
 ## Make Your Declaration
 
