@@ -156,5 +156,5 @@ Director of Graduate Studies<br/>
 [deborah.drabick@temple.edu](mailto:deborah.drabick@temple.edu)<br/>
 
 ### Graduate Resources 
-- [Graduate Handbook](https://goo.gl/kS7hzP)
+- [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Department%20of%20Psychology%20Graduate%20Handbook.pdf)
 - [Psychology Gradyate Program FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/FAQ%20about%20the%20Psychology%20Graduate%20Program.pdf)
