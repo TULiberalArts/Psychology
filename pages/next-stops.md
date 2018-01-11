@@ -6,9 +6,6 @@ keywords: 'transfer, apply, visit, College of Liberal Arts, Psychology, careers'
 description: >-
 published: true
 ---
-
-## Next Stops:
-
 Students may receive course credit for internship and research experiences outside the classroom. Our program offers a wide range of internships that allow students to apply their learning to real-life situations while gaining work experience and building a professional network.
 
 Examples of internship settings include:
