@@ -29,6 +29,8 @@ The Adult Anxiety Clinic of Temple (AACT) is an internationally known center for
 **Child and Adolescent Anxiety Disorders Clinic (CAADC)**
 The CAADC is an internationally renowned research and training clinic that offers assessment and cognitive-behavioral treatment of anxiety in youth ages 7 to 17 years. Common concerns of the youth who come to the CAADC include generalized worry, social anxiety, phobias, separation anxiety, panic symptoms, and anxiety-related school refusal. All services are provided by advanced doctoral students and supervised by licensed clinical psychologists. Daytime and evening appointments are available, and fees are based on a sliding scale. For further information or to complete a telephone screening to determine if our services fit your needs, please leave a voice message for our clinic coordinator at [(215) 204-7165](tel:2152047165). For more information, please look at our [website](http://www.childanxiety.org/) or download a [CAADC brochure](https://liberalarts.temple.edu/sites/liberalarts/files/CAADC_Brochure.pdf).
 
+___
+
 ## Opportunities to Participate in Research: Non Temple Students
 For those who are not Temple students, below is a list of research groups organized by the age groups of people that typically participate in their research studies. Please click the specific links for more information on current studies.
 
