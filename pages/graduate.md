@@ -105,4 +105,4 @@ Director of Graduate Studies<br/>
 
 ### Graduate Resources 
 - [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Department%20of%20Psychology%20Graduate%20Handbook.pdf)
-- [Psychology Gradyate Program FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/FAQ%20about%20the%20Psychology%20Graduate%20Program.pdf)
+- [Psychology Graduate Program FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/FAQ%20about%20the%20Psychology%20Graduate%20Program.pdf)
