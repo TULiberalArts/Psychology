@@ -35,7 +35,7 @@ The dedicated academic advisor for Psychology is available to meet with students
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="Get Involved in Research!" 
-    content="Join a lab today and get hands on lab and field work experience that will futher ignite your passion and gain the necessary skills and experience wothin the field of psychology. Emmerse yourself in various areas of research!" 
+    content="Join a lab today and get hands on lab and field work experience that will futher ignite your passion while gaining the necessary skills and experience. Emmerse yourself in various areas of research!" 
     image="" 
     button-link="undergraduate-research" 
     button-text="Learn More" %}
