@@ -92,9 +92,7 @@ The Honors Psychology program has several main goals. First, students may expect
 
 [Learn More about the Honors Psychology Program](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/ba-psychology/). 
 
-## Psychology Internship and Practicum
-
-### Psychology Internship And Practicum (Psych 3785/3787)
+## Psychology Internship And Practicum (Psych 3785/3787)
 
 The Psychology Internship/Practicum is a course that is designed to give you experience in the work-world and, as such, is unlike most other courses you will take.  You will have dual responsibility:  to provide the best service possible to your agency/school/company (you will be, in some sense, an ambassador for Temple and for the Department), and to communicate regularly with me.
 
