@@ -9,16 +9,16 @@ sidebar-content: |
   **Chair:**  
    Peter Marshall, Ph.D  
    656 Weiss Hall  
-   [(215) 204-7360](tel:2152047360)  
-   [Pjmarsh@temple.edu](mailto:Pjmarsh@temple.edu)  
+   (215) 204-7360  
+   Pjmarsh@temple.edu  
    
    ___
    
   **Associate Chair:**  
    Peter James, Ph.D  
    606 Weiss Hall  
-   [(215) 204-3409](tel:2152043409)  
-   [pjames@temple.edu](mailto:pjames@temple.edu)  
+   (215) 204-3409  
+   pjames@temple.edu  
    
     ___
    
@@ -33,41 +33,41 @@ sidebar-content: |
    **Administrator:**  
    Laura Dean  
    654 Weiss Hall   
-   [(215) 204-2644](tel:2152042644)  
-   [ldean@temple.edu](mailto:ldean@temple.edu)  
+   (215) 204-2644  
+   ldean@temple.edu  
    
    ___
    
    **Assistant Administrator:**  
    Michelle Bonilla  
    657 Weiss Hall   
-   [(215) 204-7317](tel:2152047317)  
-   [mbonilla@temple.edu](mailto:mbonilla@temple.edu)  
+   (215) 204-7317  
+   mbonilla@temple.edu)  
    
     ___
 
    **Coordinators:**  
    Lauren McDuffie  
    659 Weiss Hall    
-   [(215) 204-7321](tel:2152047321)   
-   [LMcD@temple.edu](mailto:LMcD@temple.edu)  
+   (215) 204-7321   
+   LMcD@temple.edu  
 
    Sarah McLaughlin, Neuroscience Student Services Specialist/Coordinator  
    638 Weiss Hall    
-   [(215) 204-3441](tel:2152043441)  
-   [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)
+   (215) 204-3441  
+   smclaughlin@temple.edu
    
    Vanessa Allen-Smith, Graduate Coordinator  
    653 Weiss Hall    
-   [(215) 204-7667](tel:2152047667)   
-   [vallens@temple.edu](mailto:vallens@temple.edu)  
+   (215) 204-7667   
+   vallens@temple.edu  
    
    **Senior Academic Advisor:**
    
    Nicole Pileggi, M.Ed.  
    616 Weiss Hall    
-   [(215) 204-3403](tel:2152043403)   
-   [nicole.pileggi@temple.edu](mailto:nicole.pileggi@temple.edu)
+   (215) 204-3403   
+   nicole.pileggi@temple.edu
 ---
 
 ## Program Overview
