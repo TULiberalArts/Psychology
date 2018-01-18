@@ -7,7 +7,7 @@ description: >-
 published: true
 sidebar: true
 sidebar-content: |
-  **Chair:**  
+ **Chair:**  
    Peter Marshall, Ph.D  
    656 Weiss Hall  
    (215) 204-7360  
