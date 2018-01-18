@@ -6,9 +6,9 @@ keywords: 'graduate, phd, students, Psychology program'
 published: true
 sidebar: true
 sidebar-content: |
- **The Department of Psychology:**   
-   [(215) 204-7321](2152047321)    
-   Fax: (215) 204-5539  
+ **The Department of Psychology:**<br>       
+   [(215) 204-7321](2152047321)<br>        
+   Fax: (215) 204-5539<br>      
    
    ___
    
