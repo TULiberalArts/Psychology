@@ -7,6 +7,12 @@ description: >-
 published: true
 sidebar: true
 sidebar-content: |
+ **The Department of Psychology:**   
+   [(215) 204-7321](2152047321)
+   Fax: (215) 204-5539  
+   
+   ___
+   
   **Chair:**  
    Peter Marshall, Ph.D  
    656 Weiss Hall  
@@ -84,14 +90,7 @@ The Honors Psychology program is designed to be a 2-year study that begins with 
 
 The Honors Psychology program has several main goals. First, students may expect an integrated panoramic view of the field of psychology, from its historical roots to current perspectives. Second, the program will provide students with a foundation in scientific methodology. Students will then take that knowledge to design, implement, and analyze data for their senior thesis.  Third, this hands-on experience is designed to encourage students to grapple with key theoretical and research ideas related to their particular interest. Additionally, the program offers an intimate and individualized experience to prepare students for the future career paths to which they aspire.
 
-Students who are psychology majors with a 3.5 GPA (or higher) may receive an invitation to attend an informational session during the spring semester of their second year of study at Temple. The informational session is an opportunity to learn more about the program. Upon entering the honors program, students must maintain at least a 3.5 GPA throughout the duration of the honors program.
-
-For more information please contact:
-
-Ms. Nicole Pileggi<br>
-Undergraduate Advisor<br>
-616 Weiss Hall<br> 
-[nicole.pileggi@temple.edu](nicole.pileggi@temple.edu)<br>
+[Learn More about the Honors Psychology Program](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/ba-psychology/). 
 
 ## Psychology Internship and Practicum
 
