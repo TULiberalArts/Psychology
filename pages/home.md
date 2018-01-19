@@ -13,7 +13,7 @@ feature-body: >-
 feature-image: media/Psych hero.png
 published: true
 ---
-[![Psychology Brochure](https://github.com/TULiberalArts/Psychology/blob/master/media/resized%20Brochure%20homepage.png)](https://liberalarts.temple.edu/sites/liberalarts/files/TU_Psych_Viewbook_Layout_Final_OFFICIAL%20%281%29.pdf){:.img-right}
+[![Psychology Brochure](https://github.com/TULiberalArts/Psychology/blob/master/media/resized Brochure homepage.png)](https://liberalarts.temple.edu/sites/liberalarts/files/TU_Psych_Viewbook_Layout_Final_OFFICIAL%20%281%29.pdf){:.img-right}
 ## Excel In Our Program
 Students that study Psychology at Temple develop critical thinking skills through courses that emphasize the scientific basis of psychology, statistical analysis, and experimental design. Advanced courses introduce students to the cutting edge of psychological research on mental disorders and treatments, learning and memory, social development, and many other topics. Psychology students are encouraged to develop applied skills through focused experiential learning in research laboratories and community-based internships.
 
