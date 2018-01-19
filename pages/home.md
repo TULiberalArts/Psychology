@@ -13,6 +13,10 @@ feature-body: >-
 feature-image: media/Psych hero.png
 published: true
 ---
+[![Psychology Brochure](https://github.com/TULiberalArts/Psychology/blob/master/media/resized%20Brochure%20homepage.png)](https://liberalarts.temple.edu/sites/liberalarts/files/TU_Psych_Viewbook_Layout_Final_OFFICIAL%20%281%29.pdf){:.img-right}
+
+
+
 ![Psychology Brochure]({{site.baseurl}}/media/resized Brochure homepage.png){:.img-right} (https://liberalarts.temple.edu/sites/liberalarts/files/TU_Psych_Viewbook_Layout_Final_OFFICIAL%20%281%29.pdf)
 
 ## Excel In Our Program
