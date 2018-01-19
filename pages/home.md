@@ -13,7 +13,7 @@ feature-body: >-
 feature-image: media/Psych hero.png
 published: true
 ---
-
+[![Psychology Brochure](https://liberalarts.temple.edu/sites/liberalarts/files/TU_Psych_Viewbook_Layout_Final_OFFICIAL%20%281%29.pdf)](https://github.com/TULiberalArts/Psychology/blob/master/media/resized%20Brochure%20homepage.png){:.img-right}
 ## Excel In Our Program
 Students that study Psychology at Temple develop critical thinking skills through courses that emphasize the scientific basis of psychology, statistical analysis, and experimental design. Advanced courses introduce students to the cutting edge of psychological research on mental disorders and treatments, learning and memory, social development, and many other topics. Psychology students are encouraged to develop applied skills through focused experiential learning in research laboratories and community-based internships.
 
@@ -30,7 +30,7 @@ The dedicated academic advisor for Psychology is available to meet with students
 - [Minor in Cognitive Neuroscience](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-cognitive-neuroscience/)
 - [Minor in Clinical and Health Psychology](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-clinical-health-psychology/)
 - [4+1 Master of Science in Psychological Research](undergraduate/#Psychology 5-Year Master’s Program)
-- [PhD in Psychology](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/)(Concentrations in: Brain and Cognitive Sciences, Clinical Psychology, Developmental Psychology, and Social Psychology)
+- [PhD in Psychology](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/) (Concentrations in: Brain and Cognitive Sciences, Clinical Psychology, Developmental Psychology, and Social Psychology)
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
