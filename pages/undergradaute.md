@@ -96,7 +96,7 @@ The Honors Psychology program has several main goals. First, students may expect
 
 The [Psychology Internship/Practicum](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/) is a course that is designed to give you experience in the work-world and, as such, is unlike most other courses you will take. There are two courese required for completion: [Internship (Psych 3785)](http://bulletin.temple.edu/search/?P=PSY%203785) and [Practicum (Psych 3787)](http://bulletin.temple.edu/search/?P=PSY%203787). You will have dual responsibility: to provide the best service possible to your agency/school/company (you will be, in some sense, an ambassador for Temple and for the Department), and to communicate regularly with your advisor. 
 
-View the following pdf to learn more about this course, requirements, guidelines, contact information and deadlines. [Psychology Internship and Paracticum](https://liberalarts.temple.edu/sites/liberalarts/files/INTERNSHIP%20AND%20PRACTICUM%20General%20Guidelines%202017-2018%20%28002%29.pdf)
+View the following pdf to learn more about this course, requirements, guidelines, contact information and deadlines. [Psychology Internship and Paracticum](https://liberalarts.temple.edu/sites/liberalarts/files/INTERNSHIP%20AND%20PRACTICUM%20General%20Guidelines%202017-2018%20%28002%29.pdf). (pdf.)
 
 ## Psychology 5-Year Master’s Program (+1)
 ![Research]({{site.baseurl}}/media/resized 4+1.jpg){:.img-right}
