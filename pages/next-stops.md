@@ -80,5 +80,3 @@ When you are ready to apply, submit your application online at [admissions.templ
 **March 1**: FAFSA Financial Aid Application Deadline<br/>
 **November 1**: Transfer Deadline for Spring Semester<br/>
 **June 1**: Transfer Deadline for Fall Semester<br/>
-
-<script type="text/javascript" src="https://form.jotform.com/jsform/80323885479165"></script>
