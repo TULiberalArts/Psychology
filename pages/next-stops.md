@@ -6,12 +6,12 @@ keywords: 'transfer, apply, visit, College of Liberal Arts, Psychology, careers'
 description: >-
 published: true
 ---
+## Where Can an Academic Career in Psychology Take You?
 An undergraduate degree in Psychology affords many opportunities for careers and further study at the graduate level, because the knowledge and skills learned through the major (e.g., critical thinking, human behavior) are important to many disciplines. Psychology majors are often employed in management positions, real estate, sales, marketing, social services, and labor relations. Many psychology majors also go on to graduate study in psychology or other fields, including law, medicine, and business school.
 
 Temple Psychology students are informed of career options and advised of career decisions through a formal course, called [Careers in Psychology](http://bulletin.temple.edu/search/?P=PSY%201002). This course is designed to encourage students to begin to prepare for their career early during their undergraduate training so that they may maximally benefit from their undergraduate education.
 
 Examples of internship settings include:
-
 - Abington Memorial Hospital
 - Children’s Crisis Treatment Center
 - Children’s Hospital of Philadelphia
@@ -21,7 +21,6 @@ Examples of internship settings include:
 - Tuttleman Counseling Services
 
 After graduation, our students pursue a diverse range of careers, such as:
-
 - Research Coordinator (BA)
 - Clinical Case Manager (BA)
 - Human Resources (BA)
@@ -30,6 +29,19 @@ After graduation, our students pursue a diverse range of careers, such as:
 - Psychology (PhD)
 - Neuropsychology (PhD)
 - Medical School (MD, DO)
+
+## Make Your Declaration
+The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
+- View a complete list of our academic offerings, [liberalarts.temple.edu](liberalarts.temple.edu)
+- Register for a tour to visit us, temple.edu/visit
+- Learn more about transferring to Temple, [temple.edu/transfer](temple.edu/transfer)
+- Ready to apply? Submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
+
+## Deadlines
+**February 1**: Freshman Application Deadline for Fall Semester<br/>
+**March 1**: FAFSA Financial Aid Application Deadline<br/>
+**November 1**: Transfer Deadline for Spring Semester<br/>
+**June 1**: Transfer Deadline for Fall Semester<br/>
 
 ## Notable Alumni
 
@@ -52,34 +64,6 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
 - [Wayne Mackey](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-wayne-mackey)<br/>
   Postdoctoral fellow in David Heeger’s Computational Neuroimaging Lab at NYU<br/>
   B.A. in Psychology from Temple in 2012<br/>
-
-## Make Your Declaration
-
-The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
-
-For a complete list of our academic offerings visit [liberalarts.temple.edu](liberalarts.temple.edu)
-
-## Visit Us!
-
-The Office of Admissions offers tours daily. To register for a tour, please go to temple.edu/visit.
-If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
-
-## Thinking Of Transferring?
-
-The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.
-
-To learn more about transferring to Temple, please visit [temple.edu/transfer](temple.edu/transfer)
-
-## Apply
-
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
-
-## Deadlines
-
-**February 1**: Freshman Application Deadline for Fall Semester<br/>
-**March 1**: FAFSA Financial Aid Application Deadline<br/>
-**November 1**: Transfer Deadline for Spring Semester<br/>
-**June 1**: Transfer Deadline for Fall Semester<br/>
 
 ___
 
