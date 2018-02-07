@@ -85,7 +85,6 @@ The largest doctoral program in the College of Liberal Arts, the Psychology Depa
 Students Interested in receiving a Specialization in Neuroscience through the Neuroscience Program should visit the [Neuroscience Program Website](http://www.cla.temple.edu/neuroscience/).
 
 ## Programs of Study
-
 The department of psychology has 4 areas of study in the doctoral program:
 
 - [Brain and Cognitive Sciences](https://develop.cla.temple.edu/psychology/graduate-areas-of-study#Brain-and-Cognitive-Sciences-Faculty--Research)<br>
@@ -94,12 +93,6 @@ The department of psychology has 4 areas of study in the doctoral program:
 - [Social Psychology](https://develop.cla.temple.edu/psychology/graduate-areas-of-study#social-psychology)<br>
 
 A student is ultimately accepted into a specific program. However, all Ph.D. applicants must meet the requirements for admission. Please visit the [Psychology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/psychology) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
-
-## New for 2016! Interdisciplinary Program in Decision Neuroscience
-
-Some of the laboratories and research groups of BCS Faculty members are also part of a new interdisciplinary PhD program in Decision Neuroscience. The program is currently being coordinated through the Fox School of Business at Temple and is accepting graduate students for Fall 2016. Please see the 
-
-Learn more about the [PhD in Decision Neuroscience](http://www.fox.temple.edu/cms_academics/phd/decision-neuroscience/).
 
 ## Careers
 Individuals earning Ph.D. degrees in Psychology have moved on to a variety of interesting and fulfilling positions. We have been consistently successful in placing our graduates in the types of positions they were hoping to obtain. At the present time, it is typical for most individuals with newly-earned Psychology Ph.D. degrees to go on to postdoctoral research positions, and this holds for our students as well. Many of our graduates secure prestigious postdoctoral positions, where they bring their skills and knowledge to the highest levels. Many of those students then obtain faculty positions at well-known institutions, where they carry out cutting-edge research in diverse areas from behavioral neuroscience to clinical science. Other students obtain research positions in industry.
