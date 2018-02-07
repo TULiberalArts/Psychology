@@ -7,6 +7,7 @@ description: >-
 published: true
 ---
 ## Psychological Services Center (PSC)
+![PSC Temple]({{site.baseurl}}/media/resized PSC image.jpg){:.img-right}
 The PSC offers psychotherapy and assessment, including neuropsychological assessment, to individuals, couples and families of all ages on a sliding fee scale. Intake clinicians answer our telephone and are prepared not only to address any questions you have about our services but also to determine with you if we are well-suited to your needs. Our intake clinicians have a wealth of referral information available and can often help persons in need find the best treatment fit whether it is with us or another service. We can be reached via our [website](http://templepsc.com/) or by phone [(215) 204-7100](tel:2152047100).
 
 ## Adult Anxiety Clinic
