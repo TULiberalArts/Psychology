@@ -5,7 +5,7 @@ layout: home3
 keywords: 'Psychology, research, students, courses'
 description: >-
 feature: true
-feature-title: A Vibrant Program of Scholarship, Research and Teaching
+feature-title: Promoting Excellence in Psychological Science
 feature-body: >-
   The Department of Psychology has a threefold mission: To answer questions on the cutting edge of psychology research,
   to provide training to undergraduate and graduate students in the broad fields of psychology, and to provide individuals
