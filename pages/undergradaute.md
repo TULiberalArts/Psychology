@@ -85,7 +85,6 @@ The Temple University Undergraduate Psychology program provides a modern curricu
 Students are strongly encouraged to develop applied skills through rigorous and highly focused experiential learning in research laboratories and community–based internships. The curriculum is designed to be sufficiently flexible to satisfy the diversity of needs among undergraduates. As such an individually tailored curriculum may be selected for the purpose of preparing students for employment or further study in psychology, neuroscience, medicine, law, business, or other fields.
 
 ## Honors Psychology Program
-
 The Honors Psychology program is designed to be a 2-year study that begins with a yearlong investigation of methodology, critical thinking and writing. In the second year, the program culminates in the production of a senior thesis that is presented at the student poster session. Each semester, the class explores a new topic in-depth. Student-led discussions complement traditional lectures, encouraging students to engage fully with the course content.
 
 The Honors Psychology program has several main goals. First, students may expect an integrated panoramic view of the field of psychology, from its historical roots to current perspectives. Second, the program will provide students with a foundation in scientific methodology. Students will then take that knowledge to design, implement, and analyze data for their senior thesis.  Third, this hands-on experience is designed to encourage students to grapple with key theoretical and research ideas related to their particular interest. Additionally, the program offers an intimate and individualized experience to prepare students for the future career paths to which they aspire.
@@ -93,7 +92,6 @@ The Honors Psychology program has several main goals. First, students may expect
 [Learn More about the Honors Psychology Program](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/ba-psychology/). 
 
 ## Psychology Internship And Practicum (Psych 3785/3787)
-
 The [Psychology Internship/Practicum](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/) is a course that is designed to give you experience in the work-world and, as such, is unlike most other courses you will take. There are two courese required for completion: [Internship (Psych 3785)](http://bulletin.temple.edu/search/?P=PSY%203785) and [Practicum (Psych 3787)](http://bulletin.temple.edu/search/?P=PSY%203787). You will have dual responsibility: to provide the best service possible to your agency/school/company (you will be, in some sense, an ambassador for Temple and for the Department), and to communicate regularly with your advisor. 
 
 View the following pdf to learn more about this course, requirements, guidelines, contact information and deadlines. [Psychology Internship and Practicum](https://liberalarts.temple.edu/sites/liberalarts/files/INTERNSHIP%20AND%20PRACTICUM%20General%20Guidelines%202017-2018.pdf). (pdf.)
