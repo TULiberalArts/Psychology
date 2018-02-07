@@ -104,8 +104,8 @@ Director of Graduate Studies<br/>
 [deborah.drabick@temple.edu](mailto:deborah.drabick@temple.edu)<br/>
 
 ### Graduate Resources 
-- [Graduate Handbook](https://drive.google.com/file/d/1D3D_bImOgm0QfQbfTJjskHh9d-mKpkL5/view)
-- [Psychology Graduate Program FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/FAQ%20about%20the%20Psychology%20Graduate%20Program.pdf)
+- [Graduate Handbook](https://docs.google.com/document/d/1hoxVN1ol7ZGB10_9N0k8yVxkRDJLcMVYGTp-Nwgbm94/edit?usp=sharing)
+- [Psychology Graduate Program FAQ's](https://docs.google.com/document/d/1C8k-NlsbcRW-5dyNJdiUJ1cqpUFsR_ba4Y1CLbN-COs/edit?usp=sharing)
 
 ## Graduate Awards
 Gifts from alumni and friends of the department can be directed to honor beloved faculty mentors, to support graduate student research and progress through the Ph.D. program, and to promote science and science education in the grandest of traditions. By donating a gift to either the Shipley Research Prize or Bersh Award fund, you will ensure that each year, a deserving student can receive up to $1000 to put toward data collection or travel.
