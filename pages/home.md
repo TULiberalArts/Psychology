@@ -16,10 +16,12 @@ published: true
 [![Psychology Brochure](https://github.com/TULiberalArts/Psychology/blob/master/media/resized%20Brochure%20homepage.png?raw=true)](https://liberalarts.temple.edu/sites/liberalarts/files/TU_Psych_Viewbook_Layout_Final_OFFICIAL%20%281%29.pdf){:.img-right}
 
 ## Excel In Our Program
-Students that study Psychology at Temple develop critical thinking skills through courses that emphasize the scientific basis of psychology, statistical analysis, and experimental design. Advanced courses introduce students to the cutting edge of psychological research on mental disorders and treatments, learning and memory, social development, and many other topics. Psychology students are encouraged to develop applied skills through focused experiential learning in research laboratories and community-based internships.
+Undergraduate students who study Psychology at Temple develop critical thinking skills through courses that emphasize the scientific basis of psychology, statistical analysis, and experimental design. Advanced courses introduce students to current psychological research on mental disorders and treatments, learning and memory, social development, and many other topics. Students are encouraged to develop applied skills through focused experiential learning in research laboratories and through community-based internships.
+
+Our nationally-ranked graduate program provides doctoral training across four areas of psychology: Clinical Psychology, Brain and Cognitive Sciences, Developmental Psychology, and Social Psychology. The intensive, full-time doctoral program is highly research-focused and allows for students to gain experiences across multiple research methodologies and laboratory environments.
 
 ## Leaders In Our Field
-Our 38 full-time faculty members have won many national and international awards and are experienced leaders in their fields. Their research teams are addressing questions at the forefront of psychological science.
+Our 45 full-time faculty members have won many national and international awards and are experienced leaders in their fields. Their research teams are addressing questions at the forefront of psychological science.
 
 ## Advising At Every Step
 The dedicated academic advisor for Psychology is available to meet with students to provide guidance on course selection, acquiring an internship or research experience, career options, and applying to graduate school.
@@ -36,7 +38,7 @@ The dedicated academic advisor for Psychology is available to meet with students
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="Get Involved in Research!" 
-    content="Join a lab today and get hands on lab and field work experience that will futher ignite your passion while gaining the necessary skills and experience. Emmerse yourself in various areas of research!" 
+    content="Undergraduate students can gain vital skills through hands-on experience in laboratories and research groups." 
     image="" 
     button-link="undergraduate-research" 
     button-text="Learn More" %}
@@ -44,7 +46,7 @@ The dedicated academic advisor for Psychology is available to meet with students
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
       title="Graduate Programs" 
-      content="Our department houses top-quality scientists and excellent teachers on our faculty. We also employ specialized  psychologists practicing in the Philadelphia region as adjuncts to provide additional educational opportunities for our students." 
+      content="The world-renowned faculty in our graduate program are highly collaborative, with many connections within and outside Temple. This allows students to gain truly interdisciplinary training for the next stage of their career." 
       image="" 
       button-link="graduate" 
       button-text="Learn More" %}
@@ -52,7 +54,7 @@ The dedicated academic advisor for Psychology is available to meet with students
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
         title="Clinical Services" 
-        content="Three specific clinical services are offered through the department: Psychological Services Center (PSC), Adult Anxiety Clinic and the Child and Adolescent Anxiety Disorders Clinic (CAADC)." 
+        content="Three clinics provide mental health services to the community in and around Temple: The Psychological Services Center, the Adult Anxiety Clinic, and the Child and Adolescent Anxiety Disorders Clinic." 
         image="" 
         button-link="resources/clinical-services" 
         button-text="Learn More" %}
