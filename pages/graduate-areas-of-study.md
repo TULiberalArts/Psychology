@@ -170,8 +170,6 @@ _Director_<br/>
 Telephone: (484) 222-0379<br/>
 E-mail: [andrew.karpinski@temple.edu](mailto:andrew.karpinski@temple.edu)<br/>
 
-Note: The Social Psychology Program is accepting Ph.D. students into the program for the 2017-2018 academic year.
-
 **Primary Faculty**
 
 - [Donald Hantula, Ph.D.](https://liberalarts.temple.edu/academics/faculty/hantula-donald)
