@@ -2,9 +2,9 @@
 title: Research
 permalink: /research/
 layout: page
-keywords: ''
+keywords: 'psychological services, labs, clinics, research'
 description: >-
-published: null
+published: true
 ---
 ## Big Questions, Vital Answers
 At the heart of our program is our award-winning faculty. Nationally recognized scientists and practicing psychologists investigate how people think, feel, and develop using state-of-the-art methods in behavioral and cognitive neuroscience, and clinical, developmental and social psychology.
