@@ -10,11 +10,9 @@ published: true
 ## Psychology Majors Association (PMA)
 ![Student Life]({{site.baseurl}}/media/resized student life 1.jpg){:.img-right}
 ### Mission Statement/Statement of Purpose
-
 PMA strives to provide opportunities for students to enhance the understanding and appreciation of psychology through a variety of social and professional activities that one would not encounter in the classroom. PMA creates environments where students can participate in volunteer work, field trips, learn about post-graduation options, as well as furthering career opportunities. We strongly encourage and assist students in networking and creating strong connections with faculty members in order to build their skills and develop the abilities needed to succeed in their respective fields.
 
 ### Membership
-
 - All students who are a psychology major, minor, or simply interested in learning more about the field of psychology are invited to join PMA.
 - New members must pay a $5 membership fee for each semester, CASH ONLY.
 - Members are also required to attend at least three events per semester to continue membership (not including general body meetings).
@@ -80,12 +78,3 @@ Magda Abozeed is currently a junior in the college of liberal arts. She is a psy
 
 **ShaeLynn Trapp – Promotions Coordinator**
 ShaeLynn is a junior Psychology major, serving as the Promotions Officer for Psi Chi. She is a research assistant in the Temple University Infant and Child Lab, working on the Urban Thinkscape project. When she is not studying psychology, she can be found working at the front office of James S. White Hall or at home reading crime fiction. She plans on pursuing a career in school psychology.
-
-## Support the Department of Psychology
-
-Gifts made by alumni and friends from the community are vital to our department’s success. All donations are tax-deductible and support a range of student activities and faculty research.
-
-Gifts from alumni and friends of the department can be directed to honor beloved faculty mentors, to support graduate student research and progress through the Ph.D. program, and to promote science and science education in the grandest of traditions. By donating a gift to either the Shipley Research Prize or Bersh Award fund, you will ensure that each year, a deserving student can receive up to $1000 to put toward data collection or travel.
-
-- [The Shipley Prize](http://www.cla.temple.edu/psychology/files/2017/01/Psychology-Department-Awards.pdf)
-- [The Bersh Award](http://www.cla.temple.edu/psychology/files/2017/01/Psychology-Department-Awards.pdf)
