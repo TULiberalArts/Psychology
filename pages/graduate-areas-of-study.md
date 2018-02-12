@@ -4,7 +4,7 @@ permalink: /graduate/developmental-psychology/
 layout: page
 keywords: ''
 description: >-
-published: true
+published: false
 ---
 ## Graduate Faculty and Research
 ![BCS Faculty]({{site.baseurl}}/media/Resized BCS-Photo-Oct-2017-web-copy.png){:.img-right}
