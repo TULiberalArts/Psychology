@@ -116,8 +116,7 @@ During the fifth year, +1 students will complete 23 graduate credits, including 
 - Applications are due March 1st.
 
 ### Student Application Materials
-
-Assemble and submit the following materials as email attachments to [psych4plus1.apply@temple.edu](mailto:psych4plus1.apply@temple.edu). All materials must be submitted in a single email.
+Assemble and submit the following materials as email attachments to [psychplus1.apply@temple.edu](mailto:psychplus1.apply@temple.edu). All materials must be submitted in a single email.
 
 - Unofficial undergraduate transcripts
 - +1 [Application Form](http://www.cla.temple.edu/psychology/files/2016/01/Psychology-4-1-Application1.docx) (download)
@@ -126,7 +125,7 @@ Assemble and submit the following materials as email attachments to [psych4plus1
 - An academic writing sample
 - Letters of Recommendation
 
-Two letters of recommendation from Temple University faculty are required. At least one letter must be from Psychology Department faculty. Please request that faculty recommenders submit the letter as an email attachment to [psych4plus1.lor@temple.edu](mailto:psych4plus1.info@temple.edu), with the applicant’s full name in the subject line.
+Two letters of recommendation from Temple University faculty are required. At least one letter must be from Psychology Department faculty. Please request that faculty recommenders submit the letter as an email attachment to [psychplus1.lor@temple.edu](mailto:psychplus1.lor@temple.edu), with the applicant’s full name in the subject line.
 
 ### +1 Program Contact Information
 
@@ -135,7 +134,7 @@ Two letters of recommendation from Temple University faculty are required. At le
 Pamela Joyce Shapiro, Ph.D.<br>
 521 Weiss Hall<br>
 [215-204-7321](tel:2152047321)<br>
-[psych4plus1.info@temple.edu](mailto:psych4plus1.info@temple.edu)<br>
+[psychplus1.info@temnple.edu](mailto:psychplus1.info@temnple.edu)<br>
 
 **Academic Advisor**
 
