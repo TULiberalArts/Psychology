@@ -87,10 +87,10 @@ Students Interested in receiving a Specialization in Neuroscience through the Ne
 ## Programs of Study
 The department of psychology has 4 areas of study in the doctoral program:
 
-- [Brain and Cognitive Sciences](https://develop.cla.temple.edu/psychology/graduate/brain-and-cognitive-Sciences)<br>
-- [Clinical Psychology](https://develop.cla.temple.edu/psychology/graduate-areas-of-study#clinical-psychology)<br>
-- [Developmental Psychology](https://develop.cla.temple.edu/psychology/graduate-areas-of-study#developmental-psychology)<br>
-- [Social Psychology](https://develop.cla.temple.edu/psychology/graduate-areas-of-study#social-psychology)<br>
+- [Brain and Cognitive Sciences](https://develop.cla.temple.edu/psychology/graduate/brain-and-cognitive-sciences)<br>
+- [Clinical Psychology](https://develop.cla.temple.edu/psychology/graduate/clinical-psychology)<br>
+- [Developmental Psychology](https://develop.cla.temple.edu/psychology/graduate/developmental-psychology)<br>
+- [Social Psychology](https://develop.cla.temple.edu/psychology/graduate/social-psychology)<br>
 
 A student is ultimately accepted into a specific program. However, all Ph.D. applicants must meet the requirements for admission. Please visit the [Psychology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/psychology) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
