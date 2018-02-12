@@ -2,15 +2,14 @@
   url: /undergraduate/
 - text: Graduate
   url: /graduate/
-    childs:
-      - text: Brain and Cognitive Sciences
-        url: /brain-and-cognitive-sciences.md
-      - text: Clinical Psychology
-        url: /clinical-psychology.md
-      - text: Developmental Psychology
-        url: /developmental-psychology.md
-      - text: Social Psychology
-        url: /social-psychology.md
+- text: Brain and Cognitive Sciences
+  url: /graduate/brain-and-cognitive-sciences.md
+- text: Clinical Psychology
+  url: /graduate/clinical-psychology.md
+- text: Developmental Psychology
+  url: /graduate/developmental-psychology.md
+- text: Social Psychology
+  url: /graduate/social-psychology.md
 - text: Faculty
   url: /faculty/
 - text: Student Life
