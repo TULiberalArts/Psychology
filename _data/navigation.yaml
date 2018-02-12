@@ -2,8 +2,15 @@
   url: /undergraduate/
 - text: Graduate
   url: /graduate/
-- text: Graduate Areas of Study
-  url: /graduate-areas-of-study/
+    childs:
+      - text: Brain and Cognitive Sciences
+        url: /brain-and-cognitive-sciences.md
+      - text: Clinical Psychology
+        url: /clinical-psychology.md
+      - text: Developmental Psychology
+        url: /developmental-psychology.md
+      - text: Social Psychology
+        url: /social-psychology.md
 - text: Faculty
   url: /faculty/
 - text: Student Life

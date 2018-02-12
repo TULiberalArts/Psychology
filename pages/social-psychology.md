@@ -1,6 +1,6 @@
 ---
 title: Graduate Areas of Study
-permalink: /graduate-areas-of-study/
+permalink: /graduate/social-psychology/
 layout: page
 keywords: ''
 description: >-
@@ -46,8 +46,8 @@ For students who go on to do work that is more clinical in nature, our goal is t
 The Clinical Psychology Program is fully accredited by the Psychological Clinical Science Accreditation System (PCSAS) and the American Psychological Association (APA).
 
 American Psychological Association
-Office of Program Consultation and Accreditation 
-750 First St, NE 
+Office of Program Consultation and Accreditation
+750 First St, NE
 Washington, DC 20002-4242
 Website: [APA Office of Program Consultation and Accreditation](http://www.apa.org/ed/accreditation/index.aspx)
 
@@ -97,7 +97,7 @@ The [Council of University Directors of Clinical Training](http://www.cudcp.us/)
 ### Clinical Psychology Resources
 
 - View [Student Selection Process](https://liberalarts.temple.edu/sites/liberalarts/files/STUDENT-SELECTION-PROCESS.pdf) (pdf)
-- View [Student Admissions, Outcomes, and Other Data](https://liberalarts.temple.edu/sites/liberalarts/files/NEW-C-20-data-2016.pdf) (.pdf) 
+- View [Student Admissions, Outcomes, and Other Data](https://liberalarts.temple.edu/sites/liberalarts/files/NEW-C-20-data-2016.pdf) (.pdf)
 - View [2017 Clinical Admissions Update](https://liberalarts.temple.edu/sites/liberalarts/files/Clinical-Admissions-update-2017.pdf) (pdf)
 
 ___
