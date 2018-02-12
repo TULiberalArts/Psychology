@@ -17,11 +17,14 @@ published: true
       
       <ul>
         <li class='flow-text"'><em>{{ person['Faculty Title'] }}</em></li>
-      </ul>
-      {% if person['Secondary Title'] %}
-      <div class='flow-text"'><em>{{ person['Secondary Title'] }}</em></div>
+        {% if person['Second Title'] %}
+          <li class='flow-text"'><em>{{ person['Second Title'] }}</em></li>
         {% endif %}
-      <ul><li class=""> {{ person['Program'] }}</li></ul>
+        {% if person['Third Title'] %}
+          <li class='flow-text"'><em>{{ person['Third Title'] }}</em></li>
+        {% endif %}
+        <li class=""> {{ person['Program'] }}</li>
+      </ul>
     </div>
 
     <div class="person-headshot col s12 m2 pull-m4">
