@@ -6,9 +6,7 @@ keywords: ''
 description: >-
 published: true
 ---
-## Graduate Faculty and Research
 ![BCS Faculty]({{site.baseurl}}/media/Resized BCS-Photo-Oct-2017-web-copy.png){:.img-right}
-
 ## Brain and Cognitive Sciences Faculty & Research
 Faculty and students in the Brain and Cognitive Sciences Program are working on a wide range of research questions across the domains of cognition, perception, and neuroscience. Students in this program are presented with a unique opportunity for integrative work across a variety of perspectives. A list of faculty working in the BCS Program is given below, along with a brief indication of their research interests. In addition to pursuing a Ph.D. in the Psychology Department, graduate students with neuroscience interests can also receive a [Specialization in Neuroscience](http://www.cla.temple.edu/neuroscience#phd-specialization-in-neuroscience/) through the interdisciplinary Neuroscience@Temple Program, which includes faculty from the Biology, Pharmacology, Physical Therapy, and Psychology Departments.
 
@@ -18,7 +16,7 @@ For further information or questions concerning the Doctoral Program in Brain an
 Director, Brain and Cognitive Sciences<br/>
 Email: [jchein@temple.edu](mailto:jchein@temple.edu)<br/>
 
-### BCS Faculty & Research Interests
+## BCS Faculty & Research Interests
 
 - [Debra Bangasser, Ph.D.](https://liberalarts.temple.edu/academics/faculty/bangasser-debra): Neurobiology of stress, anxiety, and learning - Currently Accepting Graduate Students
 - [Lisa Briand, Ph.D.](https://liberalarts.temple.edu/academics/faculty/briand-lisa): Animal Models of Addiction - Currently Accepting Graduate Students
