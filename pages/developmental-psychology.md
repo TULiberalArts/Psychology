@@ -14,10 +14,10 @@ Each student also works closely with a faculty advisor to develop a programmatic
 For more details, prospective applicants are encouraged to explore the web pages of developmental faculty (below) to get a closer look at the research topics that are being explored across the area. Envisaging a good fit between an applicant’s research interests and those of a specific developmental faculty member is a very important aspect of the admissions process.
 Students also have the option of taking a concentration in Developmental Psychopathology. Learn more about the concentration in Developmental Psychopathology.
 
-### Developmental Psychopathology Concentration
+## Developmental Psychopathology Concentration
 In recognition of the growing popularity of the area of developmental psychopathology, the department provides graduate students the option of pursuing a concentration in Developmental Psychopathology as part of their graduate training. The concentration in Developmental Psychopathology is neither a separate program nor a subdivision of any of the specific programs (e.g., clinical, developmental), but an approach to coursework, research, and other graduate activities that reflects a developmental psychopathology framework. There are a variety of ways that students can meet criteria for the Developmental Psychopathology concentration.
 
-### Coursework
+## Coursework
 All students interested in the Developmental Psychopathology concentration should meet the requirements of their individual programs and plan electives to ensure that the following courses are taken:
 
 - developmental psychopathology
@@ -27,10 +27,10 @@ All students interested in the Developmental Psychopathology concentration shoul
 - one additional elective in clinical psychology
 - advanced statistics beyond multivariate regression
 
-### Research
+## Research
 Students’ independent research (e.g., dissertation) should reflect the application of a developmental psychopathology perspective in the research questions, methods, analytic approach, and interpretation of findings. At least one of the students’ core committee members should identify with the developmental psychopathology approach.
 
-### Other Activities
+## Other Activities
 Students should attend talks (e.g., department colloquia, conferences) that permit further application of the developmental psychopathology framework.
 
 Many of these experiences are easily achieved within the department and through consultation with students’ mentors. Criteria for the Developmental Psychopathology concentration are intended to be flexible, and it is expected that students will meet these criteria in a variety of different ways. If you have questions about this concentration, please contact [ddrabick@temple.edu](mailto:ddrabick@temple.edu).
