@@ -87,7 +87,7 @@ Students Interested in receiving a Specialization in Neuroscience through the Ne
 ## Programs of Study
 The department of psychology has 4 areas of study in the doctoral program:
 
-- [Brain and Cognitive Sciences](https://develop.cla.temple.edu/psychology/graduate-areas-of-study#Brain-and-Cognitive-Sciences-Faculty--Research)<br>
+- [Brain and Cognitive Sciences](https://develop.cla.temple.edu/psychology/graduate/brain-and-cognitive-Sciences)<br>
 - [Clinical Psychology](https://develop.cla.temple.edu/psychology/graduate-areas-of-study#clinical-psychology)<br>
 - [Developmental Psychology](https://develop.cla.temple.edu/psychology/graduate-areas-of-study#developmental-psychology)<br>
 - [Social Psychology](https://develop.cla.temple.edu/psychology/graduate-areas-of-study#social-psychology)<br>
@@ -103,7 +103,7 @@ Dr. Deborah Drabick<br/>
 Director of Graduate Studies<br/>
 [deborah.drabick@temple.edu](mailto:deborah.drabick@temple.edu)<br/>
 
-### Graduate Resources 
+### Graduate Resources
 - [Graduate Handbook](https://docs.google.com/document/d/1hoxVN1ol7ZGB10_9N0k8yVxkRDJLcMVYGTp-Nwgbm94/edit?usp=sharing)
 - [Psychology Graduate Program FAQ's](https://docs.google.com/document/d/1C8k-NlsbcRW-5dyNJdiUJ1cqpUFsR_ba4Y1CLbN-COs/edit?usp=sharing)
 
