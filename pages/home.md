@@ -13,8 +13,8 @@ feature-body: >-
 feature-image: media/centered hero_bg.png
 published: true
 ---
-[![Psychology Brochure](https://github.com/TULiberalArts/Psychology/blob/master/media/resized%20Brochure%20homepage.png?raw=true)](https://liberalarts.temple.edu/sites/liberalarts/files/TU_Psych_Viewbook_Layout_Final_OFFICIAL%20%281%29.pdf){:.img-right}
 ## Excel In Our Program
+[![Psychology Brochure](https://github.com/TULiberalArts/Psychology/blob/master/media/resized%20Brochure%20homepage.png?raw=true)](https://liberalarts.temple.edu/sites/liberalarts/files/TU_Psych_Viewbook_Layout_Final_OFFICIAL%20%281%29.pdf){:.img-right}
 Undergraduate students who study Psychology at Temple develop critical thinking skills through courses that emphasize the scientific basis of psychology, statistical analysis, and experimental design. Advanced courses introduce students to current psychological research on mental disorders and treatments, learning and memory, social development, and many other topics. Students are encouraged to develop applied skills through focused experiential learning in research laboratories and through community-based internships.
 
 Our nationally-ranked graduate program provides doctoral training across four areas of psychology: Clinical Psychology, Brain and Cognitive Sciences, Developmental Psychology, and Social Psychology. The intensive, full-time doctoral program is highly research-focused and allows for students to gain experiences across multiple research methodologies and laboratory environments.
