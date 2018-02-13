@@ -6,6 +6,7 @@ keywords: 'psychological services, labs, clinics, research'
 description: >-
 published: true
 ---
+[![Psychology Brochure](https://github.com/TULiberalArts/Psychology/blob/master/media/resized%20Brochure%20homepage.png?raw=true)](https://liberalarts.temple.edu/sites/liberalarts/files/TU_Psych_Viewbook_Layout_Final_OFFICIAL%20%281%29.pdf){:.img-right}
 ## Big Questions, Vital Answers
 At the heart of our program is our award-winning faculty. Nationally recognized scientists and practicing psychologists investigate how people think, feel, and develop using state-of-the-art methods in behavioral and cognitive neuroscience, and clinical, developmental and social psychology.
 
