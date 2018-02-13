@@ -10,7 +10,7 @@ feature-body: >-
   The Department of Psychology has a threefold mission: To answer questions on the cutting edge of psychology research,
   to provide training to undergraduate and graduate students in the broad fields of psychology, and to provide individuals
   and the community with psychological services based on the best current practices in psychology.
-feature-image: media/Psych hero.png
+feature-image: media/centered hero_bg.png
 published: true
 ---
 [![Psychology Brochure](https://github.com/TULiberalArts/Psychology/blob/master/media/resized%20Brochure%20homepage.png?raw=true)](https://liberalarts.temple.edu/sites/liberalarts/files/TU_Psych_Viewbook_Layout_Final_OFFICIAL%20%281%29.pdf){:.img-right}
