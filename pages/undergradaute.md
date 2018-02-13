@@ -16,15 +16,15 @@ sidebar-content: |
   **Chair:**  
    Peter Marshall, Ph.D  
    656 Weiss Hall  
-   (215) 204-7360
+   (215) 204-7360    
    Pjmarsh@temple.edu  
    
    ___
    
   **Associate Chair:**  
    Peter James, Ph.D  
-   606 Weiss Hall  
-   (215) 204-3409
+   606 Weiss Hall      
+   (215) 204-3409    
    pjames@temple.edu
    
     ___
@@ -32,8 +32,8 @@ sidebar-content: |
    **Director of Undergraduate Studies:**  
    Andy Karpinski, Ph.D.         
    505 Weiss Hall  
-   (215) 204-3102
-   andykarp@temple.edu 
+   (215) 204-3102    
+   andykarp@temple.edu   
    
    ___
    
@@ -69,7 +69,7 @@ sidebar-content: |
    (215) 204-5998   
    kia.little@temple.edu  
    
-   **Senior Academic Advisor:**
+   **Senior Academic Advisor:**    
    Nicole Pileggi, M.Ed.  
    616 Weiss Hall    
    [(215) 204-3403](tel:2152043403)   
