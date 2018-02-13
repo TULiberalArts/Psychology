@@ -72,3 +72,24 @@ Different treatments for anxiety disorders in youth may have different success r
 ### Psychological Services
 The Psychological Services Center, under the direction of **[Catherine Panzarella](https://liberalarts.temple.edu/academics/faculty/panzarella-catherine)**, is a nonprofit community center providing counseling, psychological services, and comprehensive psychological assessments. It serves individuals from Temple University and the surrounding communities. The PSC is a training clinic for the doctoral students in the Clinical Psychology Program, one of the top clinical  psychology doctoral programs in the country. Among the faculty are leading  researchers in the fields of depression and anxiety disorders.
 - [Psychological Services Center](sites.temple.edu/psc/)
+
+## Opportunities to Participate in Research: Non Temple Students
+For those who are not Temple students, below is a list of research groups organized by the age groups of people that typically participate in their research studies. Please click the specific links for more information on current studies.
+
+**Infants and Young Children (1-4 years)**
+- [Developmental Science Lab](http://www.temple.edu/devscilab/)
+- [Temple Infant and Child Lab (Ambler campus)](http://www.temple.edu/infantlab/)
+- [Temple Cognition & Learning Lab](http://sites.temple.edu/cognitionlearning/)
+
+**Older Children (5-12 years)**
+- [Temple Cognition & Learning Lab](http://sites.temple.edu/cognitionlearning/)
+
+**Adolescents**
+- [Mood and Cognition Lab (ages 14-16 years)](http://www.temple.edu/moodandcognitionlab/)
+- [Temple University Neurocognition Lab](http://www.temple.edu/tunl/)
+- [Adolescent Decision Making Lab](http://www.laurencesteinberg.com/research/current-projects)
+
+**Adults**
+- [Research in Spatial Cognition Lab](http://sites.temple.edu/risc/)
+- [Mechanisms of Affect Dysregulation Lab](http://sites.temple.edu/madlab/)
+
