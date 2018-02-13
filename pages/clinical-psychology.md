@@ -8,17 +8,16 @@ published: true
 ---
 ![Clinical Faculty]({{site.baseurl}}/media/ClinicalGroupPhoto.jpg){:.img-right}
 ## Clinical Psychology
-
 The Clinical Psychology Program at Temple University subscribes to the clinical scientist model and provides sound, rigorous training in clinical and research methodologies. The overarching mission of the program is to train creative and accomplished clinical scientists who produce, consume, and disseminate psychological science and who function successfully in academic, research, and applied settings. Doctoral students receive broad-based training in preparation for careers as researchers, educators, and scientifically minded clinicians. Coursework provides students with a solid theoretical and scientific foundation in the core areas of psychology and essential aspects of clinical psychology. Students are immersed in the conduct of research in clinical psychology and its application to the assessment and treatment of persons with mental, emotional, and behavioral disorders. Many of our students conduct research with applied emphases, and they are encouraged to incorporate empirical research directly into their assessment, intervention, and treatment planning. For graduates who choose an academically or research-oriented career path, it is our goal that their research endeavors be informed by a fundamental understanding of basic psychological science, including psychopathology and a solid foundation of clinical skill and experience in the assessment and treatment of persons with psychological, emotional, and behavioral disorders.
 
 For students who go on to do work that is more clinical in nature, our goal is that these graduates not only bring excellence, professionalism, and leadership to their clinical work, but that they do so within a scientific framework. As we define it, this means that they bring the perspectives and habits of scientific inquiry into their clinical work and that their work is continually informed by advances in the scientific literature. To accomplish these goals, Temple students are directly involved in both research and clinical training throughout their tenure, beginning in their very first year.
 
 The Clinical Psychology Program is fully accredited by the Psychological Clinical Science Accreditation System (PCSAS) and the American Psychological Association (APA).
 
-American Psychological Association
-Office of Program Consultation and Accreditation
-750 First St, NE
-Washington, DC 20002-4242
+American Psychological Association<br/>
+Office of Program Consultation and Accreditation<br/>
+750 First St, NE<br/>
+Washington, DC 20002-4242<br/>
 Website: [APA Office of Program Consultation and Accreditation](http://www.apa.org/ed/accreditation/index.aspx)
 
 For information concerning application for admission to the Doctoral Program in Clinical Psychology, please thoroughly review the material associated with the links below. For further information or questions, please contact:
