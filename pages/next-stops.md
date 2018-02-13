@@ -32,10 +32,10 @@ After graduation, our students pursue a diverse range of careers, such as:
 
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
-- View a complete list of our academic offerings, [liberalarts.temple.edu](liberalarts.temple.edu)
-- Register for a tour to visit us, temple.edu/visit
-- Learn more about transferring to Temple, [temple.edu/transfer](temple.edu/transfer)
-- Ready to apply? Submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
+- View a complete list of our academic offerings, [liberalarts.temple.edu](http://liberalarts.temple.edu)
+- Register for a tour to visit us, [temple.edu/visit](http://temple.edu/visit)
+- Learn more about transferring to Temple, [temple.edu/transfer](http://temple.edu/transfer)
+- Ready to apply? Submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply)
 
 ## Deadlines
 **February 1**: Freshman Application Deadline for Fall Semester<br/>
@@ -44,7 +44,6 @@ The College of Liberal Arts has the largest selection of academic offerings at T
 **June 1**: Transfer Deadline for Fall Semester<br/>
 
 ## Notable Alumni
-
 So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni that have risen to levels of professional acclaim and successes! 
 
 **_Alumni Spotlight_**
