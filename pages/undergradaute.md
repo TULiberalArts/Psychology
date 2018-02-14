@@ -76,27 +76,27 @@ sidebar-content: |
 ![Behavior Lab 2]({{site.baseurl}}/media/resized Behavior-Lab 2-1024x638.jpg){:.img-right}
 The Department of Psychology has a strong commitment to scholarly and scientific excellence. It has been heralded as one of the most diverse universities in the nation. This setting offers exciting opportunities for research and scholarly discourse.
 
-The Temple University Undergraduate Psychology program provides a modern curriculum covering a breadth of content, ranging from biological bases of cognition and behavior to sociocultural influences on human interactions and psychological disorders. The curriculum is designed to develop students’ critical thinking skills through emphasis of the scientific basis of Psychology and courses in statistics and research methodology. The program also emphasizes the integration and synthesis of information across courses and activities through the stepwise progression of the curriculum from the introductory, foundational, and advanced classes up to the final capstone course that is taken in the senior year.
+Temple University's Undergraduate Psychology program provides a modern curriculum covering a breadth of content, ranging from biological bases of cognition and behavior to sociocultural influences on human interactions and psychological disorders. The curriculum is designed to develop students’ critical thinking skills through emphasis of the scientific basis of Psychology and courses in statistics and research methodology. The program also emphasizes the integration and synthesis of information across courses and activities through the stepwise progression of the curriculum from the introductory, foundational, and advanced classes up to the final capstone course that is taken senior year.
 
-Students are strongly encouraged to develop applied skills through rigorous and highly focused experiential learning in research laboratories and community–based internships. The curriculum is designed to be sufficiently flexible to satisfy the diversity of needs among undergraduates. As such an individually tailored curriculum may be selected for the purpose of preparing students for employment or further study in psychology, neuroscience, medicine, law, business, or other fields.
+Students are strongly encouraged to develop applied skills through rigorous and highly focused experiential learning in research laboratories and community–based internships. The curriculum is designed to be sufficiently flexible to satisfy undergraduates’ diverse needs. As such, students may select an individually tailored curriculum for employment or further study in psychology, neuroscience, medicine, law, business, or other fields.
 
 ## Honors Psychology Program
 The Honors Psychology program is designed to be a 2-year study that begins with a yearlong investigation of methodology, critical thinking and writing. In the second year, the program culminates in the production of a senior thesis that is presented at the student poster session. Each semester, the class explores a new topic in-depth. Student-led discussions complement traditional lectures, encouraging students to engage fully with the course content.
 
-The Honors Psychology program has several main goals. First, students may expect an integrated panoramic view of the field of psychology, from its historical roots to current perspectives. Second, the program will provide students with a foundation in scientific methodology. Students will then take that knowledge to design, implement, and analyze data for their senior thesis.  Third, this hands-on experience is designed to encourage students to grapple with key theoretical and research ideas related to their particular interest. Additionally, the program offers an intimate and individualized experience to prepare students for the future career paths to which they aspire.
+The Honors Psychology program has several main goals. First, students may expect an integrated panoramic view of the field of psychology, from its historical roots to current perspectives. Second, the program will provide students with a foundation in scientific methodology. Students will then take that knowledge to design, implement, and analyze data for their senior thesis. Third, this hands-on experience encourages students to grapple with key theoretical and research ideas related to their particular interest. Additionally, the program offers an intimate and individualized experience to prepare students for the future career paths to which they aspire.
 
 [Learn More about the Honors Psychology Program](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/ba-psychology/). 
 
-## Psychology Internship And Practicum (Psych 3785/3787)
-The [Psychology Internship/Practicum](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/) is a course that is designed to give you experience in the work-world and, as such, is unlike most other courses you will take. There are two courese required for completion: [Internship (Psych 3785)](http://bulletin.temple.edu/search/?P=PSY%203785) and [Practicum (Psych 3787)](http://bulletin.temple.edu/search/?P=PSY%203787). You will have dual responsibility: to provide the best service possible to your agency/school/company (you will be, in some sense, an ambassador for Temple and for the Department), and to communicate regularly with your advisor. 
+## Psychology Internship and Practicum (Psych 3785/3787)
+The [Psychology Internship/Practicum](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/) is a course that gives you experience in the work-world and, as such, is unlike most other courses you will take. There are two courses required for completion: [Internship (Psych 3785)](http://bulletin.temple.edu/search/?P=PSY%203785) and [Practicum (Psych 3787)](http://bulletin.temple.edu/search/?P=PSY%203787). You will have dual responsibility: to provide the best service possible to your agency/school/company (you will be, in some sense, an ambassador for Temple and for the Department), and to communicate regularly with your advisor. 
 
 View the following pdf to learn more about this course, requirements, guidelines, contact information and deadlines. [Psychology Internship and Practicum](https://liberalarts.temple.edu/sites/liberalarts/files/INTERNSHIP%20AND%20PRACTICUM%20General%20Guidelines%202017-2018.pdf). (pdf.)
 
 ## Psychology 5-Year Master’s Program (+1)
 ![Research]({{site.baseurl}}/media/resized 4+1.jpg){:.img-right}
-The +1 Master in Psychological Research offers outstanding Temple University psychology majors the opportunity to earn both the Bachelor of Arts in Psychology and the Master of Science in Psychological Research in just 5 years. Admission to the program is highly selective. The program is designed to provide a research-intensive experience, advanced coursework, and professional development to students who intend to pursue doctoral studies in any of the academic psychology disciplines.Students apply to the program in the spring semester of the junior year after completing a minimum of 72 undergraduate credits. Additionally, students must have a faculty sponsor who has agreed to mentor the student’s master’s project research during the four-semester program.
+The +1 Master in Psychological Research offers outstanding Temple University psychology majors the opportunity to earn both the Bachelor of Arts in Psychology and the Master of Science in Psychological Research in just 5 years. Admission to the program is highly selective. The program provides a research-intensive experience, advanced coursework, and professional development to students who intend to pursue doctoral studies in any of the academic psychology disciplines. Students apply to the program in the spring semester of the junior year after completing a minimum of 72 undergraduate credits. Additionally, students must have a faculty sponsor who has agreed to mentor the student’s master’s project research during the four-semester program.
 
-Students admitted to the program will complete 30 credits during the senior year, of which 9 credits are graduate courses. These 9 credits will count toward both the BA and MS degrees.  Each student will work with a faculty sponsor to develop and implement a master’s project. On completion of the senior year, students receive the BA in Psychology, then are formally admitted to the MS program in Psychological Research (with 9 graduate credits already completed).
+Students admitted to the program will complete 30 credits during the senior year, of which 9 credits are graduate courses. These nine credits will count toward both the BA and MS degrees. Each student will work with a faculty sponsor to develop and implement a master’s project. On completion of the senior year, students receive the BA in Psychology, then are formally admitted to the MS program in Psychological Research (with nine graduate credits already completed).
 
 During the fifth year, +1 students will complete 23 graduate credits, including courses in research methods, statistics, ethics, topical seminars, a professional development seminar series, and master’s project research.
 
@@ -109,7 +109,7 @@ During the fifth year, +1 students will complete 23 graduate credits, including 
 
 ### Applications
 
-- Applications are due March 1st.
+- Applications are due March 1.
 
 ### Student Application Materials
 Assemble and submit the following materials as email attachments to [psychplus1.apply@temple.edu](mailto:psychplus1.apply@temple.edu). All materials must be submitted in a single email.
@@ -119,7 +119,7 @@ Assemble and submit the following materials as email attachments to [psychplus1.
 - Signed [Faculty Sponsor Agreement](http://www.cla.temple.edu/psychology/files/2016/01/Faculty-Sponsor-Agreement.docx) (download)
 - A personal statement describing the reasons for pursuing a master’s degree, current research interests, research experience, and future career goals
 - An academic writing sample
-- Letters of Recommendation
+- Letters of recommendation
 
 Two letters of recommendation from Temple University faculty are required. At least one letter must be from Psychology Department faculty. Please request that faculty recommenders submit the letter as an email attachment to [psychplus1.lor@temple.edu](mailto:psychplus1.lor@temple.edu), with the applicant’s full name in the subject line.
 
@@ -140,8 +140,7 @@ Nicole Pileggi, M.Ed.<br>
 [nicole.pileggi@temple.edu](mailto:nicole.pileggi@temple.edu)<br>
 
 ## Faculty Sponsors
-
-The following faculty members are willing to sponsor students for the 4+1 program. It is each student’s responsibility to contact a faculty member to initiate a conversation about sponsorship for the 4+1 program. Please be prepared to discuss your research interests, potential research projects, your responsibilities in the sponsor’s lab, and the sponsor’s expectations for your research progress in each semester of the program.
+The following faculty members are willing to sponsor students for the +1 program. It is each student’s responsibility to contact a faculty member to initiate a conversation about sponsorship for the program. Please be prepared to discuss your research interests, potential research projects, your responsibilities in the sponsor’s lab, and the sponsor’s expectations for your research progress in each semester of the program.
 
 - [Lauren Alloy](https://liberalarts.temple.edu/academics/faculty/alloy-lauren)
 - [Debra Bangasser](https://liberalarts.temple.edu/academics/faculty/bangasser-debra)
@@ -173,4 +172,4 @@ Graduate programs in psychology highly regard students with research experience.
 Another opportunity to carry out research is through the [Psychology Honors Program](https://develop.cla.temple.edu/psychology/undergraduate/) in which students carry out a focused research project and present it at the end of their senior year at a departmental poster session.
 
 ### Participating in Psychology Research at Temple
-There are various opportunities to participate in psychology research studies at Temple. If you are a Temple student, one way to find out more about participating in research is through the Sona Systems site at: [temple.sona-systems.com](https://temple.sona-systems.com).
+There are various opportunities to participate in psychology research studies at Temple. If you are a Temple student, you can find out more about participating in research through the Sona Systems site at: [temple.sona-systems.com](https://temple.sona-systems.com).
