@@ -48,6 +48,10 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
 
 **_Alumni Spotlight_**
 
+- [Syreeta Gary Washington](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-syreeta-gary-washington)<br/> 
+  Professor and Psychology Coordinator at Rowan College at Burlington County (RCBC)<br/> 
+  B.A. in Psychology from Temple in 1998<br/> 
+  
 - [Rolanda Findlay](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-rolanda-findlay)<br/>
   Lieutenant Commander (LCDR); Aerospace Experimental Psychologist<br/>
   B.A. in Psychology from Temple in 2004<br/> 
