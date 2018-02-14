@@ -39,7 +39,7 @@ Psychology's dedicated academic advisor is available to meet with students to pr
     title="Get Involved in Research!" 
     content="Undergraduate students gain vital skills through hands-on experience in laboratories and research groups." 
     image="" 
-    button-link="/undergraduate/#research-opportunities" 
+    button-link="/psychology/undergraduate/#research-opportunities" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
@@ -55,7 +55,7 @@ Psychology's dedicated academic advisor is available to meet with students to pr
         title="Clinical Services" 
         content="Three clinics provide mental health services to the community in and around Temple: The Psychological Services Center, the Adult Anxiety Clinic, and the Child and Adolescent Anxiety Disorders Clinic." 
         image="" 
-        button-link="/clinical-services/" 
+        button-link="clinical-services" 
         button-text="Learn More" %}
       </div>
 </div>
