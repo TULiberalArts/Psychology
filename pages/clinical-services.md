@@ -12,7 +12,7 @@ The PSC offers psychotherapy and assessment, including neuropsychological assess
 
 ## Adult Anxiety Clinic
 ![AAC Temple]({{site.baseurl}}/media/AACT-logo.jpg){:.img-right}
-The Adult Anxiety Clinic of Temple (AACT) is an internationally known center for the study of the nature and treatment of anxiety. The AACT currently offers diagnostic evaluation and empirically-supported psychological treatment for adults with anxiety-related concerns, especially focusing on the treatment of persons with social anxiety disorder. Services are offered on a sliding fee scale after completion of a telephone screening to determine whether our services are a fit for your needs. For more information, please visit our [website](http://sites.temple.edu/anxiety/) or call [(215) 204-1575](tel:2152041575).
+The Adult Anxiety Clinic of Temple (AACT) is an internationally known center for the study of the nature and treatment of anxiety. The AACT currently offers diagnostic evaluation and empirically supported psychological treatment for adults with anxiety-related concerns, especially focusing on the treatment of persons with social anxiety disorder. Services are offered on a sliding fee scale after completion of a telephone screening to determine whether our services are a fit for your needs. For more information, please visit our [website](http://sites.temple.edu/anxiety/) or call [(215) 204-1575](tel:2152041575).
 
 ## Child and Adolescent Anxiety Disorders Clinic (CAADC)
 ![CAADC Temple]({{site.baseurl}}/media/resized CAADC Logo_V2_2.jpg){:.img-right}
