@@ -7,7 +7,8 @@ description: >-
 published: true
 sidebar: true
 sidebar-content: |
- **The Department of Psychology:**   
+ **Main Office:**   
+   656 Weiss Hall    
    [(215) 204-7321](2152047321)   
    Fax: (215) 204-5539     
    
@@ -17,7 +18,7 @@ sidebar-content: |
    Peter Marshall, Ph.D  
    656 Weiss Hall  
    (215) 204-7360  
-   Pjmarsh@temple.edu  
+   peter.marshall@temple.edu  
    
    ___
    
@@ -37,7 +38,7 @@ sidebar-content: |
    
    ___
    
-   **Administrator:**  
+   **Senior Administrator:**  
    Laura Dean  
    654 Weiss Hall   
    (215) 204-2644  
@@ -45,36 +46,24 @@ sidebar-content: |
    
    ___
    
-   **Assistant Administrator:**  
+ **Assistant Administrators:**  
    Michelle Bonilla  
    657 Weiss Hall   
    (215) 204-7317  
-   mbonilla@temple.edu)  
+   mbonilla@temple.edu  
+       
+   Theresa Seymour  
+   652 Weiss Hall   
+   (215) 204-7008  
+   tkitch@temple.edu  
    
     ___
-
-   **Coordinators:**  
-   Lauren McDuffie  
-   659 Weiss Hall    
-   (215) 204-7321   
-   LMcD@temple.edu  
-
-   Sarah McLaughlin, Neuroscience Student Services Specialist/Coordinator  
-   638 Weiss Hall    
-   (215) 204-3441  
-   smclaughlin@temple.edu
-   
-   Vanessa Allen-Smith, Graduate Coordinator  
-   653 Weiss Hall    
-   (215) 204-7667   
-   vallens@temple.edu  
-   
-   **Senior Academic Advisor:**
-   
-   Nicole Pileggi, M.Ed.  
-   616 Weiss Hall    
-   (215) 204-3403   
-   nicole.pileggi@temple.edu
+    
+   **Graduate Coordinator:**  
+   Vanessa Allen-Smith    
+   653 Weiss Hall     
+   (215) 204-7667    
+   [vallens@temple.edu](vallens@temple.edu)   
 ---
 
 ## Program Overview
