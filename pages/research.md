@@ -10,9 +10,9 @@ published: true
 ## Big Questions, Vital Answers
 Our award-winning faculty is at the heart of our program. Nationally recognized scientists and practicing psychologists investigate how people think, feel, and develop using state-of-the-art methods in behavioral and cognitive neuroscience, and clinical, developmental and social psychology.
 
-The research conducteded in our world-renowned laboratories addresses a wide-range of human conditions and behaviors. There are many opportunities for students to participate in faculty research or conduct independent study under faculty supervision.
+The research conducted in our world-renowned laboratories addresses a wide-range of human conditions and behaviors. There are many opportunities for students to participate in faculty research or conduct independent study under faculty supervision.
 
-## Temple University Labs 
+## Psychology Research Laboratories 
 
 ### Mood and Cognition
 What are the causes of the first onset of depression and bipolar disorder in adolescents and young adults? Are there factors that can provide protection  against depression and bipolar disorder? This lab, led by principal investigator **[Lauren Alloy](https://liberalarts.temple.edu/academics/faculty/alloy-lauren)**, studies the cognitive, psychosocial, developmental, and, recently, neurobiological processes in the onset and course of depression and bipolar disorder in adolescents and adults. 
@@ -56,7 +56,6 @@ Why do some people—but not all—develop dementia and Alzheimer’s disease? H
 
 ### Adolescent Development and Decision-Making 
 Why do teens engage in risky behavior? Is it driven by peer pressure or a simple lack of maturity? Is there something else at play? This lab, directed by **[Laurence Steinberg](https://liberalarts.temple.edu/academics/faculty/steinberg-laurence)**, studies various aspects of adolescent development and decision-making with a special focus on understanding why adolescents often engage in risky and reckless behavior. The lab uses a variety of methods, including behavioral tests, brain imaging and questionnaires.
-- [Laurence Steinberg Current Projects](laurencesteinberg.com/research/current-projects)
 
 ___
 
