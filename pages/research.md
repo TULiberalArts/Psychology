@@ -65,6 +65,8 @@ ___
 > “The Honors program encouraged me to think critically and deeply about psychology. I was able to create my own research project with  expert advice from the professor, the graduate students, and the very supportive lab group. With Dr. Hirsh-Pasek’s help, I found employment immediately after graduation. At some point,  
 I may apply to graduate school.” - Molly Finkel BA 2015
 
+___
+
 ## Temple University Clinics
 
 ### Adult Anxiety
