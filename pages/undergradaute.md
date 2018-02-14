@@ -73,7 +73,6 @@ sidebar-content: |
 ---
 
 ## Program Overview
-![Behavior Lab 2]({{site.baseurl}}/media/resized Behavior-Lab 2-1024x638.jpg){:.img-right}
 The Department of Psychology has a strong commitment to scholarly and scientific excellence. It has been heralded as one of the most diverse universities in the nation. This setting offers exciting opportunities for research and scholarly discourse.
 
 Temple University's Undergraduate Psychology program provides a modern curriculum covering a breadth of content, ranging from biological bases of cognition and behavior to sociocultural influences on human interactions and psychological disorders. The curriculum is designed to develop students’ critical thinking skills through emphasis of the scientific basis of Psychology and courses in statistics and research methodology. The program also emphasizes the integration and synthesis of information across courses and activities through the stepwise progression of the curriculum from the introductory, foundational, and advanced classes up to the final capstone course that is taken senior year.
@@ -87,7 +86,7 @@ The Honors Psychology program has several main goals. First, students may expect
 
 [Learn More about the Honors Psychology Program](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/ba-psychology/). 
 
-## Psychology Internship and Practicum (Psych 3785/3787)
+## Psychology Internship and Practicum 
 The [Psychology Internship/Practicum](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/) is a course that gives you experience in the work-world and, as such, is unlike most other courses you will take. There are two courses required for completion: [Internship (Psych 3785)](http://bulletin.temple.edu/search/?P=PSY%203785) and [Practicum (Psych 3787)](http://bulletin.temple.edu/search/?P=PSY%203787). You will have dual responsibility: to provide the best service possible to your agency/school/company (you will be, in some sense, an ambassador for Temple and for the Department), and to communicate regularly with your advisor. 
 
 View the following pdf to learn more about this course, requirements, guidelines, contact information and deadlines. [Psychology Internship and Practicum](https://liberalarts.temple.edu/sites/liberalarts/files/INTERNSHIP%20AND%20PRACTICUM%20General%20Guidelines%202017-2018.pdf). (pdf.)
