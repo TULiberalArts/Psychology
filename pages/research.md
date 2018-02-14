@@ -8,9 +8,9 @@ published: true
 ---
 [![Psychology Brochure](https://github.com/TULiberalArts/Psychology/blob/master/media/resized%20Brochure%20homepage.png?raw=true)](https://liberalarts.temple.edu/sites/liberalarts/files/TU_Psych_Viewbook_Layout_Final_OFFICIAL%20%281%29.pdf){:.img-right}
 ## Big Questions, Vital Answers
-At the heart of our program is our award-winning faculty. Nationally recognized scientists and practicing psychologists investigate how people think, feel, and develop using state-of-the-art methods in behavioral and cognitive neuroscience, and clinical, developmental and social psychology.
+Our award-winning faculty is at the heart of our program. Nationally recognized scientists and practicing psychologists investigate how people think, feel, and develop using state-of-the-art methods in behavioral and cognitive neuroscience, and clinical, developmental and social psychology.
 
-Research is conducted in our world-renowned laboratories that address a wide-range of human conditions and behavior. There are many opportunities for students to participate in faculty research or conduct independent study under faculty supervision.
+The research conducteded in our world-renowned laboratories addresses a wide-range of human conditions and behaviors. There are many opportunities for students to participate in faculty research or conduct independent study under faculty supervision.
 
 ## Temple University Labs 
 
@@ -23,32 +23,30 @@ How does working memory affect our daily lives? How do working memory and cognit
 - [Neurocognition Lab](cla.temple.edu/tunl)
 
 ### Child Health and Behavior
-How can a disadvantaged youth improve his or her chances for success? Do family, peers, and neighborhood play a role? Under the direction of **[Deborah Drabick](https://liberalarts.temple.edu/academics/faculty/drabick-deborah)**, this lab identifies factors associated with risk or resilience for emotional and behavioral problems among disadvantaged youth. The lab has a program to help youth improve their emotion regulation, problem-solving skills, and interpersonal behavior. 
+How can a disadvantaged youth improve his or her chances for success? Do family, peers and neighborhood play a role? Under the direction of **[Deborah Drabick](https://liberalarts.temple.edu/academics/faculty/drabick-deborah)**, this lab identifies factors associated with risk or resilience for emotional and behavioral problems among disadvantaged youths. The lab has a program to help youths improve their emotion regulation, problem-solving skills and interpersonal behavior. 
 
 ### Determinants of Major Psychopathology
 What factors contribute to risk for mental disorders? In the Determinants of Major Psychopathology Lab (DMPL), **[Lauren Ellman](https://liberalarts.temple.edu/academics/faculty/ellman-lauren)** and her students investigate the environmental and biological contributions to development  of schizophrenia and related disorders, such as other psychotic disorders and depression. As understanding of disorder trajectories increases, so does the potential for earlier identification and treatment of at-risk individuals. 
 - [Ellman Lab](cla.temple.edu/ellmanlab)
 
 ### Cognitive Neuropsychology
-What happens to a person’s ability to do everyday tasks following brain damage or disease? What determines error detection and correction in everyday life? The goals of the Cognitive Neuropsychology Laboratory at Temple University, led by **[Tania Giovannetti](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania)**, are to develop and refine our understanding of the neurocognitive processes necessary for optimal everyday functioning in healthy people; understand the breakdown of everyday functioning following brain damage or disease; and develop and evaluate  
-rehabilitation strategies. 
+What happens to a person’s ability to do everyday tasks following brain damage or disease? What determines error detection and correction in everyday life? The goals of the Cognitive Neuropsychology Laboratory at Temple University, led by **[Tania Giovannetti](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania)**, are to develop and refine our understanding of the neurocognitive processes necessary for optimal everyday functioning in healthy people; understand the breakdown of everyday functioning following brain damage or disease; and develop and evaluate rehabilitation strategies. 
 - [Neurocognition Lab](sites.temple.edu/cogneuropsylab)
 
 ### Developmental Science
-How do infants and children begin to understand the social world? This lab group researches the development of the brain processes involved in social understanding  and interaction with others. Under the direction of **[Peter Marshall](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j)**, the lab examines links between action production and action perception, and how one’s own action capacities influence the way in which the actions of others are perceived and responded to.
+How do infants and children begin to understand the social world? This lab group researches the development of the brain processes involved in social understanding  and interaction with others. Under the direction of **[Peter Marshall](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j)**, the lab examines links between action production and action perception and how one’s own action capacities influence the way in which the actions of others are perceived and responded to.
 - [Developmental Science Lab](sites.temple.edu/devscilab)
 
-### Mechanisms Of Affect Dysregulation
-How do we control our emotions? What causes sudden bursts of aggression and how can we manage anger? This lab considers biological, psychological (cognitive-affective), and environmental mechanisms underlying difficulties in affect regulation (control of one’s emotional  state). The lab, under the direction of **[Michael McCloskey](https://liberalarts.temple.edu/academics/faculty/mccloskey-michael)**, conducts a combination of behavioral and neuroimaging studies among individuals with and without difficulties  
-in affect dysregulation.
+### Mechanisms of Affect Dysregulation
+How do we control our emotions? What causes sudden bursts of aggression and how can we manage anger? This lab considers biological, psychological (cognitive-affective) and environmental mechanisms underlying difficulties in affect regulation (control of one’s emotional  state). The lab, under the direction of **[Michael McCloskey](https://liberalarts.temple.edu/academics/faculty/mccloskey-michael)**, conducts a combination of behavioral and neuroimaging studies among individuals with and without difficulties in affect dysregulation.
 - [MAD Lab](ites.temple.edu/madlab)
 
 ### Cognitive Neuroscience
-How does memory relate to people establishing successful relationships with society? How is it connected to abstract concepts such as “truth,” decision making, and development? Under the direction of **[Ingrid Olson](https://liberalarts.temple.edu/academics/faculty/olson-ingrid)**, this lab studies neural structure-function relationships, especially in regard to episodic memory networks and social perception networks. The lab conducts experiments that use non-invasive brain stimulation techniques and treats memory dysfunction.
+How does memory relate to people establishing successful relationships with society? How is it connected to abstract concepts such as “truth,” decision making and development? Under the direction of **[Ingrid Olson](https://liberalarts.temple.edu/academics/faculty/olson-ingrid)**, this lab studies neural structure-function relationships, especially in regard to episodic memory networks and social perception networks. The lab conducts experiments that use non-invasive brain stimulation techniques and treats memory dysfunction.
 - [Cognitive Neuroscience Lab](cla.temple.edu/cnl)
 
-### Temple Infant And Child Lab
-How do infants and children discover the world around them? Researchers at this lab examine cognitive development in infants and children, aged two months to 10 years. Directed by **[Kathryn Hirsh-Pasek](https://liberalarts.temple.edu/academics/faculty/hirsh-pasek-kathryn)** and **[Nora Newcombe](https://liberalarts.temple.edu/academics/faculty/newcombe-nora)**, the lab conducts cutting-edge research on spatial development, memory, language development, reading, school readiness, and the role of play and creativity in learning—moving from science to practice.
+### Temple Infant and Child Lab
+How do infants and children discover the world around them? Researchers at this lab examine cognitive development in infants and children, aged two months to 10 years. Directed by **[Kathryn Hirsh-Pasek](https://liberalarts.temple.edu/academics/faculty/hirsh-pasek-kathryn)** and **[Nora Newcombe](https://liberalarts.temple.edu/academics/faculty/newcombe-nora)**, the lab conducts cutting-edge research on spatial development, memory, language development, reading, school readiness and the role of play and creativity in learning—moving from science to practice.
 - [Infant and Child Lab](cla.temple.edu/infantlab)
 
 ### Neurochemistry and Cognition
@@ -57,7 +55,7 @@ Why do some people—but not all—develop dementia and Alzheimer’s disease? H
 - [Neurochemistry and Cognition (NECO) Lab](https://sites.temple.edu/parikh/)
 
 ### Adolescent Development and Decision-Making 
-Why do teens engage in risky behavior? Is it driven by peer pressure or a simple lack of maturity? Is there something else at play? This lab, directed by **[Laurence Steinberg](https://liberalarts.temple.edu/academics/faculty/steinberg-laurence)**, studies various aspects of adolescent development and decision-making, with a special focus on understanding why adolescents often engage in risky and reckless behavior. The lab uses a variety of methods, including behavioral tests, brain imaging, and questionnaires.
+Why do teens engage in risky behavior? Is it driven by peer pressure or a simple lack of maturity? Is there something else at play? This lab, directed by **[Laurence Steinberg](https://liberalarts.temple.edu/academics/faculty/steinberg-laurence)**, studies various aspects of adolescent development and decision-making with a special focus on understanding why adolescents often engage in risky and reckless behavior. The lab uses a variety of methods, including behavioral tests, brain imaging and questionnaires.
 - [Laurence Steinberg Current Projects](laurencesteinberg.com/research/current-projects)
 
 > “The (psychology) field recognizes Temple as  an elite program with a world-renowned faculty. Upon graduating it became very clear that I had received the training, experience, and relationships that would put me in a very strong position wherever I wanted to go next. I got the job I had wanted and now get to do what I love with the confidence in knowing that I am doing it with thorough understanding and expertise.” - Muniya Khanna, Ph.D., CHOP Research Associate, Children and Adult’s Center for OCD and Anxiety Ph.D. 2004
@@ -98,4 +96,3 @@ For those who are not Temple students, below is a list of research groups organi
 **Adults**
 - [Research in Spatial Cognition Lab](http://sites.temple.edu/risc/)
 - [Mechanisms of Affect Dysregulation Lab](http://sites.temple.edu/madlab/)
-
