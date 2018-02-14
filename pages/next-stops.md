@@ -7,9 +7,9 @@ description: >-
 published: true
 ---
 ## Where Can an Academic Career in Psychology Take You?
-An undergraduate degree in Psychology affords many opportunities for careers and further study at the graduate level, because the knowledge and skills learned through the major (e.g., critical thinking, human behavior) are important to many disciplines. Psychology majors are often employed in management positions, real estate, sales, marketing, social services, and labor relations. Many psychology majors also go on to graduate study in psychology or other fields, including law, medicine, and business school.
+The knowledge and skills you'll learn through your undergraduate Psychology major (e.g., critical thinking, human behavior) are important to many disciplines and will afford you many career and graduate study opportunities. Psychology majors are often employed in management positions, real estate, sales, marketing, social services, and labor relations. Many psychology majors also go on to graduate study in psychology or other fields, including law, medicine and business school.
 
-Temple Psychology students are informed of career options and advised of career decisions through a formal course, called [Careers in Psychology](http://bulletin.temple.edu/search/?P=PSY%201002). This course is designed to encourage students to begin to prepare for their career early during their undergraduate training so that they may maximally benefit from their undergraduate education.
+The formal course [Careers in Psychology](http://bulletin.temple.edu/search/?P=PSY%201002) teaches Temple Psychology students about their career options and provides advice for career decisions. This course encourages students to begin preparing for their career early during their undergraduate training so that they may maximally benefit from their undergraduate education.
 
 Examples of internship settings include:
 - Abington Memorial Hospital
@@ -32,9 +32,9 @@ After graduation, our students pursue a diverse range of careers, such as:
 
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
-- View a complete list of our academic offerings, [liberalarts.temple.edu](http://liberalarts.temple.edu)
-- Register for a tour to visit us, [temple.edu/visit](http://temple.edu/visit)
-- Learn more about transferring to Temple, [temple.edu/transfer](http://temple.edu/transfer)
+- View a complete list of our academic offerings at [liberalarts.temple.edu](http://liberalarts.temple.edu)
+- Register for a tour to visit us at [temple.edu/visit](http://temple.edu/visit)
+- Learn more about transferring to Temple at [temple.edu/transfer](http://temple.edu/transfer)
 - Ready to apply? Submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply)
 
 ## Deadlines
@@ -44,7 +44,7 @@ The College of Liberal Arts has the largest selection of academic offerings at T
 **June 1**: Transfer Deadline for Fall Semester<br/>
 
 ## Notable Alumni
-So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni that have risen to levels of professional acclaim and successes! 
+So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes! 
 
 **_Alumni Spotlight_**
 
