@@ -9,10 +9,10 @@ published: true
 ## Psychology Majors Association (PMA)
 ![Student Life]({{site.baseurl}}/media/resized student life 1.jpg){:.img-right}
 ### Mission Statement/Statement of Purpose
-PMA strives to provide opportunities for students to enhance the understanding and appreciation of psychology through a variety of social and professional activities that students would not encounter in the classroom. PMA creates environments where students can participate in volunteer work and field trips, learn about post-graduation options, and furthering their career opportunities. We strongly encourage and assist students in networking and creating strong connections with faculty members in order to build their skills and develop the abilities needed to succeed in their respective fields.
+PMA strives to provide opportunities for students to enhance the understanding and appreciation of psychology through a variety of social and professional activities that students would not encounter in the classroom. PMA creates environments where students can participate in volunteer work and field trips, learn about post-graduation options and furthering their career opportunities. We strongly encourage and assist students in networking and creating strong connections with faculty members in order to build their skills and develop the abilities needed to succeed in their respective fields.
 
 ### Membership
-- All students who are a psychology major, minor, or simply interested in learning more about the field of psychology are invited to join PMA.
+- All students who are a psychology major, minor or simply interested in learning more about the field of psychology are invited to join PMA.
 - New members must pay a $5 membership fee for each semester, CASH ONLY.
 - Members are also required to attend at least three events per semester to continue membership (not including general body meetings).
 
