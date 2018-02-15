@@ -42,6 +42,7 @@ How do we control our emotions? What causes sudden bursts of aggression and how 
 - [MAD Lab](https://sites.temple.edu/madlab/)
 
 ### Cognitive Neuroscience
+![Cognitive Neuroscience Lab]({{site.baseurl}}/media/resized Cog Neuro Lab_Ingrid.png){:.img-right}
 How does memory relate to people establishing successful relationships with society? How is it connected to abstract concepts such as “truth,” decision making and development? Under the direction of **[Ingrid Olson](https://liberalarts.temple.edu/academics/faculty/olson-ingrid)**, this lab studies neural structure-function relationships, especially in regard to episodic memory networks and social perception networks. The lab conducts experiments that use non-invasive brain stimulation techniques and treats memory dysfunction.
 - [Cognitive Neuroscience Lab](https://sites.temple.edu/cnltu/)
 
