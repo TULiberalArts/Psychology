@@ -6,7 +6,7 @@ keywords: 'transfer, apply, visit, College of Liberal Arts, Psychology, careers'
 description: >-
 published: true
 ---
-## Where Can an Academic Career in Psychology Take You?
+## Where Can a Degree in Psychology Take You?
 The knowledge and skills you'll learn through your undergraduate Psychology major (e.g., critical thinking, human behavior) are important to many disciplines and will afford you many career and graduate study opportunities. Psychology majors are often employed in management positions, real estate, sales, marketing, social services and labor relations. Many psychology majors also go on to graduate study in psychology or other fields, including law, medicine and business school.
 
 The formal course [Careers in Psychology](http://bulletin.temple.edu/search/?P=PSY%201002) teaches Temple Psychology students about their career options and provides advice for career decisions. This course encourages students to begin preparing for their career early during their undergraduate training so that they may maximally benefit from their undergraduate education.
