@@ -15,7 +15,7 @@ sidebar-content: |
    ___
    
   **Chair:**  
-   Peter Marshall, Ph.D  
+   Peter Marshall, PhD  
    656 Weiss Hall  
    (215) 204-7360  
    peter.marshall@temple.edu  
@@ -23,7 +23,7 @@ sidebar-content: |
    ___
    
   **Associate Chair:**  
-   Peter James, Ph.D  
+   Peter James, PhD  
    606 Weiss Hall  
    (215) 204-3409  
    pjames@temple.edu  
@@ -31,7 +31,7 @@ sidebar-content: |
     ___
    
    **Director of Graduate Studies:**  
-   Deborah Drabick, Ph.D.     
+   Deborah Drabick, PhD     
    822 Weiss Hall  
    [(215) 204-0957](tel:2152040957)  
    [deborah.drabick@temple.edu](mailto:deborah.drabick@temple.edu)  
@@ -69,9 +69,9 @@ sidebar-content: |
 ## Program Overview
 ![Behavior Lab]({{site.baseurl}}/media/resized Behavior-Lab-3.jpg){:.img-right}
 
-The largest doctoral program in the College of Liberal Arts, the Psychology Department offers concentrations in Clinical Psychology, Developmental Psychology, Brain and Cognitive Sciences, and Social Psychology.  Graduate students have the opportunity to participate in an interdisciplinary program in Developmental Psychopathology and an interdisciplinary certificate program in Neuroscience.
+The largest doctoral program in the College of Liberal Arts, the Psychology Department offers concentrations in Clinical Psychology, Developmental Psychology, Brain and Cognitive Sciences, and Social Psychology. Graduate students have the opportunity to participate in an interdisciplinary program in Developmental Psychopathology and an interdisciplinary certificate program in Neuroscience.
 
-Students Interested in receiving a Specialization in Neuroscience through the Neuroscience Program should visit the [Neuroscience Program Website](http://www.cla.temple.edu/neuroscience/).
+Students interested in receiving a Specialization in Neuroscience through the Neuroscience Program should visit the [Neuroscience Program Website](http://www.cla.temple.edu/neuroscience/).
 
 ## Programs of Study
 The department of psychology has four areas of study in the doctoral program:
@@ -81,10 +81,10 @@ The department of psychology has four areas of study in the doctoral program:
 - [Developmental Psychology](https://develop.cla.temple.edu/psychology/graduate/developmental-psychology)<br>
 - [Social Psychology](https://develop.cla.temple.edu/psychology/graduate/social-psychology)<br>
 
-Students are ultimately accepted into specific programs. However, all Ph.D. applicants must meet the requirements for admission. Please visit the [Psychology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/psychology) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Students are ultimately accepted into specific programs. However, all PhD applicants must meet the requirements for admission. Please visit the [Psychology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/psychology) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Careers
-Individuals earning Ph.D. degrees in Psychology have moved on to a variety of interesting and fulfilling positions. We have been consistently successful in placing our graduates in the types of positions they were hoping to obtain. Currently, it is typical for most individuals with newly-earned Psychology Ph.D. degrees to go on to postdoctoral research positions, and this holds for our students. Many of our graduates secure prestigious postdoctoral positions, where they bring their skills and knowledge to the highest levels. Many of those students then obtain faculty positions at well-known institutions, where they carry out cutting-edge research in diverse areas from behavioral neuroscience to clinical science. Other students obtain research positions in various industries.
+Individuals earning PhD degrees in Psychology have moved on to a variety of interesting and fulfilling positions. We have been consistently successful in placing our graduates in the types of positions they were hoping to obtain. Currently, it is typical for most individuals with newly earned Psychology PhD degrees to go on to postdoctoral research positions, and this holds for our students. Many of our graduates secure prestigious postdoctoral positions where they bring their skills and knowledge to the highest levels. Many of those students then obtain faculty positions at well-known institutions, where they carry out cutting-edge research in diverse areas from behavioral neuroscience to clinical science. Other students obtain research positions in various industries.
 
 **_For questions related to the graduate program offerings in general, please contact:_**
 
@@ -94,9 +94,9 @@ Director of Graduate Studies<br/>
 
 ### Graduate Resources
 - [Graduate Handbook](https://docs.google.com/document/d/1hoxVN1ol7ZGB10_9N0k8yVxkRDJLcMVYGTp-Nwgbm94/edit?usp=sharing)
-- [Psychology Graduate Program FAQ's](https://docs.google.com/document/d/1C8k-NlsbcRW-5dyNJdiUJ1cqpUFsR_ba4Y1CLbN-COs/edit?usp=sharing)
+- [Psychology Graduate Program FAQs](https://docs.google.com/document/d/1C8k-NlsbcRW-5dyNJdiUJ1cqpUFsR_ba4Y1CLbN-COs/edit?usp=sharing)
 
 ## Graduate Awards
-Gifts from alumni and friends of the department can be directed to honor beloved faculty mentors, to support graduate student research and progress through the Ph.D. program, and to promote science and science education in the grandest of traditions. By donating a gift to either the Shipley Research Prize or Bersh Award fund, you will ensure that each year, a deserving student can receive up to $1000 to put toward data collection or travel.
+Gifts from alumni and friends of the department can be directed to honor beloved faculty mentors, to support graduate student research and PhD program progress, to promote science and science education in the grandest of traditions. By donating a gift to either the Shipley Research Prize or Bersh Award fund, you will ensure that each year, a deserving student can receive up to $1000 to put toward data collection or travel.
 - [The Shipley Prize](http://www.cla.temple.edu/psychology/files/2017/01/Psychology-Department-Awards.pdf)
 - [The Bersh Award](http://www.cla.temple.edu/psychology/files/2017/01/Psychology-Department-Awards.pdf)
