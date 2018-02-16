@@ -31,7 +31,7 @@ After graduation, our students pursue a diverse range of careers, such as:
 - Medical School (MD, DO)
 
 ## Make Your Declaration
-The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
+The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests from the humanities and social sciences to business and the media arts.
 - View a complete list of our academic offerings at [liberalarts.temple.edu](http://liberalarts.temple.edu)
 - Register for a tour to visit us at [temple.edu/visit](http://temple.edu/visit)
 - Learn more about transferring to Temple at [temple.edu/transfer](http://temple.edu/transfer)
