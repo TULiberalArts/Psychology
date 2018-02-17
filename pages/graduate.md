@@ -11,54 +11,54 @@ sidebar-content: |
    656 Weiss Hall    
    [(215) 204-7321](2152047321)   
    Fax: (215) 204-5539     
-   
+
    ___
-   
+
   **Chair:**  
    Peter Marshall, PhD  
    656 Weiss Hall  
    (215) 204-7360  
    peter.marshall@temple.edu  
-   
+
    ___
-   
+
   **Associate Chair:**  
    Peter James, PhD  
    606 Weiss Hall  
    (215) 204-3409  
    pjames@temple.edu  
-   
+
     ___
-   
+
    **Director of Graduate Studies:**  
    Deborah Drabick, PhD     
    822 Weiss Hall  
    [(215) 204-0957](tel:2152040957)  
    [deborah.drabick@temple.edu](mailto:deborah.drabick@temple.edu)  
-   
+
    ___
-   
+
    **Senior Administrator:**  
    Laura Dean  
    654 Weiss Hall   
    (215) 204-2644  
    ldean@temple.edu  
-   
+
    ___
-   
+
  **Assistant Administrators:**  
    Michelle Bonilla  
    657 Weiss Hall   
    (215) 204-7317  
    mbonilla@temple.edu  
-       
+
    Theresa Seymour  
    652 Weiss Hall   
    (215) 204-7008  
    tkitch@temple.edu  
-   
+
     ___
-    
+
    **Graduate Coordinator:**  
    Vanessa Allen-Smith    
    653 Weiss Hall     
@@ -98,5 +98,3 @@ Director of Graduate Studies<br/>
 
 ## Graduate Awards
 Gifts from alumni and friends of the department can be directed to honor beloved faculty mentors, to support graduate student research and PhD program progress, to promote science and science education in the grandest of traditions. By donating a gift to either the Shipley Research Prize or Bersh Award fund, you will ensure that each year, a deserving student can receive up to $1000 to put toward data collection or travel.
-- [The Shipley Prize](http://www.cla.temple.edu/psychology/files/2017/01/Psychology-Department-Awards.pdf)
-- [The Bersh Award](http://www.cla.temple.edu/psychology/files/2017/01/Psychology-Department-Awards.pdf)

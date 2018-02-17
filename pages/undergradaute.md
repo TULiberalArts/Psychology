@@ -11,54 +11,54 @@ sidebar-content: |
    656 Weiss Hall    
    [(215) 204-7321](2152047321)   
    Fax: (215) 204-5539     
-   
+
    ___
-   
+
   **Chair:**  
    Peter Marshall, PhD  
    656 Weiss Hall  
    (215) 204-7360    
    peter.marshall@temple.edu   
-   
+
    ___
-   
+
   **Associate Chair:**  
    Peter James, PhD  
    606 Weiss Hall      
    (215) 204-3409    
    pjames@temple.edu
-   
+
     ___
-   
+
    **Director of Undergraduate Studies:**  
    Andy Karpinski, PhD         
    505 Weiss Hall  
    (215) 204-3102    
    andykarp@temple.edu   
-   
+
    ___
-   
+
    **Senior Administrator:**  
    Laura Dean  
    654 Weiss Hall   
    (215) 204-2644  
    ldean@temple.edu
-   
+
    ___
-   
+
    **Assistant Administrators:**  
    Michelle Bonilla  
    657 Weiss Hall   
    (215) 204-7317  
    mbonilla@temple.edu  
-       
+
    Theresa Seymour  
    652 Weiss Hall   
    (215) 204-7008  
    tkitch@temple.edu  
-   
+
     ___
-   
+
    **Senior Academic Advisor for Psychology:**    
    Nicole Pileggi, M.Ed.  
    616 Weiss Hall    
@@ -84,10 +84,10 @@ The Honors Psychology program is designed to be a 2-year study that begins with 
 
 The Honors Psychology program has several main goals. First, students may expect an integrated panoramic view of the field of psychology, from its historical roots to current perspectives. Second, the program will provide students with a foundation in scientific methodology. Students will then take that knowledge to design, implement and analyze data for their senior thesis. Third, this hands-on experience encourages students to grapple with key theoretical and research ideas related to their particular interest. Additionally, the program offers an intimate and individualized experience to prepare students for the future career paths to which they aspire.
 
-[Learn More about the Honors Psychology Program](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/ba-psychology/#psichi-thenationalhonorsocietyinpsychology). 
+[Learn More about the Honors Psychology Program](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/ba-psychology/#psichi-thenationalhonorsocietyinpsychology).
 
-## Psychology Internship and Practicum 
-The [Psychology Internship/Practicum](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/#internshippracticum) course gives you experience in the work-world and, as such, is unlike most other courses you will take. There are two courses required for completion: [Internship (Psych 3785)](http://bulletin.temple.edu/search/?P=PSY%203785) and [Practicum (Psych 3787)](http://bulletin.temple.edu/search/?P=PSY%203787). You will have dual responsibility: to provide the best service possible to your agency/school/company (you will be, in some sense, an ambassador for Temple and for the Department) and to communicate regularly with your advisor. 
+## Psychology Internship and Practicum
+The [Psychology Internship/Practicum](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/#internshippracticum) course gives you experience in the work-world and, as such, is unlike most other courses you will take. There are two courses required for completion: [Internship (Psych 3785)](http://bulletin.temple.edu/search/?P=PSY%203785) and [Practicum (Psych 3787)](http://bulletin.temple.edu/search/?P=PSY%203787). You will have dual responsibility: to provide the best service possible to your agency/school/company (you will be, in some sense, an ambassador for Temple and for the Department) and to communicate regularly with your advisor.
 
 View the following pdf to learn more about this course, requirements, guidelines, contact information and deadlines. [Psychology Internship and Practicum](https://liberalarts.temple.edu/sites/liberalarts/files/INTERNSHIP%20AND%20PRACTICUM%20General%20Guidelines%202017-2018.pdf). (pdf.)
 
@@ -114,8 +114,8 @@ During the fifth year, +1 students will complete 23 graduate credits, including 
 Assemble and submit the following materials as email attachments to [psychplus1.apply@temple.edu](mailto:psychplus1.apply@temple.edu). All materials must be submitted in a single email.
 
 - Unofficial undergraduate transcripts
-- +1 [Application Form](http://www.cla.temple.edu/psychology/files/2016/01/Psychology-4-1-Application1.docx) (download)
-- Signed [Faculty Sponsor Agreement](http://www.cla.temple.edu/psychology/files/2016/01/Faculty-Sponsor-Agreement.docx) (download)
+- +1 Application Form
+- Signed Faculty Sponsor Agreement
 - A personal statement describing the reasons for pursuing a master’s degree, current research interests, research experience and future career goals
 - An academic writing sample
 - Letters of recommendation
@@ -144,25 +144,25 @@ The following faculty members are willing to sponsor students for the +1 program
 - [Lauren Alloy](https://liberalarts.temple.edu/academics/faculty/alloy-lauren)
 - [Debra Bangasser](https://liberalarts.temple.edu/academics/faculty/bangasser-debra)
 - [Lisa Briand](https://liberalarts.temple.edu/academics/faculty/briand-lisa)
-- [Jason Chein](https://liberalarts.temple.edu/academics/faculty/chein-jason) 
-- [Deborah Drabick](https://liberalarts.temple.edu/academics/faculty/drabick-deborah) 
-- [Tania Giovannetti](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania) 
-- [Elizabeth Gunderson](https://liberalarts.temple.edu/academics/faculty/gunderson-elizabeth) 
-- [Donald Hantula](https://liberalarts.temple.edu/academics/faculty/hantula-donald) 
-- [Kathy Hirsh-Pasek](https://liberalarts.temple.edu/academics/faculty/hirsh-pasek-kathryn) 
-- [Andrew Karpinski](https://liberalarts.temple.edu/academics/faculty/karpinski-andrew) 
+- [Jason Chein](https://liberalarts.temple.edu/academics/faculty/chein-jason)
+- [Deborah Drabick](https://liberalarts.temple.edu/academics/faculty/drabick-deborah)
+- [Tania Giovannetti](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania)
+- [Elizabeth Gunderson](https://liberalarts.temple.edu/academics/faculty/gunderson-elizabeth)
+- [Donald Hantula](https://liberalarts.temple.edu/academics/faculty/hantula-donald)
+- [Kathy Hirsh-Pasek](https://liberalarts.temple.edu/academics/faculty/hirsh-pasek-kathryn)
+- [Andrew Karpinski](https://liberalarts.temple.edu/academics/faculty/karpinski-andrew)
 - [Philip Kendall](https://liberalarts.temple.edu/academics/faculty/kendall-philip-c)
-- [Peter Marshall](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j) 
-- [Michael McCloskey](https://liberalarts.temple.edu/academics/faculty/mccloskey-michael) 
-- [Nora Newcombe](https://liberalarts.temple.edu/academics/faculty/newcombe-nora) 
-- [Ingrid Olson](https://liberalarts.temple.edu/academics/faculty/olson-ingrid) 
-- [Thomas F. Shipley](https://liberalarts.temple.edu/academics/faculty/shipleythomas) 
-- [Ronald Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ronald) 
+- [Peter Marshall](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j)
+- [Michael McCloskey](https://liberalarts.temple.edu/academics/faculty/mccloskey-michael)
+- [Nora Newcombe](https://liberalarts.temple.edu/academics/faculty/newcombe-nora)
+- [Ingrid Olson](https://liberalarts.temple.edu/academics/faculty/olson-ingrid)
+- [Thomas F. Shipley](https://liberalarts.temple.edu/academics/faculty/shipleythomas)
+- [Ronald Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ronald)
 - [Hongling Xie](https://liberalarts.temple.edu/academics/faculty/xie-hongling)
 
 ## Research Opportunities
 For a list of current labs and research opportunities, please see the [Department of Psychology
-Collaborative Research Register of Faculty Sponsors](https://liberalarts.temple.edu/sites/liberalarts/files/Department-of-Psychology-Collaborative-Research-2017-2018.pdf) (pdf) which lists all current opportunities, requirements, lab and research project descriptions and applications to apply. 
+Collaborative Research Register of Faculty Sponsors](https://liberalarts.temple.edu/sites/liberalarts/files/Department-of-Psychology-Collaborative-Research-2017-2018.pdf) (pdf) which lists all current opportunities, requirements, lab and research project descriptions and applications to apply.
 
 ### Getting Involved in Research
 ![Olino Lab]({{site.baseurl}}/media/resized Olino lab.jpg){:.img-right}
