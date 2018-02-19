@@ -129,7 +129,7 @@ Two letters of recommendation from Temple University faculty are required. At le
 Pamela Joyce Shapiro, PhD<br>
 521 Weiss Hall<br>
 [215-204-7321](tel:2152047321)<br>
-[psychplus1.info@temnple.edu](mailto:psychplus1.info@temnple.edu)<br>
+[psychplus1.info@temple.edu](mailto:psychplus1.info@temple.edu)<br>
 
 **Academic Advisor**
 
