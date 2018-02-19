@@ -31,8 +31,8 @@ Psychology's dedicated academic advisor is available to meet with students to pr
 - [Minor in Psychology](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-psychology/)
 - [Minor in Cognitive Neuroscience](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-cognitive-neuroscience/)
 - [Minor in Clinical and Health Psychology](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-clinical-health-psychology/)
-- [+1 Master of Science in Psychological Research](/psychology/undergraduate/#psychology-5-year-masters-program-1)
-**Please note that the deadline to apply to the Psychology +1 Master’s Program has been extended to April 1. Undergraduate students interested in applying to the +1 program please see the [Psychology 5-Year Master’s Program (+1)] (http://www.cla.temple.edu/psychology/undergraduate/#psychology-5-year-masters-program-1).** 
+- [+1 Master of Science in Psychological Research](/psychology/undergraduate/#psychology-5-year-masters-program-1)<br/>
+**Please note that the deadline to apply to the Psychology +1 Master’s Program has been extended to April 1. Undergraduate students interested in applying to the +1 program please see the [Psychology 5-Year Master’s Program (+1)](http://www.cla.temple.edu/psychology/undergraduate/#psychology-5-year-masters-program-1).** 
 - [PhD in Psychology](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/) (Concentrations in: Brain and Cognitive Sciences, Clinical Psychology, Developmental Psychology, and Social Psychology)
 
 <div class="row row-wide">
