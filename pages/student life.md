@@ -16,7 +16,9 @@ PMA strives to provide opportunities for students to enhance the understanding a
 - New members must pay a $5 membership fee for each semester, CASH ONLY.
 - Members are also required to attend at least three events per semester to continue membership (not including general body meetings).
 
-Instructions: Membership forms can be picked up either during scheduled office hours or on the table outside of our office in Weiss Hall room 405. They may be dropped off in our mailbox in the 6th floor mail room of Weiss Hall or to one of our executive board members during office hours. Please email any questions or concerns to: [pma.temple@gmail.com](mailto:pma.temple@gmail.com).
+**Instructions:** 
+Membership forms can be picked up either during scheduled office hours or on the table outside of our office in Weiss Hall room 405. They may be dropped off in our mailbox in the 6th floor mail room of Weiss Hall or to one of our executive board members during office hours. Please email any questions or concerns to: [pma.temple@gmail.com](mailto:pma.temple@gmail.com).
+- [PMA Application](https://liberalarts.temple.edu/sites/liberalarts/files/pma_application_form.pdf) 
 
 ### PMA Officers
 ![Ross Divers]({{site.baseurl}}/media/resized Ross-Divers-2.jpg){:.img-right}
