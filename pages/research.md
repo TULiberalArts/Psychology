@@ -15,7 +15,7 @@ The research conducted in our world-renowned laboratories addresses a wide-range
 ## Psychology Research Laboratories 
 
 ### Mood and Cognition
-What are the causes of the first onset of depression and bipolar disorder in adolescents and young adults? Are there factors that can provide protection against depression and bipolar disorder? This lab, led by principal investigator **[Lauren Alloy](https://liberalarts.temple.edu/academics/faculty/alloy-lauren)**, studies the cognitive, psychosocial, developmental, emotional and neurobiological processes in the onset and course of depression and bipolar disorder in adolescents and adults.
+What are the causes of the first onset of depression and bipolar disorder in adolescents and young adults? Are there factors that can provide protection against depression and bipolar disorder? This lab, led by principal investigator **[Lauren Alloy](https://liberalarts.temple.edu/academics/faculty/alloy-lauren)** studies the cognitive, psychosocial, developmental, emotional and neurobiological processes in the onset and course of depression and bipolar disorder in adolescents and adults.
 - [Mood and Cognition Lab](https://sites.temple.edu/moodandcognitionlab/)
 
 ### Neurocognition
