@@ -100,15 +100,13 @@ Students admitted to the program will complete 30 credits during the senior year
 During the fifth year, +1 students will complete 23 graduate credits, including courses in research methods, statistics, ethics, topical seminars, a professional development seminar series and master’s project research.
 
 ### Admission Requirements
-
 - Psychology GPA 3.67
 - Overall GPA 3.67
 - Academic writing sample demonstrating proficiency in academic writing appropriate for the master’s level of study
 - A mentorship agreement from the faculty sponsor list (see below)
 
 ### Applications
-
-- Applications are due March 1.
+- Applications are due March 1. **Please note that the deadline to apply to the Psychology +1 Master’s Program has been extended to April 1.**
 
 ### Student Application Materials
 Assemble and submit the following materials as email attachments to [psychplus1.apply@temple.edu](mailto:psychplus1.apply@temple.edu). All materials must be submitted in a single email.
