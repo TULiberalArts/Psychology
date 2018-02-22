@@ -69,7 +69,7 @@ Why do some children start school with strong math skills and some don't? Why do
 
 ## Research in Spatial Cognition
 How do we think spatially about the world? What are the skills we use to navigate, read maps, and understand visualizations? Why are navigation and episodic memory neurally linked? How are these skills important in geoscience, mathematics, physics and other areas of STEM? Under the direction of **[Thomas Shipley](https://liberalarts.temple.edu/academics/faculty/shipleythomas)** and **[Nora Newcombe](https://liberalarts.temple.edu/academics/faculty/newcombe-nora)**, The Research in Spatial Cognition Lab aims to understand spatial learning and cognition across age levels, from preschoolers to adult learners and how they can be fostered by effective technology and education.
-- [Reserach in Spatial Cognition](https://sites.temple.edu/risc/)
+- [Reserach in Spatial Cognition (RISC) Lab](https://sites.temple.edu/risc/)
 
 ___
 
