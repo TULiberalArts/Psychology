@@ -107,6 +107,8 @@ During the fifth year, +1 students will complete 23 graduate credits, including 
 
 ### Applications
 - Applications are due March 1. **Please note that the deadline to apply to the Psychology +1 Master’s Program has been extended to April 1.**
+- [+1 Application](https://docs.google.com/document/d/1OnL2E5hmQ8SVQLuEjza9_w8smK_qBTl7NJzakrqI1ls/edit)
+- [+1 Faculty Sponsor Agreement](https://docs.google.com/document/d/1ahXwyx7rcs191z10VQeO_eM56auovFKxBtgB1WWSoTg/edit)
 
 ### Student Application Materials
 Assemble and submit the following materials as email attachments to [psychplus1.apply@temple.edu](mailto:psychplus1.apply@temple.edu). All materials must be submitted in a single email.
