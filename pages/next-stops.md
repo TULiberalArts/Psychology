@@ -19,6 +19,7 @@ Examples of internship settings include:
 - PeopleShare
 - The Social Enrichment Center
 - Tuttleman Counseling Services
+You can view a complete list of the [Department of Psychology Internship Site Listings](https://docs.google.com/document/d/10HBG16SrWkz7FBLCEONrhVYaohYQIUFSF_5qjr5BOeI/edit) for the 2017-2018 year! 
 
 After graduation, our students pursue a diverse range of careers, such as:
 - Research Coordinator (BA)
