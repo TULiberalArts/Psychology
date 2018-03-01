@@ -162,7 +162,7 @@ The following faculty members are willing to sponsor students for the +1 program
 
 ## Research Opportunities
 For a list of current labs and research opportunities, please see the [Department of Psychology
-Collaborative Research Register of Faculty Sponsors](https://liberalarts.temple.edu/sites/liberalarts/files/Department-of-Psychology-Collaborative-Research-2017-2018.pdf) (pdf) which lists all current opportunities, requirements, lab and research project descriptions and applications to apply.
+Collaborative Research Register of Faculty Sponsors](https://docs.google.com/document/d/1kiv0Zf9QgRmbyEqoExB1j9CUE24IILxVDciuXHmO4U4/edit) (pdf) which lists all current opportunities, requirements, lab and research project descriptions and applications to apply.
 
 ### Getting Involved in Research
 ![Olino Lab]({{site.baseurl}}/media/resized Olino lab.jpg){:.img-right}
