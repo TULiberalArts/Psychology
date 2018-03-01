@@ -57,7 +57,7 @@ The Neuroendocrinology and Behavior Laboratory, directed by **[Debra Bangasser](
 
 ### Neurochemistry and Cognition
 ![Neurochemistry and Cognition Lab]({{site.baseurl}}/media/cropped Parikh Lab.jpg){:.img-right}
-Why do some older adults—but not all— develop dementia and Alzheimer’s disease? How do neurocognitive changes shape maladaptive drug-taking behaviors in addicts? Under the direction of Under the direction of **[Vinay Parikh](https://liberalarts.temple.edu/academics/faculty/parikh-vinay)**, this lab investigates cellular and neurochemical circuit mechanisms that maintain cognitive processes, specifically those involved in attention and executive functions, and how these mechanisms are affected by aging/pathological aging and exposure to drugs of abuse. The lab utilizes a combination of neuroscientific approaches including rodent behavioral paradigms, in vivo electrochemical recordings, genetic manipulations and protein biochemistry.
+Why do some older adults—but not all— develop dementia and Alzheimer’s disease? How do neurocognitive changes shape maladaptive drug-taking behaviors in addicts? Under the direction of **[Vinay Parikh](https://liberalarts.temple.edu/academics/faculty/parikh-vinay)**, this lab investigates cellular and neurochemical circuit mechanisms that maintain cognitive processes, specifically those involved in attention and executive functions and how these mechanisms are affected by aging/pathological aging and exposure to drugs of abuse. The lab utilizes a combination of neuroscientific approaches including rodent behavioral paradigms, in vivo electrochemical recordings, genetic manipulations and protein biochemistry.
 - [Neurochemistry and Cognition (NECO) Lab](https://sites.temple.edu/parikh/)
 
 ## Behavioral Neurophysiology Lab
@@ -78,6 +78,10 @@ Why do some children start school with strong math skills and some don't? Why do
 ## Research in Spatial Cognition
 How do we think spatially about the world? What are the skills we use to navigate, read maps, and understand visualizations? Why are navigation and episodic memory neurally linked? How are these skills important in geoscience, mathematics, physics and other areas of STEM? Under the direction of **[Thomas Shipley](https://liberalarts.temple.edu/academics/faculty/shipleythomas)** and **[Nora Newcombe](https://liberalarts.temple.edu/academics/faculty/newcombe-nora)**, The Research in Spatial Cognition Lab aims to understand spatial learning and cognition across age levels, from preschoolers to adult learners and how they can be fostered by effective technology and education.
 - [Reserach in Spatial Cognition (RISC) Lab](https://sites.temple.edu/risc/)
+
+## Adaptive Memory Lab
+The Adaptive Memory Lab **[(PI: Murty)](https://liberalarts.temple.edu/academics/faculty/murty-vishnu)** focuses on how engagement of neuromodulatory systems, particularly the mesolimbic dopamine system, influences memory and memory-guided behavior in order to help individuals’ achieve their goals. We investigate these systems in a variety of affective and motivational states including reward, novelty and threat. Additionally, we probe these systems in individuals with or at-risk for psychosis to better understand the role of episodic memory in adaptive behavior.
+- [Adaptive Memory Lab](https://sites.temple.edu/adaptivememorylab/)
 
 ___
 
