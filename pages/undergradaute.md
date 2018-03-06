@@ -95,31 +95,7 @@ View the following pdf to learn more about this course, requirements, guidelines
 ![Research]({{site.baseurl}}/media/resized 4+1.jpg){:.img-right}
 The +1 Master in Psychological Research offers outstanding Temple University psychology majors the opportunity to earn both the Bachelor of Arts in Psychology and the Master of Science in Psychological Research in just 5 years. Admission to the program is highly selective. The program provides a research-intensive experience, advanced coursework and professional development to students who intend to pursue doctoral studies in any of the academic psychology disciplines. Students apply to the program in the spring semester of the junior year after completing a minimum of 72 undergraduate credits. Additionally, students must have a faculty sponsor who has agreed to mentor the student’s master’s project research during the four-semester program.
 
-Students admitted to the program will complete 30 credits during the senior year, of which nine credits are graduate courses. These nine credits will count toward both the BA and MS degrees. Each student will work with a faculty sponsor to develop and implement a master’s project. On completion of the senior year, students receive the BA in Psychology, then are formally admitted to the MS program in Psychological Research (with nine graduate credits already completed). During the fifth year, +1 students will complete 23 graduate credits, including courses in research methods, statistics, ethics, topical seminars, a professional development seminar series and master’s project research.
-
 To learn more about this accelerated degree offering, please visit the [Psychology Accelerated Degree Admissions](https://liberalarts.temple.edu/ba-psychology-ms-psychological-research) page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.  
-
-## Faculty Sponsors
-The following faculty members are willing to sponsor students for the +1 program. It is each student’s responsibility to contact a faculty member to initiate a conversation about sponsorship for the program. Please be prepared to discuss your research interests, potential research projects, your responsibilities in the sponsor’s lab and the sponsor’s expectations for your research progress in each semester of the program.
-
-- [Lauren Alloy](https://liberalarts.temple.edu/academics/faculty/alloy-lauren)
-- [Debra Bangasser](https://liberalarts.temple.edu/academics/faculty/bangasser-debra)
-- [Lisa Briand](https://liberalarts.temple.edu/academics/faculty/briand-lisa)
-- [Jason Chein](https://liberalarts.temple.edu/academics/faculty/chein-jason)
-- [Deborah Drabick](https://liberalarts.temple.edu/academics/faculty/drabick-deborah)
-- [Tania Giovannetti](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania)
-- [Elizabeth Gunderson](https://liberalarts.temple.edu/academics/faculty/gunderson-elizabeth)
-- [Donald Hantula](https://liberalarts.temple.edu/academics/faculty/hantula-donald)
-- [Kathy Hirsh-Pasek](https://liberalarts.temple.edu/academics/faculty/hirsh-pasek-kathryn)
-- [Andrew Karpinski](https://liberalarts.temple.edu/academics/faculty/karpinski-andrew)
-- [Philip Kendall](https://liberalarts.temple.edu/academics/faculty/kendall-philip-c)
-- [Peter Marshall](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j)
-- [Michael McCloskey](https://liberalarts.temple.edu/academics/faculty/mccloskey-michael)
-- [Nora Newcombe](https://liberalarts.temple.edu/academics/faculty/newcombe-nora)
-- [Ingrid Olson](https://liberalarts.temple.edu/academics/faculty/olson-ingrid)
-- [Thomas F. Shipley](https://liberalarts.temple.edu/academics/faculty/shipleythomas)
-- [Ronald Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ronald)
-- [Hongling Xie](https://liberalarts.temple.edu/academics/faculty/xie-hongling)
 
 ## Research Opportunities
 For a list of current labs and research opportunities, please see the [Department of Psychology
