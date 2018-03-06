@@ -95,48 +95,9 @@ View the following pdf to learn more about this course, requirements, guidelines
 ![Research]({{site.baseurl}}/media/resized 4+1.jpg){:.img-right}
 The +1 Master in Psychological Research offers outstanding Temple University psychology majors the opportunity to earn both the Bachelor of Arts in Psychology and the Master of Science in Psychological Research in just 5 years. Admission to the program is highly selective. The program provides a research-intensive experience, advanced coursework and professional development to students who intend to pursue doctoral studies in any of the academic psychology disciplines. Students apply to the program in the spring semester of the junior year after completing a minimum of 72 undergraduate credits. Additionally, students must have a faculty sponsor who has agreed to mentor the student’s master’s project research during the four-semester program.
 
-Students admitted to the program will complete 30 credits during the senior year, of which nine credits are graduate courses. These nine credits will count toward both the BA and MS degrees. Each student will work with a faculty sponsor to develop and implement a master’s project. On completion of the senior year, students receive the BA in Psychology, then are formally admitted to the MS program in Psychological Research (with nine graduate credits already completed).
+Students admitted to the program will complete 30 credits during the senior year, of which nine credits are graduate courses. These nine credits will count toward both the BA and MS degrees. Each student will work with a faculty sponsor to develop and implement a master’s project. On completion of the senior year, students receive the BA in Psychology, then are formally admitted to the MS program in Psychological Research (with nine graduate credits already completed). During the fifth year, +1 students will complete 23 graduate credits, including courses in research methods, statistics, ethics, topical seminars, a professional development seminar series and master’s project research.
 
-During the fifth year, +1 students will complete 23 graduate credits, including courses in research methods, statistics, ethics, topical seminars, a professional development seminar series and master’s project research.
-
-### Admission Requirements
-- Psychology GPA 3.67
-- Overall GPA 3.67
-- Academic writing sample demonstrating proficiency in academic writing appropriate for the master’s level of study
-- A mentorship agreement from the faculty sponsor list (see below)
-
-### Applications
-- Applications are due March 1. **Please note that the deadline to apply to the Psychology +1 Master’s Program has been extended to April 1.**
-- [+1 Application](https://docs.google.com/document/d/1OnL2E5hmQ8SVQLuEjza9_w8smK_qBTl7NJzakrqI1ls/edit)
-- [+1 Faculty Sponsor Agreement](https://docs.google.com/document/d/1ahXwyx7rcs191z10VQeO_eM56auovFKxBtgB1WWSoTg/edit)
-
-### Student Application Materials
-Assemble and submit the following materials as email attachments to [psychplus1.apply@temple.edu](mailto:psychplus1.apply@temple.edu). All materials must be submitted in a single email.
-
-- Unofficial undergraduate transcripts
-- +1 Application Form
-- Signed Faculty Sponsor Agreement
-- A personal statement describing the reasons for pursuing a master’s degree, current research interests, research experience and future career goals
-- An academic writing sample
-- Letters of recommendation
-
-Two letters of recommendation from Temple University faculty are required. At least one letter must be from Psychology Department faculty. Please request that faculty recommenders submit the letter as an email attachment to [psychplus1.lor@temple.edu](mailto:psychplus1.lor@temple.edu), with the applicant’s full name in the subject line.
-
-### +1 Program Contact Information
-
-**Program Director**
-
-Pamela Joyce Shapiro, PhD<br>
-521 Weiss Hall<br>
-[215-204-7321](tel:2152047321)<br>
-[psychplus1.info@temple.edu](mailto:psychplus1.info@temple.edu)<br>
-
-**Academic Advisor**
-
-Nicole Pileggi, M.Ed.<br>
-616 Weiss Hall<br>
-[215-204-3403](tel:2152043403)<br>
-[nicole.pileggi@temple.edu](mailto:nicole.pileggi@temple.edu)<br>
+To learn more about this accelerated degree offering, please visit the [Psychology Accelerated Degree Admissions](https://liberalarts.temple.edu/ba-psychology-ms-psychological-research) page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.  
 
 ## Faculty Sponsors
 The following faculty members are willing to sponsor students for the +1 program. It is each student’s responsibility to contact a faculty member to initiate a conversation about sponsorship for the program. Please be prepared to discuss your research interests, potential research projects, your responsibilities in the sponsor’s lab and the sponsor’s expectations for your research progress in each semester of the program.
