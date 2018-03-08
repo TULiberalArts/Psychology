@@ -80,6 +80,7 @@ How do we think spatially about the world? What are the skills we use to navigat
 - [Reserach in Spatial Cognition (RISC) Lab](https://sites.temple.edu/risc/)
 
 ## Adaptive Memory Lab
+![Adaptive Memory Lab]({{site.baseurl}}/media/resized Adaptive Memory Lab.png){:.img-right}
 The Adaptive Memory Lab **[(PI: Murty)](https://liberalarts.temple.edu/academics/faculty/murty-vishnu)** focuses on how engagement of neuromodulatory systems, particularly the mesolimbic dopamine system, influences memory and memory-guided behavior in order to help individuals’ achieve their goals. We investigate these systems in a variety of affective and motivational states including reward, novelty and threat. Additionally, we probe these systems in individuals with or at-risk for psychosis to better understand the role of episodic memory in adaptive behavior.
 - [Adaptive Memory Lab](https://sites.temple.edu/adaptivememorylab/)
 
