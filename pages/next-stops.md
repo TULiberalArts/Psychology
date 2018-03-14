@@ -7,6 +7,7 @@ description: >-
 published: true
 ---
 ## Where Can a Degree in Psychology Take You?
+![Your Career]({{site.baseurl}}/media/resized Your Career sign.png){:.img-left}
 Getting your psychology education is about more than getting your psychology degree. It’s about preparing for your future. Because the knowledge and skills you’ll learn as an undergraduate Psychology major (e.g., critical thinking, human behavior) are crucial to many disciplines, you’ll find yourself with a multitude of career and graduate study opportunities upon graduation. Psychology majors are often employed in management positions, real estate, sales, marketing, social services and labor relations. Many psychology majors also go on to graduate study in psychology or other fields, including law, medicine and business school.
 
 The formal course [Careers in Psychology](http://bulletin.temple.edu/search/?P=PSY%201002) teaches Temple Psychology students about their career options and provides advice for career decisions. This course encourages students to begin preparing for their career early during their undergraduate training so that they may maximally benefit from their undergraduate education.
@@ -18,7 +19,9 @@ Examples of internship settings include:
 - Kidsville Learning Center
 - PeopleShare
 - The Social Enrichment Center
-- Tuttleman Counseling Services
+- Tuttleman Counseling Services<br>
+
+You can view a complete list of the **[Department of Psychology Internship Site Listings](https://docs.google.com/document/d/10HBG16SrWkz7FBLCEONrhVYaohYQIUFSF_5qjr5BOeI/edit)** for the 2017-2018 year! 
 
 After graduation, our students pursue a diverse range of careers, such as:
 - Research Coordinator (BA)

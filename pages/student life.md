@@ -18,7 +18,7 @@ PMA strives to provide opportunities for students to enhance the understanding a
 
 **Instructions:** 
 Membership forms can be picked up either during scheduled office hours or on the table outside of our office in Weiss Hall room 405. They may be dropped off in our mailbox in the 6th floor mail room of Weiss Hall or to one of our executive board members during office hours. Please email any questions or concerns to: [pma.temple@gmail.com](mailto:pma.temple@gmail.com).
-- [PMA Application](https://liberalarts.temple.edu/sites/liberalarts/files/pma_application_form.pdf) 
+- [PMA Application](https://docs.google.com/document/d/1K707rW8UIZFno13xj2xuhv5hTzrlgPuIS6XR1e0yq-0/edit?usp=sharing) 
 
 ### PMA Officers
 ![Ross Divers]({{site.baseurl}}/media/resized Ross-Divers-2.jpg){:.img-right}

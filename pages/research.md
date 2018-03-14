@@ -33,8 +33,8 @@ What factors contribute to risk for mental disorders? In the Determinants of Maj
 What happens to a person’s ability to do everyday tasks following brain damage or disease? What determines error detection and correction in everyday life? The goals of the Cognitive Neuropsychology Laboratory at Temple University, led by **[Tania Giovannetti](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania)**, are to develop and refine our understanding of the neurocognitive processes necessary for optimal everyday functioning in healthy people; understand the breakdown of everyday functioning following brain damage or disease; and develop and evaluate rehabilitation strategies. 
 - [Neurocognition Lab](https://sites.temple.edu/cogneuropsylab/)
 
-### Developmental Science
-How do infants and children begin to understand the social world? This lab group researches the development of the brain processes involved in social understanding  and interaction with others. Under the direction of **[Peter Marshall](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j)**, the lab examines links between action production and action perception and how one’s own action capacities influence the way in which the actions of others are perceived and responded to.
+### Developmental Science Lab
+This lab group researches the development of the processes involved in social understanding and interaction with others. Under the direction of **[Peter Marshall](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j)**, lab members use various behavioral and neuroscientific methods to examine the connections between self and other, beginning in infancy and extending into adulthood. Current research projects include examining how the body is represented in the developing brain and how such representations might provide a building block for imitation and other important cognitive capacities.
 - [Developmental Science Lab](https://sites.temple.edu/devscilab/)
 
 ### Mechanisms of Affect Dysregulation
@@ -50,13 +50,39 @@ How does memory relate to people establishing successful relationships with soci
 How do infants and children discover the world around them? Researchers at this lab examine cognitive development in infants and children, aged two months to 10 years. Directed by **[Kathryn Hirsh-Pasek](https://liberalarts.temple.edu/academics/faculty/hirsh-pasek-kathryn)** and **[Nora Newcombe](https://liberalarts.temple.edu/academics/faculty/newcombe-nora)**, the lab conducts cutting-edge research on spatial development, memory, language development, reading, school readiness and the role of play and creativity in learning—moving from science to practice.
 - [Infant and Child Lab](http://templeinfantlab.com/)
 
+### Neuroendocrinology & Behavior Laboratory
+![NBL Lab]({{site.baseurl}}/media/resized Bangasser Lab.jpg){:.img-right}
+The Neuroendocrinology and Behavior Laboratory, directed by **[Debra Bangasser](https://liberalarts.temple.edu/academics/faculty/bangasser-debra)**, investigates the neurobiological underpinnings of vulnerability and resilience to stress and stress-related psychiatric disorders, such as depression and post-traumatic stress disorder. Because women are twice as likely to suffer from depression and post-traumatic stress disorder as men, a major goal of the NBL is to identify sex differences in stress responses systems that underlie female susceptibility to stress and these stress-related disorders. To this end, techniques from behavioral neuroscience, neuroendocrinology and cellular and molecular biology are employed to link molecular sex differences within stress circuits to sex specific changes in arousal, attention and cognition following stress.
+- [Neuroendocrinology & Behavior Laboratory (NBL)](https://sites.temple.edu/bangasserlab/)
+
 ### Neurochemistry and Cognition
 ![Neurochemistry and Cognition Lab]({{site.baseurl}}/media/cropped Parikh Lab.jpg){:.img-right}
-Why do some people—but not all—develop dementia and Alzheimer’s disease? How does drug use affect executive function? This lab studies the neurochemistry of cognitive processes, specifically those involved in attention and executive functions. Cognitive impairments are a big part of neuropsychiatric and age-related neurodegenerative disorders. Under the direction of **[Vinay Parikh](https://liberalarts.temple.edu/academics/faculty/parikh-vinay)**, this lab examines neurochemical causes of the cognitive dysfunction associated with these pathologies.
+Why do some older adults—but not all— develop dementia and Alzheimer’s disease? How do neurocognitive changes shape maladaptive drug-taking behaviors in addicts? Under the direction of **[Vinay Parikh](https://liberalarts.temple.edu/academics/faculty/parikh-vinay)**, this lab investigates cellular and neurochemical circuit mechanisms that maintain cognitive processes, specifically those involved in attention and executive functions and how these mechanisms are affected by aging/pathological aging and exposure to drugs of abuse. The lab utilizes a combination of neuroscientific approaches including rodent behavioral paradigms, in vivo electrochemical recordings, genetic manipulations and protein biochemistry.
 - [Neurochemistry and Cognition (NECO) Lab](https://sites.temple.edu/parikh/)
+
+## Behavioral Neurophysiology Lab
+![Behavioral Neurophysiology Lab]({{site.baseurl}}/media/resized Briand+Lab+Photo+copy.jpg){:.img-right}
+Why do some people who experiment drugs of abuse go on to become addicts? Why is it so hard for individuals with substance use disorder to quit? The Behavioral Neurophysiology Lab, directed by **[Lisa Briand](https://liberalarts.temple.edu/academics/faculty/briand-lisa)**, studies the neurobiological underpinnings of vulnerability to addiction. Early life stress experience increases vulnerability to substance use and one goal of our work in the lab is to understand the molecular and electrophysiological changes underlying this increase. To answer these questions, we utilize behavioral neuroscience, cellular and molecular biology, and optogenetic and electrophysiological techniques.
+- [Behavioral Neurophysiology Lab](http://www.briandlab.com/)
 
 ### Adolescent Development and Decision-Making 
 Why do teens engage in risky behavior? Is it driven by peer pressure or a simple lack of maturity? Is there something else at play? This lab, directed by **[Laurence Steinberg](https://liberalarts.temple.edu/academics/faculty/steinberg-laurence)**, studies various aspects of adolescent development and decision-making with a special focus on understanding why adolescents often engage in risky and reckless behavior. The lab uses a variety of methods, including behavioral tests, brain imaging and questionnaires.
+
+### Adolescent Social Adjustment
+What factors contribute to the psychological well-being of economically disadvantaged, ethnic minority adolescents? In the Adolescent Social Adjustment lab, **[Ronald Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ronald)** and his students examine how family and kin relations, neighborhood conditions and family economic resources are linked to the social and emotional adjustment of urban, disadvantaged, ethnic minority youths. This lab also studies how family and kin and socio-economic factors are associated with the college adjustment of ethnic minority students.
+
+### Temple Cognition and Learning Lab
+Why do some children start school with strong math skills and some don't? Why do some people love math, and some fear it? What are the developmental, cognitive and emotional processes that lead to successful math learning? This lab, directed by **[Elizabeth Gunderson](https://liberalarts.temple.edu/academics/faculty/gunderson-elizabeth)**, investigates mathematical development from cognitive and socio-emotional perspectives, including topics such as numerical development, parenting practices that promote math learning and motivation, the relation between spatial and numerical skills and the development of math anxieties and stereotypes.
+- [Temple Cognition and Learning Lab](https://sites.temple.edu/cognitionlearning/)
+
+## Research in Spatial Cognition
+How do we think spatially about the world? What are the skills we use to navigate, read maps, and understand visualizations? Why are navigation and episodic memory neurally linked? How are these skills important in geoscience, mathematics, physics and other areas of STEM? Under the direction of **[Thomas Shipley](https://liberalarts.temple.edu/academics/faculty/shipleythomas)** and **[Nora Newcombe](https://liberalarts.temple.edu/academics/faculty/newcombe-nora)**, The Research in Spatial Cognition Lab aims to understand spatial learning and cognition across age levels, from preschoolers to adult learners and how they can be fostered by effective technology and education.
+- [Reserach in Spatial Cognition (RISC) Lab](https://sites.temple.edu/risc/)
+
+## Adaptive Memory Lab
+![Adaptive Memory Lab]({{site.baseurl}}/media/resized Adaptive Memory Lab.png){:.img-right}
+The Adaptive Memory Lab **[(PI: Murty)](https://liberalarts.temple.edu/academics/faculty/murty-vishnu)** focuses on how engagement of neuromodulatory systems, particularly the mesolimbic dopamine system, influences memory and memory-guided behavior in order to help individuals’ achieve their goals. We investigate these systems in a variety of affective and motivational states including reward, novelty and threat. Additionally, we probe these systems in individuals with or at-risk for psychosis to better understand the role of episodic memory in adaptive behavior.
+- [Adaptive Memory Lab](https://sites.temple.edu/adaptivememorylab/)
 
 ___
 
@@ -69,12 +95,12 @@ ___
 
 ## Temple University Clinics
 
-### Adult Anxiety
-What is social anxiety and why should an adult seek treatment? How effective are current treatments? Directed by **[Richard Heimberg](https://liberalarts.temple.edu/academics/faculty/heimberg-richard)**, the Adult Anxiety Clinic of Temple (AACT) provides evidence-based treatment for adults. In collaboration with other clinical scientists, the AACT also studies the efficacy of cognitive-behavioral and other therapies for social anxiety disorder as well  as methods to help patients overcome anxiety about visiting the dentist.
+### Adult Anxiety Cinic of Temple
+Directed by **[Dr. Richard Heimberg](https://liberalarts.temple.edu/academics/faculty/heimberg-richard)**, the Adult Anxiety Clinic of Temple (AACT) is a treatment and research clinic specializing in evidence-based treatment for adult social anxiety disorder (SAD). SAD is characterized by persistent fears of social and/or performance situations. Clients 18 years and older who pursue treatment at the AACT receive individual cognitive-behavioral therapy (CBT) on a sliding fee scale. Additionally, the AACT conducts a variety of ongoing research studies aimed at understanding the nature and treatment of SAD and related disorders, including dental anxiety and other anxiety-related disorders. For more information about our clinic and the intake process for prospective clients, please visit our website below.
 - [Adult Anxiety Clinic](http://sites.temple.edu/anxiety/)
 
 ### Child and Adolescent Anxiety Disorders
-Different treatments for anxiety disorders in youth may have different success rates. Which treatments are more effective than others and for whom? This clinic uses and evaluates comprehensive approaches to treat anxiety in children and adolescents—individual treatment, family treatment, brief treatment, and computer-assisted programs—to further knowledge, assessment, and treatment of anxiety and related disorders in youth. **[Philip C. Kendall](https://liberalarts.temple.edu/academics/faculty/kendall-philip-c)** is principal investigator and director of the clinic.
+Different treatments for anxiety disorders in youth have different success rates. Which treatments are more effective than others and for whom? The Child & Adolescent Anxiety Disorders Clinic (CAADC), where the Coping Cat program was developed, is always engaged in research evaluating the efficacy and effectiveness of treatment approaches for anxiety in youth. Our hope is that the research results will lead to a better understanding of anxiety and how to best help youth to manage it. We have been involved in several multi-site Randomized Clinical Trials evaluating anxiety treatments and we have examined the dissemination of our Coping Cat treatment in school settings. **[Philip C. Kendall, PhD, ABPP](https://liberalarts.temple.edu/academics/faculty/kendall-philip-c)** is director of the clinic.
 - [Child and Adolescent Anxiety Disorders Clinic](http://childanxiety.org/wps/)
 
 ### Psychological Services
