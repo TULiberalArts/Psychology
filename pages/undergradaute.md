@@ -66,8 +66,8 @@ sidebar-content: |
    [nicole.pileggi@temple.edu](mailto:nicole.pileggi@temple.edu)    
    
    **Undergraduate Coordinator:**    
-   Kia Lavendar Little  
-   659 Weiss Hall    
+   Kia Lavender Little  
+   655 Weiss Hall    
    (215) 204-5998        
    lavender@temple.edu   
 
