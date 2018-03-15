@@ -63,15 +63,21 @@ sidebar-content: |
    Nicole Pileggi, M.Ed.  
    616 Weiss Hall    
    [(215) 204-3403](tel:2152043403)   
-   [nicole.pileggi@temple.edu](mailto:nicole.pileggi@temple.edu)
+   [nicole.pileggi@temple.edu](mailto:nicole.pileggi@temple.edu)    
+   
+   **Undergraduate Coordinator:**    
+   Kia Lavendar Little  
+   659 Weiss Hall    
+   (215) 204-5998 
+   lavender@temple.edu  
 
    **Neuroscience Student Services Specialist/Coordinator**    
    Sarah McLaughlin   
    638 Weiss Hall    
    (215) 204-3441  
    smclaughlin@temple.edu    
+   
 ---
-
 ## Program Overview
 The Department of Psychology has a strong commitment to scholarly and scientific excellence. It has been heralded as one of the most diverse universities in the nation. This setting offers exciting opportunities for research and scholarly discourse.
 
