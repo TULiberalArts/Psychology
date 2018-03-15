@@ -68,8 +68,8 @@ sidebar-content: |
    **Undergraduate Coordinator:**    
    Kia Lavendar Little  
    659 Weiss Hall    
-   (215) 204-5998 
-   lavender@temple.edu  
+   (215) 204-5998        
+   lavender@temple.edu   
 
    **Neuroscience Student Services Specialist/Coordinator**    
    Sarah McLaughlin   
