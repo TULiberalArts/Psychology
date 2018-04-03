@@ -84,6 +84,11 @@ How do we think spatially about the world? What are the skills we use to navigat
 The Adaptive Memory Lab **[(PI: Murty)](https://liberalarts.temple.edu/academics/faculty/murty-vishnu)** focuses on how engagement of neuromodulatory systems, particularly the mesolimbic dopamine system, influences memory and memory-guided behavior in order to help individuals’ achieve their goals. We investigate these systems in a variety of affective and motivational states including reward, novelty and threat. Additionally, we probe these systems in individuals with or at-risk for psychosis to better understand the role of episodic memory in adaptive behavior.
 - [Adaptive Memory Lab](https://sites.temple.edu/adaptivememorylab/)
 
+## Neuroeconomics Lab
+![Neuroeconomics Lab]({{site.baseurl}}/media/resized Neuroeconomics Lab.jpg){:.img-right}
+How do we make decisions? How do we process and compare different types of rewards and experiences? This lab, led by principal investigator [David Smith](https://liberalarts.temple.edu/academics/faculty/smith-david), uses neuroimaging, computational modeling and noninvasive brain stimulation to study the mechanisms of value-based decision making in humans. The lab utilizes an interdisciplinary approach, integrating perspectives from psychology, economics and neuroscience.
+- [Neuroeconomics Lab](https://sites.temple.edu/neuroeconlab/)
+
 ___
 
 > “The (psychology) field recognizes Temple as  an elite program with a world-renowned faculty. Upon graduating it became very clear that I had received the training, experience, and relationships that would put me in a very strong position wherever I wanted to go next. I got the job I had wanted and now get to do what I love with the confidence in knowing that I am doing it with thorough understanding and expertise.” _- Muniya Khanna, Ph.D., CHOP Research Associate, Children and Adult’s Center for OCD and Anxiety Ph.D. 2004_
