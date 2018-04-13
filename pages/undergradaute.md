@@ -115,3 +115,6 @@ Another opportunity to carry out research is through the [Psychology Honors Prog
 
 ### Participating in Psychology Research at Temple
 There are various opportunities to participate in psychology research studies at Temple. If you are a Temple student, you can find out more about participating in research through the Sona Systems site at: [temple.sona-systems.com](https://temple.sona-systems.com).
+
+## Ambler Campus Psychology Program
+Did you know you can also complete your undergraduate Temple psychology degree at our Ambler Campus? Ambler psychology students complete the same coursework as Main Campus students while benefiting from smaller class sizes in a suburban setting. Plus, you can take advantage of exciting research opportunities at the campus’ nationally acclaimed [Infant Lab](http://www.cla.temple.edu/psychology/research#temple-infant-and-child-lab). Visit [Temple Ambler’s Psychology page](https://ambler.temple.edu/academics/degree-programs/undergraduate/psychology) to learn more.
