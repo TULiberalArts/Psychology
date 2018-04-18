@@ -5,7 +5,8 @@ title: Psychology
 baseurl: /psychology
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
-
+# url spits sitemap
+url: http://www.cla.temple.edu/psychology
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -58,7 +59,7 @@ college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
 program_news: https://liberalarts.temple.edu/news/psychology
-program_events: https://events.temple.edu/department/psychology 
+program_events: https://events.temple.edu/department/psychology
 
 # Google Tag Manager OR Google Analytics
 google_analytics:
