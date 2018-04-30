@@ -60,7 +60,7 @@ The Neuroendocrinology and Behavior Laboratory, directed by **[Debra Bangasser](
 Why do some older adults—but not all— develop dementia and Alzheimer’s disease? How do neurocognitive changes shape maladaptive drug-taking behaviors in addicts? Under the direction of **[Vinay Parikh](https://liberalarts.temple.edu/academics/faculty/parikh-vinay)**, this lab investigates cellular and neurochemical circuit mechanisms that maintain cognitive processes, specifically those involved in attention and executive functions and how these mechanisms are affected by aging/pathological aging and exposure to drugs of abuse. The lab utilizes a combination of neuroscientific approaches including rodent behavioral paradigms, in vivo electrochemical recordings, genetic manipulations and protein biochemistry.
 - [Neurochemistry and Cognition (NECO) Lab](https://sites.temple.edu/parikh/)
 
-## Behavioral Neurophysiology Lab
+### Behavioral Neurophysiology Lab
 ![Behavioral Neurophysiology Lab]({{site.baseurl}}/media/resized Briand+Lab+Photo+copy.jpg){:.img-right}
 Why do some people who experiment drugs of abuse go on to become addicts? Why is it so hard for individuals with substance use disorder to quit? The Behavioral Neurophysiology Lab, directed by **[Lisa Briand](https://liberalarts.temple.edu/academics/faculty/briand-lisa)**, studies the neurobiological underpinnings of vulnerability to addiction. Early life stress experience increases vulnerability to substance use and one goal of our work in the lab is to understand the molecular and electrophysiological changes underlying this increase. To answer these questions, we utilize behavioral neuroscience, cellular and molecular biology, and optogenetic and electrophysiological techniques.
 - [Behavioral Neurophysiology Lab](http://www.briandlab.com/)
@@ -75,16 +75,16 @@ What factors contribute to the psychological well-being of economically disadvan
 Why do some children start school with strong math skills and some don't? Why do some people love math, and some fear it? What are the developmental, cognitive and emotional processes that lead to successful math learning? This lab, directed by **[Elizabeth Gunderson](https://liberalarts.temple.edu/academics/faculty/gunderson-elizabeth)**, investigates mathematical development from cognitive and socio-emotional perspectives, including topics such as numerical development, parenting practices that promote math learning and motivation, the relation between spatial and numerical skills and the development of math anxieties and stereotypes.
 - [Temple Cognition and Learning Lab](https://sites.temple.edu/cognitionlearning/)
 
-## Research in Spatial Cognition
+### Research in Spatial Cognition
 How do we think spatially about the world? What are the skills we use to navigate, read maps, and understand visualizations? Why are navigation and episodic memory neurally linked? How are these skills important in geoscience, mathematics, physics and other areas of STEM? Under the direction of **[Thomas Shipley](https://liberalarts.temple.edu/academics/faculty/shipleythomas)** and **[Nora Newcombe](https://liberalarts.temple.edu/academics/faculty/newcombe-nora)**, The Research in Spatial Cognition Lab aims to understand spatial learning and cognition across age levels, from preschoolers to adult learners and how they can be fostered by effective technology and education.
 - [Reserach in Spatial Cognition (RISC) Lab](https://sites.temple.edu/risc/)
 
-## Adaptive Memory Lab
+### Adaptive Memory Lab
 ![Adaptive Memory Lab]({{site.baseurl}}/media/resized Adaptive Memory Lab.png){:.img-right}
 The Adaptive Memory Lab **[(PI: Murty)](https://liberalarts.temple.edu/academics/faculty/murty-vishnu)** focuses on how engagement of neuromodulatory systems, particularly the mesolimbic dopamine system, influences memory and memory-guided behavior in order to help individuals’ achieve their goals. We investigate these systems in a variety of affective and motivational states including reward, novelty and threat. Additionally, we probe these systems in individuals with or at-risk for psychosis to better understand the role of episodic memory in adaptive behavior.
 - [Adaptive Memory Lab](https://sites.temple.edu/adaptivememorylab/)
 
-## Neuroeconomics Lab
+### Neuroeconomics Lab
 ![Neuroeconomics Lab]({{site.baseurl}}/media/resized Neuroeconomics Lab.jpg){:.img-right}
 How do we make decisions? How do we process and compare different types of rewards and experiences? This lab, led by principal investigator [David Smith](https://liberalarts.temple.edu/academics/faculty/smith-david), uses neuroimaging, computational modeling and noninvasive brain stimulation to study the mechanisms of value-based decision making in humans. The lab utilizes an interdisciplinary approach, integrating perspectives from psychology, economics and neuroscience.
 - [Neuroeconomics Lab](https://sites.temple.edu/neuroeconlab/)
