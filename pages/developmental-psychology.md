@@ -2,7 +2,7 @@
 title: Graduate Areas of Study
 permalink: /graduate/developmental-psychology/
 layout: page
-keywords: ''
+keywords: 'developmental psychology, graduate, psychopathology, research'
 description: >-
 published: true
 ---
