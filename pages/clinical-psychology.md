@@ -2,7 +2,7 @@
 title: Graduate Areas of Study
 permalink: /graduate/clinical-psychology/
 layout: page
-keywords: ''
+keywords: 'clinical psychology, graduate, APA'
 description: >-
 published: true
 ---
