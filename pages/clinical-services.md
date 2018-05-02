@@ -2,7 +2,7 @@
 title: Clinical Services
 permalink: /clinical-services/
 layout: page
-keywords: ''
+keywords: 'clinical services, psychology, neuroscience, disorders'
 description: >-
 published: true
 ---
