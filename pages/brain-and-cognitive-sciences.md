@@ -2,7 +2,7 @@
 title: Brain and Cognitive Sciences
 permalink: /graduate/brain-and-cognitive-sciences/
 layout: page
-keywords: ''
+keywords: 'brain, cognitive sciences, research, graduate'
 description: >-
 published: true
 ---
