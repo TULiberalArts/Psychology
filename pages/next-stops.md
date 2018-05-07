@@ -51,6 +51,10 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
 
 **_Alumni Spotlight_**
 
+- [Beth Garrison](https://liberalarts.temple.edu/news/alumni-spotlight-beth-garrison)<br/> 
+  Beth Garrison is a Board Certified Behavior Analyst, Licensed Behavior Specialist<br/> 
+  B.A. in Psychology from Temple in 2007<br/> 
+
 - [Syreeta Gary Washington](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-syreeta-gary-washington)<br/> 
   Professor and Psychology Coordinator at Rowan College at Burlington County (RCBC)<br/> 
   B.A. in Psychology from Temple in 1998<br/> 
