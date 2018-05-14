@@ -64,6 +64,6 @@ The [Council of University Directors of Clinical Training](http://www.cudcp.us/)
 
 ## Clinical Psychology Resources
 
-- View [Student Selection Process](https://liberalarts.temple.edu/sites/liberalarts/files/STUDENT-SELECTION-PROCESS.pdf) (pdf)
-- View [Student Admissions, Outcomes, and Other Data](https://liberalarts.temple.edu/sites/liberalarts/files/NEW-C-20-data-2016.pdf) (.pdf)
-- View [2017 Clinical Admissions Update](https://liberalarts.temple.edu/sites/liberalarts/files/Clinical-Admissions-update-2017.pdf) (pdf)
+- View [Student Selection Process](https://docs.google.com/document/d/1kb87q_CaHzYuJBplAshF5x2Vze6u2qujZvsuPnnjlf4/edit?usp=sharing) (pdf)
+- View [Student Admissions, Outcomes, and Other Data](https://docs.google.com/document/d/1_4VGOo6n8MWj89HY-Doza2gcUM9vcGxdadRtlRc8iNc/edit?usp=sharing) (.pdf)
+- View [2017 Clinical Admissions Update](https://docs.google.com/document/d/1pAgL4W8gTuzZ0kpF7Ua6zwcdKEfzsNKODWqGde2RQ8c/edit?usp=sharing) (pdf)
