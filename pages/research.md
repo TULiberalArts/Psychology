@@ -20,7 +20,7 @@ What are the causes of the first onset of depression and bipolar disorder in ado
 
 ### Neurocognition
 How does working memory affect our daily lives? How do working memory and cognitive control operate and can they be improved? How do they change as people mature from pre-adolescence into adulthood? This lab, led by principal investigator **[Jason Chein](https://liberalarts.temple.edu/academics/faculty/chein-jason)**, researches basic mechanisms of working memory and cognitive control; how to train working memory and cognitive control; and the development of cognitive control and its impact on adolescent decision-making.
-- [Neurocognition Lab](https://www.cla.temple.edu/tunl/)
+- [Neurocognition Lab](https://www.cla.temple.edu/tunl/index.html)
 
 ### Child Health and Behavior
 How can a disadvantaged youth improve his or her chances for success? Do family, peers and neighborhood play a role? Under the direction of **[Deborah Drabick](https://liberalarts.temple.edu/academics/faculty/drabick-deborah)**, this lab identifies factors associated with risk or resilience for emotional and behavioral problems among disadvantaged youths. The lab has a program to help youths improve their emotion regulation, problem-solving skills and interpersonal behavior. 
