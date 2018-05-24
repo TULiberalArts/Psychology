@@ -125,7 +125,7 @@ For those who are not Temple students, below is a list of research groups organi
 
 **Adolescents**
 - [Mood and Cognition Lab (ages 14-16 years)](http://www.temple.edu/moodandcognitionlab/)
-- [Temple University Neurocognition Lab](https://www.temple.edu/tunl/)
+- [Temple University Neurocognition Lab](https://www.cla.temple.edu/tunl/index.html)
 - [Adolescent Decision Making Lab](http://www.laurencesteinberg.com/research/current-projects)
 
 **Adults**
