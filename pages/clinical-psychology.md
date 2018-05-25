@@ -60,10 +60,9 @@ The [Council of University Directors of Clinical Training](http://www.cudcp.us/)
 - You should not be pressured, nor feel compelled to accept an offer of admission before April 15! This applies to offers of admission and to funding offers that accompany admission. It is impermissible for programs to request a decision prior to April 15 or to indicate that funding will be available only if students make decisions earlier than this date. Violations of this policy should be reported to [CUDCP](http://cudcp.wildapricot.org/contact) immediately and your identity will be protected. Of course, it is permissible for you to accept an offer as soon as you are certain of your decision (i.e., even before April 15). But the decision to do so should be based on you, and not due to pressure placed upon you by a training program.
  - Do not hold more than two offers for more than one week unless there is specific information (e.g., a visit is scheduled, funding decisions) you are waiting to receive from the program. Difficulty making up one’s mind is not considered an adequate excuse to limit the options available to other applicants.
 - Once you have accepted an offer of admission to a training program, you should inform all programs in which you are still being considered. Be sure to inform programs either that you are declining outstanding offers of admission or you no longer wish to be considered for admission.
-**[FAQ about the Clinical Program](https://liberalarts.temple.edu/sites/liberalarts/files/Clinical%20Psychology%20FAQ.pdf)**
 
 ## Clinical Psychology Resources
-
+- [FAQ about the Clinical Program](https://docs.google.com/document/d/1a3OlOKNQYDsJjzckFgqLdNhapTf8HwcFyO2wtjRDiK0/edit?usp=sharing)
 - View [Student Selection Process](https://docs.google.com/document/d/1kb87q_CaHzYuJBplAshF5x2Vze6u2qujZvsuPnnjlf4/edit?usp=sharing) 
 - View [Student Admissions, Outcomes, and Other Data](https://docs.google.com/document/d/1_4VGOo6n8MWj89HY-Doza2gcUM9vcGxdadRtlRc8iNc/edit?usp=sharing)
 - View [2017 Clinical Admissions Update](https://docs.google.com/document/d/1pAgL4W8gTuzZ0kpF7Ua6zwcdKEfzsNKODWqGde2RQ8c/edit?usp=sharing)
