@@ -6,6 +6,8 @@ keywords: 'clinical, services, internship, research'
 description: >-
 published: true
 ---
+The College of Liberal Arts encourages psychology degree students to make the most of their college experience by getting involved outside the classroom. As a student, you can do so by joining the [Psychology Majors Association](#psychology-majors-association-pma) or Temple University [Psi Chi](#temple-university-psi-chi).
+
 ## Psychology Majors Association (PMA)
 ![Student Life]({{site.baseurl}}/media/resized student life 1.jpg){:.img-right}
 ### Mission Statement/Statement of Purpose
