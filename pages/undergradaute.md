@@ -76,14 +76,17 @@ sidebar-content: |
    638 Weiss Hall    
    (215) 204-3441  
    smclaughlin@temple.edu    
-   
 ---
+Interested in earning a psychology degree? Learn about the College of Liberal Arts’ [undergraduate psychology degree](#program-overview) program, our [honors](#honors-psychology-program) program, [internships](#psychology-internship-and-racticum), [five-year combined bachelor’s and master’s degree](#psychology-5-year-masters-program-1), [research](#research-opportunities) opportunities and [Temple Ambler](#ambler-campus-psychology-program) options.
+
 ## Program Overview
 The Department of Psychology has a strong commitment to scholarly and scientific excellence. It has been heralded as one of the most diverse universities in the nation. This setting offers exciting opportunities for research and scholarly discourse.
 
 Temple University's Undergraduate Psychology program provides a modern curriculum covering a breadth of content, ranging from biological bases of cognition and behavior to sociocultural influences on human interactions and psychological disorders. The curriculum is designed to develop students’ critical thinking skills through emphasis of the scientific basis of Psychology and courses in statistics and research methodology. The program also emphasizes the integration and synthesis of information across courses and activities through the stepwise progression of the curriculum from the introductory, foundational and advanced classes up to the final capstone course that is taken senior year.
 
 Students are strongly encouraged to develop applied skills through rigorous and highly focused experiential learning in research laboratories and community–based internships. The curriculum is designed to be sufficiently flexible to satisfy undergraduates’ diverse needs. As such, students may select an individually tailored curriculum for employment or further study in psychology, neuroscience, medicine, law, business or other fields.
+
+Learn More About the [BA in Psychology](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/ba-psychology/)
 
 ## Honors Psychology Program
 The Honors Psychology program is designed to be a 2-year study that begins with a yearlong investigation of methodology, critical thinking and writing. In the second year, the program culminates in the production of a senior thesis that is presented at the student poster session. Each semester, the class explores a new topic in-depth. Student-led discussions complement traditional lectures, encouraging students to engage fully with the course content.
