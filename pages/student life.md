@@ -1,10 +1,13 @@
 ---
-title: Student Life
+# global predefined variables
+layout: tla_page
 permalink: /student-life/
-layout: page
+published: true
+# meta-data variables
+title: Student Life
 keywords: 'clinical, services, internship, research'
 description: >-
-published: true
+# custom variables
 ---
 The College of Liberal Arts encourages psychology degree students to make the most of their college experience by getting involved outside the classroom. As a student, you can do so by joining the [Psychology Majors Association](#psychology-majors-association-pma) or Temple University [Psi Chi](#temple-university-psi-chi).
 
@@ -18,9 +21,9 @@ PMA strives to provide opportunities for students to enhance the understanding a
 - New members must pay a $5 membership fee for each semester, CASH ONLY.
 - Members are also required to attend at least three events per semester to continue membership (not including general body meetings).
 
-**Instructions:** 
+**Instructions:**
 Membership forms can be picked up either during scheduled office hours or on the table outside of our office in Weiss Hall room 405. They may be dropped off in our mailbox in the 6th floor mail room of Weiss Hall or to one of our executive board members during office hours. Please email any questions or concerns to: [pma.temple@gmail.com](mailto:pma.temple@gmail.com).
-- [PMA Application](https://docs.google.com/document/d/1K707rW8UIZFno13xj2xuhv5hTzrlgPuIS6XR1e0yq-0/edit?usp=sharing) 
+- [PMA Application](https://docs.google.com/document/d/1K707rW8UIZFno13xj2xuhv5hTzrlgPuIS6XR1e0yq-0/edit?usp=sharing)
 
 ### PMA Officers
 ![Ross Divers]({{site.baseurl}}/media/resized Ross-Divers-2.jpg){:.img-right}

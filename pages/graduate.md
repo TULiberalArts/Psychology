@@ -1,10 +1,13 @@
 ---
-title: Graduate
-permalink: /graduate/
+# global predefined variables
 layout: page
+permalink: /graduate/
+published: true
+# meta-data variables
+title: Graduate
 keywords: 'graduate, phd, students, Psychology program'
 description: >-
-published: true
+# custom variables
 sidebar: true
 sidebar-content: |
  **Main Office:**   

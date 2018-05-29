@@ -1,10 +1,13 @@
 ---
-title: Brain and Cognitive Sciences
+# global predefined variables
+layout: tla_page
 permalink: /graduate/brain-and-cognitive-sciences/
-layout: page
+published: true
+# meta-data variables
+title: Brain and Cognitive Sciences
 keywords: 'brain, cognitive sciences, research, graduate'
 description: >-
-published: true
+# custom variables
 ---
 ![BCS Faculty]({{site.baseurl}}/media/Resized BCS-Photo-Oct-2017-web-copy.png){:.img-right}
 ## Brain and Cognitive Sciences Faculty & Research

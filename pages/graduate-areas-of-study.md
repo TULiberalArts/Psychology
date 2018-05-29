@@ -1,10 +1,13 @@
 ---
-title: Graduate Areas of Study
+# global predefined variables
+layout: tla_page
 permalink: /graduate/developmental-psychology/
-layout: page
-keywords: 'graduate program, areas of study, psychology, sciences, brain, research'
-description: >-
 published: false
+# meta-data variables
+title: Graduate Areas of Study
+keywords: 'graduate program, areas of study, psychology, sciences, brain'
+description: >-
+# custom variables
 ---
 ## Graduate Faculty and Research
 ![BCS Faculty]({{site.baseurl}}/media/Resized BCS-Photo-Oct-2017-web-copy.png){:.img-right}

@@ -1,10 +1,13 @@
 ---
-title: Graduate Areas of Study
+# global predefined variables
+layout: tla_page
 permalink: /graduate/developmental-psychology/
-layout: page
+published: true
+# meta-data variables
+title: Graduate Areas of Study
 keywords: 'developmental psychology, graduate, psychopathology, research'
 description: >-
-published: true
+# custom variables
 ---
 ## Developmental Psychology
 The Developmental Psychology Area comprises a group of faculty and doctoral students who are addressing questions involving cognitive, social, or emotional development within and across various phases of the lifespan. The rationale for our graduate training program is the core assumption that the consideration of developmental processes is a invaluable part of understanding any psychological phenomenon. Although developmental students often specialize in one phase of development and a particular content area, each student is encouraged to explore the general nature of the change process across the lifespan. With that goal in mind, developmental students take graduate courses on a variety of topics, including the option to pursue advanced statistical training.
