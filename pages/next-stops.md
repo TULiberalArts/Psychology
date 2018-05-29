@@ -6,6 +6,8 @@ keywords: 'transfer, apply, visit, College of Liberal Arts, Psychology, careers'
 description: >-
 published: true
 ---
+A Temple University psychology degree can take you to a great internship and a rewarding career. Get to know some of your [notable alumni](#notable-alumni)—one day you might just join them! So [make your declaration](#make-your-declaration), review our [application deadlines](#deadlines) and learn how to [apply](#make-your-declaration)!
+
 ## Where Can a Degree in Psychology Take You?
 ![Your Career]({{site.baseurl}}/media/resized Your Career sign.png){:.img-left}
 Getting your psychology education is about more than getting your psychology degree. It’s about preparing for your future. Because the knowledge and skills you’ll learn as an undergraduate Psychology major (e.g., critical thinking, human behavior) are crucial to many disciplines, you’ll find yourself with a multitude of career and graduate study opportunities upon graduation. Psychology majors are often employed in management positions, real estate, sales, marketing, social services and labor relations. Many psychology majors also go on to graduate study in psychology or other fields, including law, medicine and business school.
@@ -32,19 +34,6 @@ After graduation, our students pursue a diverse range of careers, such as:
 - Psychology (PhD)
 - Neuropsychology (PhD)
 - Medical School (MD, DO)
-
-## Make Your Declaration
-The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests from the humanities and social sciences to business and the media arts.
-- View a complete list of our academic offerings at [liberalarts.temple.edu](http://liberalarts.temple.edu)
-- Register for a tour to visit us at [temple.edu/visit](http://temple.edu/visit)
-- Learn more about transferring to Temple at [temple.edu/transfer](http://temple.edu/transfer)
-- Ready to apply? Submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply)
-
-## Deadlines
-**February 1**: Freshman Application Deadline for Fall Semester<br/>
-**March 1**: FAFSA Financial Aid Application Deadline<br/>
-**November 1**: Transfer Deadline for Spring Semester<br/>
-**June 1**: Transfer Deadline for Fall Semester<br/>
 
 ## Notable Alumni
 So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes! 
@@ -74,6 +63,19 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
 - [Wayne Mackey](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-wayne-mackey)<br/>
   Postdoctoral fellow in David Heeger’s Computational Neuroimaging Lab at NYU<br/>
   B.A. in Psychology from Temple in 2012<br/>
+  
+## Make Your Declaration
+The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests from the humanities and social sciences to business and the media arts.
+- View a complete list of our academic offerings at [liberalarts.temple.edu](http://liberalarts.temple.edu)
+- Register for a tour to visit us at [temple.edu/visit](http://temple.edu/visit)
+- Learn more about transferring to Temple at [temple.edu/transfer](http://temple.edu/transfer)
+- Ready to apply? Submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply)
+
+## Deadlines
+**February 1**: Freshman Application Deadline for Fall Semester<br/>
+**March 1**: FAFSA Financial Aid Application Deadline<br/>
+**November 1**: Transfer Deadline for Spring Semester<br/>
+**June 1**: Transfer Deadline for Fall Semester<br/>
 
 ___
 
