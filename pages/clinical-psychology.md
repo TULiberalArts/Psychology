@@ -33,13 +33,13 @@ Email: [rfauber@temple.edu](mailto:rfauber@temple.edu)<br/>
 - [Eunice Chen, Ph.D.](https://liberalarts.temple.edu/academics/faculty/chen-eunice)
 - [Deborah Drabick, Ph.D.](https://liberalarts.temple.edu/academics/faculty/drabick-deborah)
 - [Lauren Ellman, Ph.D.](https://liberalarts.temple.edu/academics/faculty/ellman-lauren)
-- [Robert Fauber, Ph.D.](https://liberalarts.temple.edu/academics/faculty/fauber-robert) – Not accepting clinical students for 2018
+- [Robert Fauber, Ph.D.](https://liberalarts.temple.edu/academics/faculty/fauber-robert) – Not accepting clinical students for 2019
 - [Tania Giovannetti, Ph.D.](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania)
-- [Richard Heimberg, Ph.D.](https://liberalarts.temple.edu/academics/faculty/heimberg-richard) – Not accepting clinical students for 2018
+- [Richard Heimberg, Ph.D.](https://liberalarts.temple.edu/academics/faculty/heimberg-richard)
 - [Philip Kendall, Ph.D.](https://liberalarts.temple.edu/academics/faculty/kendall-philip-c)
 - [Michael McCloskey, Ph.D.](https://liberalarts.temple.edu/academics/faculty/mccloskey-michael)
-- [Catherine Panzarella, Ph.D.](https://liberalarts.temple.edu/academics/faculty/panzarella-catherine) – Not accepting clinical students for 2018
-- [Thomas Olino, Ph.D.](https://liberalarts.temple.edu/academics/faculty/olino-thomas) – Not accepting clinical students for 2018
+- [Catherine Panzarella, Ph.D.](https://liberalarts.temple.edu/academics/faculty/panzarella-catherine) – Not accepting clinical students for 2019
+- [Thomas Olino, Ph.D.](https://liberalarts.temple.edu/academics/faculty/olino-thomas)
 
 ## Goals of Clinical Psychology
 The goals of the clinical psychology Ph.D. training program are:
