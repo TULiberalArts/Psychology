@@ -65,6 +65,7 @@ sidebar-content: |
    (215) 204-7667    
    [vallens@temple.edu](vallens@temple.edu)   
 ---
+Ready to move your career forward with a doctoral degree? Learn about Temple University’s psychology PhD program, its [four areas of study](#programs-of-study) and the sort of [career](#careers) moves it will prepare you to make. Need more info? Take a look at our psychology [graduate resources](#graduate-resources) and [awards](#graduate-awards).
 
 ## Program Overview
 ![Behavior Lab]({{site.baseurl}}/media/resized Behavior-Lab-3.jpg){:.img-right}
