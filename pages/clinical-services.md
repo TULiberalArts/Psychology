@@ -1,10 +1,13 @@
 ---
-title: Clinical Services
+# global predefined variables
+layout: tla_page
 permalink: /clinical-services/
-layout: page
+published: true
+# meta-data variables
+title: Clinical Services
 keywords: 'clinical services, psychology, neuroscience, disorders'
 description: >-
-published: true
+# custom variables
 ---
 ![PSC Temple]({{site.baseurl}}/media/resized PSC image.jpg){:.img-right}
 ## Psychological Services Center (PSC)

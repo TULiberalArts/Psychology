@@ -1,10 +1,13 @@
 ---
-title: Graduate Areas of Study
+# global predefined variables
+layout: tla_page
 permalink: /graduate/clinical-psychology/
-layout: page
+published: true
+# meta-data variables
+title: Graduate Areas of Study
 keywords: 'clinical psychology, graduate, APA'
 description: >-
-published: true
+# custom variables
 ---
 ![Clinical Faculty]({{site.baseurl}}/media/ClinicalGroupPhoto.jpg){:.img-right}
 ## Clinical Psychology
@@ -63,6 +66,6 @@ The [Council of University Directors of Clinical Training](http://www.cudcp.us/)
 
 ## Clinical Psychology Resources
 - View [FAQ about the Clinical Program](https://docs.google.com/document/d/1a3OlOKNQYDsJjzckFgqLdNhapTf8HwcFyO2wtjRDiK0/edit?usp=sharing)
-- View [Student Selection Process](https://docs.google.com/document/d/1kb87q_CaHzYuJBplAshF5x2Vze6u2qujZvsuPnnjlf4/edit?usp=sharing) 
+- View [Student Selection Process](https://docs.google.com/document/d/1kb87q_CaHzYuJBplAshF5x2Vze6u2qujZvsuPnnjlf4/edit?usp=sharing)
 - View [Student Admissions, Outcomes, and Other Data](https://docs.google.com/document/d/1_4VGOo6n8MWj89HY-Doza2gcUM9vcGxdadRtlRc8iNc/edit?usp=sharing)
 - View [2018 Clinical Admissions Update](https://docs.google.com/document/d/1pAgL4W8gTuzZ0kpF7Ua6zwcdKEfzsNKODWqGde2RQ8c/edit?usp=sharing)

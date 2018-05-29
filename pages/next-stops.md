@@ -1,10 +1,13 @@
 ---
-title: Next Stops
+# global predefined variables
+layout: tla_page
 permalink: /next-stops/
-layout: page
+published: true
+# meta-data variables
+title: Next Stops
 keywords: 'transfer, apply, visit, College of Liberal Arts, Psychology, careers'
 description: >-
-published: true
+# custom variables
 ---
 ## Where Can a Degree in Psychology Take You?
 ![Your Career]({{site.baseurl}}/media/resized Your Career sign.png){:.img-left}
@@ -21,7 +24,7 @@ Examples of internship settings include:
 - The Social Enrichment Center
 - Tuttleman Counseling Services<br>
 
-You can view a complete list of the **[Department of Psychology Internship Site Listings](https://docs.google.com/document/d/10HBG16SrWkz7FBLCEONrhVYaohYQIUFSF_5qjr5BOeI/edit)** for the 2017-2018 year! 
+You can view a complete list of the **[Department of Psychology Internship Site Listings](https://docs.google.com/document/d/10HBG16SrWkz7FBLCEONrhVYaohYQIUFSF_5qjr5BOeI/edit)** for the 2017-2018 year!
 
 After graduation, our students pursue a diverse range of careers, such as:
 - Research Coordinator (BA)
@@ -47,21 +50,21 @@ The College of Liberal Arts has the largest selection of academic offerings at T
 **June 1**: Transfer Deadline for Fall Semester<br/>
 
 ## Notable Alumni
-So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes! 
+So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes!
 
 **_Alumni Spotlight_**
 
-- [Beth Garrison](https://liberalarts.temple.edu/news/alumni-spotlight-beth-garrison)<br/> 
-  Beth Garrison is a Board Certified Behavior Analyst, Licensed Behavior Specialist<br/> 
-  B.A. in Psychology from Temple in 2007<br/> 
+- [Beth Garrison](https://liberalarts.temple.edu/news/alumni-spotlight-beth-garrison)<br/>
+  Beth Garrison is a Board Certified Behavior Analyst, Licensed Behavior Specialist<br/>
+  B.A. in Psychology from Temple in 2007<br/>
 
-- [Syreeta Gary Washington](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-syreeta-gary-washington)<br/> 
-  Professor and Psychology Coordinator at Rowan College at Burlington County (RCBC)<br/> 
-  B.A. in Psychology from Temple in 1998<br/> 
+- [Syreeta Gary Washington](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-syreeta-gary-washington)<br/>
+  Professor and Psychology Coordinator at Rowan College at Burlington County (RCBC)<br/>
+  B.A. in Psychology from Temple in 1998<br/>
   
 - [Rolanda Findlay](https://liberalarts.temple.edu/about-us/newsroom/alumni-spotlight-rolanda-findlay)<br/>
   Lieutenant Commander (LCDR); Aerospace Experimental Psychologist<br/>
-  B.A. in Psychology from Temple in 2004<br/> 
+  B.A. in Psychology from Temple in 2004<br/>
   
 - [Marcus Allen](https://liberalarts.temple.edu/about-us/newsroom/temple-alum-marcus-allen-speaks-being-agent-change)<br/>
   CEO of Big Brothers Big Sisters Independence Region<br/>

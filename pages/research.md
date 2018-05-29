@@ -1,10 +1,13 @@
 ---
-title: Research
+# global predefined variables
+layout: tla_page
 permalink: /research/
-layout: page
+published: true
+# meta-data variables
+title: Research
 keywords: 'psychological services, labs, clinics, research'
 description: >-
-published: true
+# custom variables
 ---
 [![Psychology Brochure](https://github.com/TULiberalArts/Psychology/blob/master/media/resized%20Brochure%20homepage.png?raw=true)](https://liberalarts.temple.edu/sites/liberalarts/files/TU_Psych_Viewbook_Layout_Final_OFFICIAL%20%281%29.pdf){:.img-right}
 ## Big Questions, Vital Answers
@@ -12,7 +15,7 @@ Our award-winning faculty is at the heart of our program. Nationally recognized 
 
 The research conducted in our world-renowned laboratories addresses a wide-range of human conditions and behaviors. There are many opportunities for students to participate in faculty research or conduct independent study under faculty supervision.
 
-## Psychology Research Laboratories 
+## Psychology Research Laboratories
 
 ### Mood and Cognition
 What are the causes of the first onset of depression and bipolar disorder in adolescents and young adults? Are there factors that can provide protection against depression and bipolar disorder? This lab, led by principal investigator **[Lauren Alloy](https://liberalarts.temple.edu/academics/faculty/alloy-lauren)** studies the cognitive, psychosocial, developmental, emotional and neurobiological processes in the onset and course of depression and bipolar disorder in adolescents and adults.
@@ -23,14 +26,14 @@ How does working memory affect our daily lives? How do working memory and cognit
 - [Neurocognition Lab](https://www.cla.temple.edu/tunl/index.html)
 
 ### Child Health and Behavior
-How can a disadvantaged youth improve his or her chances for success? Do family, peers and neighborhood play a role? Under the direction of **[Deborah Drabick](https://liberalarts.temple.edu/academics/faculty/drabick-deborah)**, this lab identifies factors associated with risk or resilience for emotional and behavioral problems among disadvantaged youths. The lab has a program to help youths improve their emotion regulation, problem-solving skills and interpersonal behavior. 
+How can a disadvantaged youth improve his or her chances for success? Do family, peers and neighborhood play a role? Under the direction of **[Deborah Drabick](https://liberalarts.temple.edu/academics/faculty/drabick-deborah)**, this lab identifies factors associated with risk or resilience for emotional and behavioral problems among disadvantaged youths. The lab has a program to help youths improve their emotion regulation, problem-solving skills and interpersonal behavior.
 
 ### Determinants of Major Psychopathology
-What factors contribute to risk for mental disorders? In the Determinants of Major Psychopathology Lab (DMPL), **[Lauren Ellman](https://liberalarts.temple.edu/academics/faculty/ellman-lauren)** and her students investigate the environmental and biological contributions to development  of schizophrenia and related disorders, such as other psychotic disorders and depression. As understanding of disorder trajectories increases, so does the potential for earlier identification and treatment of at-risk individuals. 
+What factors contribute to risk for mental disorders? In the Determinants of Major Psychopathology Lab (DMPL), **[Lauren Ellman](https://liberalarts.temple.edu/academics/faculty/ellman-lauren)** and her students investigate the environmental and biological contributions to development  of schizophrenia and related disorders, such as other psychotic disorders and depression. As understanding of disorder trajectories increases, so does the potential for earlier identification and treatment of at-risk individuals.
 - [Ellman Lab](https://sites.temple.edu/ellmanlab/)
 
 ### Cognitive Neuropsychology
-What happens to a person’s ability to do everyday tasks following brain damage or disease? What determines error detection and correction in everyday life? The goals of the Cognitive Neuropsychology Laboratory at Temple University, led by **[Tania Giovannetti](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania)**, are to develop and refine our understanding of the neurocognitive processes necessary for optimal everyday functioning in healthy people; understand the breakdown of everyday functioning following brain damage or disease; and develop and evaluate rehabilitation strategies. 
+What happens to a person’s ability to do everyday tasks following brain damage or disease? What determines error detection and correction in everyday life? The goals of the Cognitive Neuropsychology Laboratory at Temple University, led by **[Tania Giovannetti](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania)**, are to develop and refine our understanding of the neurocognitive processes necessary for optimal everyday functioning in healthy people; understand the breakdown of everyday functioning following brain damage or disease; and develop and evaluate rehabilitation strategies.
 - [Neurocognition Lab](https://sites.temple.edu/cogneuropsylab/)
 
 ### Developmental Science Lab
@@ -65,7 +68,7 @@ Why do some older adults—but not all— develop dementia and Alzheimer’s dis
 Why do some people who experiment drugs of abuse go on to become addicts? Why is it so hard for individuals with substance use disorder to quit? The Behavioral Neurophysiology Lab, directed by **[Lisa Briand](https://liberalarts.temple.edu/academics/faculty/briand-lisa)**, studies the neurobiological underpinnings of vulnerability to addiction. Early life stress experience increases vulnerability to substance use and one goal of our work in the lab is to understand the molecular and electrophysiological changes underlying this increase. To answer these questions, we utilize behavioral neuroscience, cellular and molecular biology, and optogenetic and electrophysiological techniques.
 - [Behavioral Neurophysiology Lab](http://www.briandlab.com/)
 
-### Adolescent Development and Decision-Making 
+### Adolescent Development and Decision-Making
 Why do teens engage in risky behavior? Is it driven by peer pressure or a simple lack of maturity? Is there something else at play? This lab, directed by **[Laurence Steinberg](https://liberalarts.temple.edu/academics/faculty/steinberg-laurence)**, studies various aspects of adolescent development and decision-making with a special focus on understanding why adolescents often engage in risky and reckless behavior. The lab uses a variety of methods, including behavioral tests, brain imaging and questionnaires.
 
 ### Adolescent Social Adjustment

@@ -1,10 +1,13 @@
 ---
-title: Graduate Areas of Study
+# global predefined variables
+layout: tla_page
 permalink: /graduate/social-psychology/
-layout: page
+published: true
+# meta-data variables
+title: Graduate Areas of Study
 keywords: 'social psychology, research, decision making, cognition'
 description: >-
-published: true
+# custom variables
 ---
 ## Social Psychology
 ![CIA Lab]({{site.baseurl}}/media/resized CIA Lab_Social.jpg){:.img-right}
