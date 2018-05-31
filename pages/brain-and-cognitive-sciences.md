@@ -35,4 +35,4 @@ Email: [jchein@temple.edu](mailto:jchein@temple.edu)<br/>
 - [Robert Weisberg, Ph.D.](https://liberalarts.temple.edu/academics/faculty/weisberg-robert): Creativity
 - [Mathieu Wimmer, Ph.D.](https://liberalarts.temple.edu/academics/faculty/wimmer-mathieu): Epigenetics of addiction and memory - Currently Accepting Graduate Students
 
-**[FAQ about the BCS Program](https://liberalarts.temple.edu/sites/liberalarts/files/FAQ%20about%20the%20BCS%20Program.pdf)**
+**[FAQ about the BCS Program](https://docs.google.com/document/d/1ivOkALO5TPzHucnu6X8tCwhDbZI0bV_HKslMpBJKD00/edit?usp=sharing)**
