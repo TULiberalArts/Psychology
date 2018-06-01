@@ -9,64 +9,7 @@ keywords: 'graduate, phd, students, Psychology program'
 description: >-
 # custom variables
 sidebar: true
-sidebar-content: |
- **Main Office:**   
-   656 Weiss Hall    
-   [(215) 204-7321](2152047321)   
-   Fax: (215) 204-5539     
-
-   ___
-
-  **Chair:**  
-   Peter Marshall, PhD  
-   656 Weiss Hall  
-   (215) 204-7360  
-   peter.marshall@temple.edu  
-
-   ___
-
-  **Associate Chair:**  
-   Peter James, PhD  
-   606 Weiss Hall  
-   (215) 204-3409  
-   pjames@temple.edu  
-
-    ___
-
-   **Director of Graduate Studies:**  
-   Deborah Drabick, PhD     
-   822 Weiss Hall  
-   [(215) 204-0957](tel:2152040957)  
-   [deborah.drabick@temple.edu](mailto:deborah.drabick@temple.edu)  
-
-   ___
-
-   **Senior Administrator:**  
-   Laura Dean  
-   654 Weiss Hall   
-   (215) 204-2644  
-   ldean@temple.edu  
-
-   ___
-
- **Assistant Administrators:**  
-   Michelle Bonilla  
-   657 Weiss Hall   
-   (215) 204-7317  
-   mbonilla@temple.edu  
-
-   Theresa Seymour  
-   652 Weiss Hall   
-   (215) 204-7008  
-   tkitch@temple.edu  
-
-    ___
-
-   **Graduate Coordinator:**  
-   Vanessa Allen-Smith    
-   653 Weiss Hall     
-   (215) 204-7667    
-   [vallens@temple.edu](vallens@temple.edu)   
+sidebar_content: sidebars/graduate.html   
 ---
 Ready to move your career forward with a doctoral degree? Learn about Temple University’s psychology PhD program, its [four areas of study](#programs-of-study) and the sort of [career](#careers) moves it will prepare you to make. Need more info? Take a look at our psychology [graduate resources](#graduate-resources) and [awards](#graduate-awards).
 
