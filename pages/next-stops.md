@@ -7,6 +7,8 @@ published: true
 title: Next Stops
 keywords: 'transfer, apply, visit, College of Liberal Arts, Psychology, careers'
 description: >-
+  See where a degree in Psychology from Temple University’s College of Liberal Arts can take you!
+  Get to know our notable alumniand careers, visit us, review application deadlines and transfer options, and apply.
 # custom variables
 ---
 A Temple University psychology degree can take you to a great internship and a rewarding career. Get to know some of your [notable alumni](#notable-alumni)—one day you might just join them! So [make your declaration](#make-your-declaration), review our [application deadlines](#deadlines) and learn how to [apply](#make-your-declaration)!
