@@ -7,6 +7,9 @@ published: true
 title: Clinical Services
 keywords: 'clinical services, psychology, neuroscience, disorders'
 description: >-
+  The department of Psychology is affiliated with three clinical services: Psychological Services Center, 
+  Adult Anxiety Clinic, and the Child and Adolescent Anxiety Disorders Clinic. See what else Temple 
+  University's College of Liberal Arts has to offer for neuroscience students.
 # custom variables
 ---
 ![PSC Temple]({{site.baseurl}}/media/resized PSC image.jpg){:.img-right}
