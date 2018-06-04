@@ -7,6 +7,8 @@ published: true
 title: Student Life
 keywords: 'clinical, services, internship, research'
 description: >-
+  Join the Psychology Majors Association, intern, confuct research, and look into the Psychology honors
+  society, Psi Chi, as a Psychology student at Temple University’s College of Liberal Arts.
 # custom variables
 ---
 The College of Liberal Arts encourages psychology degree students to make the most of their college experience by getting involved outside the classroom. As a student, you can do so by joining the [Psychology Majors Association](#psychology-majors-association-pma) or Temple University [Psi Chi](#temple-university-psi-chi).
