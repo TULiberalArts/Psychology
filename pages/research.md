@@ -7,6 +7,8 @@ published: true
 title: Research
 keywords: 'psychological services, labs, clinics, research'
 description: >-
+  Temple University has research labs ranging from Mood and Cognition to Neuroeconomics, and clinics with topics from anxiety to
+  psychological services. Learn more about opportunities for research through Temple University’s College of Liberal Arts.
 # custom variables
 ---
 At the College of Liberal Arts, psychology research is geared towards finding vital answers to the big questions in our modern [research laboratories](#psychology-research-laboratories) and [clinics](#temple-university-clinics). Non Temple University students are also eligible to [participate in our research](#opportunities-to-participate-in-research-non-temple-students).
