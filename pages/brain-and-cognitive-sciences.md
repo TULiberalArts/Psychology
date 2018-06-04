@@ -16,7 +16,8 @@ Faculty and students in the Brain and Cognitive Sciences Program are working on 
 A list of faculty working in the BCS Program is given below. More detailed information is available on faculty web pages. 
 In addition to pursuing a PhD in the Psychology Department, graduate students with neuroscience interests can also receive a [Specialization in Neuroscience](http://www.cla.temple.edu/neuroscience#phd-specialization-in-neuroscience/) through the interdisciplinary Neuroscience@Temple Program, which includes faculty from the Biology, Pharmacology, Physical Therapy, and Psychology Departments.  Students interested in pursuing research in decision making may wish to consider applying to the Decision Neuroscience PhD program which is jointly administered by Psychology and  Fox School of Business. Last, individuals interested in pursuing a Masters Degree in Neuroscience, separately from our PhD program, should consider our 2-year degree: [MS in Neuroscience: Systems, Behavior and Plasticity](http://www.cla.temple.edu/neuroscience/graduate/).
 
-For further information, please refer to our FAQs page. For specific questions concerning the Doctoral Program in Brain and Cognitive Sciences, contact:
+For further information, please refer to our [FAQs page](https://docs.google.com/document/d/1ivOkALO5TPzHucnu6X8tCwhDbZI0bV_HKslMpBJKD00/edit?usp=sharing). For specific questions concerning the Doctoral Program in Brain and Cognitive Sciences, contact:
+
 Dr. Ingrid Olson<br>
 Director, Brain and Cognitive Sciences<br>
 Email: [iolson@temple.edu](mailto:iolson@temple.edu)<br>
@@ -44,5 +45,3 @@ Email: [iolson@temple.edu](mailto:iolson@temple.edu)<br>
 - [Vishnu (Deepu) Murty, Ph.D.](https://sites.temple.edu/adaptivememorylab/research/): Episodic Memory; Motivation; Decision-making; Neuromodulation; Psychosis - Currently Accepting Graduate Students
 - [Ingrid Olson, Ph.D.](https://liberalarts.temple.edu/academics/faculty/olson-ingrid):Episodic and semantic memory across the lifespan; Social Cognition including person perception and social concepts; TBI; fMRI - Currently Accepting Graduate Students
 - [David Smith, Ph. D.](https://liberalarts.temple.edu/academics/faculty/smith-david): Social and economic decision making in humans; Reward processing; fMRI; Noninvasive brain stimulation - Not Currently Accepting Graduate Students
-
-**[FAQ about the BCS Program](https://docs.google.com/document/d/1ivOkALO5TPzHucnu6X8tCwhDbZI0bV_HKslMpBJKD00/edit?usp=sharing)**
