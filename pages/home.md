@@ -7,6 +7,8 @@ published: true
 title: Home
 keywords: 'Psychology, research, students, courses'
 description: >-
+  Join us on our mission: study Psychology at Temple University’s College of Liberal Arts, and be part of the program 
+  looking to continue cutting-edge research and providing the community with the best current practices in psychology.
 # custom variables
 feature: true
 feature-title: Promoting Excellence in Psychological Science
