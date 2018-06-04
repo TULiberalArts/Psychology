@@ -7,6 +7,8 @@ published: true
 title: Undergraduate
 keywords: 'psychology, undergraduate, research, lab, Temple'
 description: >-
+  Earn your degree or minor in Psychology at Temple University’s College of Liberal Arts. Discover our honors program,
+  5-year bachelor’s and master’s degree, internships, research opportunities, and lab resources.
 # custom variables
 sidebar: true
 sidebar_content: sidebars/undergraduate.html
