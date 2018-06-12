@@ -18,7 +18,7 @@ For more details, prospective applicants are encouraged to explore the faculty w
 For further information or questions concerning the Doctoral Program in Social Psychology, contact:
 
 [Dr. Andrew Karpinski](https://liberalarts.temple.edu/academics/faculty/karpinski-andrew)<br/>
-_Spocila Area Director_<br/>
+_Social Area Director_<br/>
 E-mail: [andrew.karpinski@temple.edu](mailto:andrew.karpinski@temple.edu)<br/>
 
 **Primary Faculty**
