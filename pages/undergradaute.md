@@ -15,6 +15,7 @@ sidebar_content: sidebars/undergraduate.html
 ---
 Interested in earning a Psychology degree? Learn about the College of Liberal Arts’ [undergraduate psychology degree](#program-overview) program, our [honors](#honors-psychology-program) program, [internships](#psychology-internship-and-racticum), [five-year combined bachelor’s and master’s degree](#psychology-5-year-masters-program-1), [research](#research-opportunities) opportunities and [Temple Ambler](#ambler-campus-psychology-program) options.
 
+![Weiss Hall]({{site.baseurl}}/media/Weiss Hall.png){:.img-right}
 ## Program Overview
 The Department of Psychology has a strong commitment to scholarly and scientific excellence. It has been heralded as one of the most diverse universities in the nation. This setting offers exciting opportunities for research and scholarly discourse.
 
