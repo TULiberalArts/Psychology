@@ -93,7 +93,7 @@ The Adaptive Memory Lab **[(PI: Murty)](https://liberalarts.temple.edu/academics
 
 ### Neuroeconomics Lab
 ![Neuroeconomics Lab]({{site.baseurl}}/media/resized Neuroeconomics Lab.jpg){:.img-right}
-How do we make decisions? How do we process and compare different types of rewards and experiences? This lab, led by principal investigator [David Smith](https://liberalarts.temple.edu/academics/faculty/smith-david), uses neuroimaging, computational modeling and noninvasive brain stimulation to study the mechanisms of value-based decision making in humans. The lab utilizes an interdisciplinary approach, integrating perspectives from psychology, economics and neuroscience.
+How do we make decisions? How do we process and compare different types of rewards and experiences? This lab, led by principal investigator **[David Smith](https://liberalarts.temple.edu/academics/faculty/smith-david)**, uses neuroimaging, computational modeling and noninvasive brain stimulation to study the mechanisms of value-based decision making in humans. The lab utilizes an interdisciplinary approach, integrating perspectives from psychology, economics and neuroscience.
 - [Neuroeconomics Lab](https://sites.temple.edu/neuroeconlab/)
 
 ___
