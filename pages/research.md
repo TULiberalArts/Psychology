@@ -29,7 +29,7 @@ What are the causes of the first onset of depression and bipolar disorder in ado
 How does working memory affect our daily lives? How do working memory and cognitive control operate and can they be improved? How do they change as people mature from pre-adolescence into adulthood? This lab, led by principal investigator **[Jason Chein](https://liberalarts.temple.edu/academics/faculty/chein-jason)**, researches basic mechanisms of working memory and cognitive control; how to train working memory and cognitive control; and the development of cognitive control and its impact on adolescent decision-making.
 - [Neurocognition Lab](https://www.cla.temple.edu/tunl/index.html)
 
-## Child and Adolescent Development of Emotion and Personality Laboratory
+### Child and Adolescent Development of Emotion and Personality Laboratory
 How does emotional processing and personality confer risk to and protection from developing problem behaviors? How do we best assess psychological constructs using multiple measures and methods? Under the direction of **[Thomas Olino](https://liberalarts.temple.edu/academics/faculty/olino-thomas)**, this lab examines how reward-related behaviors and neural processes is associated with risk for multiple forms of psychopathology.
 - [Child and Adolescent Development of Emotion, Personality and Psychopathology Lab](https://sites.temple.edu/olinolab/)
 
