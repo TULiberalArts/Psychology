@@ -17,11 +17,17 @@ For students who go on to do work that is more clinical in nature, our goal is t
 
 The Clinical Psychology Program is fully accredited by the Psychological Clinical Science Accreditation System (PCSAS) and the American Psychological Association (APA).
 
-American Psychological Association<br/>
+American Psychological Association (APA)<br/>
 Office of Program Consultation and Accreditation<br/>
 750 First St, NE<br/>
 Washington, DC 20002-4242<br/>
 Website: [APA Office of Program Consultation and Accreditation](http://www.apa.org/ed/accreditation/index.aspx)
+
+Psychological Clinical Science Accreditation System (PCSAS)
+1800 Massachusetts Ave NW, Suite 402
+Washington DC, 20036 
+Phone: 301-455-8046
+Website: [Psychological Clinical Science Accreditation System (PCAS)](http://www.pcsas.org/)
 
 For information concerning application for admission to the Doctoral Program in Clinical Psychology, please thoroughly review the material associated with the links below. For further information or questions, please contact:
 
