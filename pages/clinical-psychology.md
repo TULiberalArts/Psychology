@@ -23,11 +23,11 @@ Office of Program Consultation and Accreditation<br/>
 Washington, DC 20002-4242<br/>
 Website: [APA Office of Program Consultation and Accreditation](http://www.apa.org/ed/accreditation/index.aspx)
 
-Psychological Clinical Science Accreditation System (PCSAS)
-1800 Massachusetts Ave NW, Suite 402
-Washington DC, 20036 
-Phone: 301-455-8046
-Website: [Psychological Clinical Science Accreditation System (PCAS)](http://www.pcsas.org/)
+Psychological Clinical Science Accreditation System (PCSAS)<br/>
+1800 Massachusetts Ave NW, Suite 402<br/>
+Washington DC, 20036<br/>
+Phone: 301-455-8046<br/>
+Website: [Psychological Clinical Science Accreditation System (PCAS)](http://www.pcsas.org/)<br/>
 
 For information concerning application for admission to the Doctoral Program in Clinical Psychology, please thoroughly review the material associated with the links below. For further information or questions, please contact:
 
