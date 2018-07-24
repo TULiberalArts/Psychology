@@ -9,6 +9,8 @@ keywords: 'faculty, renowned, laboratory'
 description: >-
   Get to know our renowned faculty in the Psychology department of Temple University’s College of Liberal Arts.
 # custom variables
+affiliated: true
+affiliated_content: profiles/affiliated.html
 emeritus: true
 emeritus_content: profiles/emeritus.html
 ---
