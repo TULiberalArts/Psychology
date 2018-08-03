@@ -4,6 +4,11 @@
 
 Psychology is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
 
+| Links |  |
+| --- | --- |
+| Development | https://develop.cla.temple.edu/psychology/ |
+| Production | http://www.cla.temple.edu/psychology/ |
+
 ## Content Structure
 
 | Directory |  |
