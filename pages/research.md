@@ -104,6 +104,9 @@ Why do some children start school with strong math skills and some don't? Why do
 How do infants and children discover the world around them? Researchers at this lab examine cognitive development in infants and children, aged two months to 10 years. Directed by **[Kathryn Hirsh-Pasek](https://liberalarts.temple.edu/academics/faculty/hirsh-pasek-kathryn)** and **[Nora Newcombe](https://liberalarts.temple.edu/academics/faculty/newcombe-nora)**, the lab conducts cutting-edge research on spatial development, memory, language development, reading, school readiness and the role of play and creativity in learning—moving from science to practice.
 - [Infant and Child Lab](http://templeinfantlab.com/)
 
+### Temple University Brain Research and Imaging Center
+One key new resource for Psychology faculty research is the Temple University Brain Research and Imaging Center (TUBRIC), located in the basement of Weiss Hall. TUBRIC opened in Fall 2017 and features a state-of-the-art magnetic resonance imaging (MRI) scanner that was procured through a major research instrumentation grant from the National Science Foundation. The scanner is the centerpiece of newly renovated research space that also includes staff offices and rooms for behavioral testing. Other resources at TUBRIC include an MRI-compatible eye tracker and a BioSemi EEG system.
+
 ___
 
 > “The (psychology) field recognizes Temple as  an elite program with a world-renowned faculty. Upon graduating it became very clear that I had received the training, experience, and relationships that would put me in a very strong position wherever I wanted to go next. I got the job I had wanted and now get to do what I love with the confidence in knowing that I am doing it with thorough understanding and expertise.” _- Muniya Khanna, Ph.D., CHOP Research Associate, Children and Adult’s Center for OCD and Anxiety Ph.D. 2004_
