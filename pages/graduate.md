@@ -25,7 +25,7 @@ The Department of Psychology has four areas of study in the doctoral program:
 - [Developmental Psychology](https://www.cla.temple.edu/psychology/graduate/developmental-psychology)<br>
 - [Social Psychology](https://www.cla.temple.edu/psychology/graduate/social-psychology)<br>
 
-All PhD applicants must meet the requirements for admission. Please visit the [Psychology Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/psychology) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+All PhD applicants must meet the requirements for admission. Please visit the [Psychology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 Doctoral students in Psychology also have the opportunity to complete an interdisciplinary Neuroscience specialization via the Neuroscience Program in the College of Liberal Arts. Students interested in the Specialization in Neuroscience should visit the [Neuroscience Program website](http://www.cla.temple.edu/neuroscience/).
 
