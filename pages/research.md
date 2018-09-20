@@ -23,7 +23,7 @@ The research conducted in our world-renowned laboratories addresses a wide-range
 ## Psychology Research Laboratories
 
 ### Adaptive Memory Lab
-![Adaptive Memory Lab]({{site.baseurl}}/media/resized Adaptive Memory Lab.png){:.img-right}
+![Adaptive Memory Lab]({{site.baseurl}}/media/resized Adaptive Memory Lab.png){:.responsive-img .img-right}
 The Adaptive Memory Lab **[(PI: Murty)](https://liberalarts.temple.edu/academics/faculty/murty-vishnu)** focuses on how engagement of neuromodulatory systems, particularly the mesolimbic dopamine system, influences memory and memory-guided behavior in order to help individuals’ achieve their goals. We investigate these systems in a variety of affective and motivational states including reward, novelty and threat. Additionally, we probe these systems in individuals with or at-risk for psychosis to better understand the role of episodic memory in adaptive behavior.
 - [Adaptive Memory Lab](https://sites.temple.edu/adaptivememorylab/)
 
@@ -34,7 +34,7 @@ Why do teens engage in risky behavior? Is it driven by peer pressure or a simple
 What factors contribute to the psychological well-being of economically disadvantaged, ethnic minority adolescents? In the Adolescent Social Adjustment lab, **[Ronald Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ronald)** and his students examine how family and kin relations, neighborhood conditions and family economic resources are linked to the social and emotional adjustment of urban, disadvantaged, ethnic minority youths. This lab also studies how family and kin and socio-economic factors are associated with the college adjustment of ethnic minority students.
 
 ### Behavioral Neurophysiology Lab
-![Behavioral Neurophysiology Lab]({{site.baseurl}}/media/resized Briand+Lab+Photo+copy.jpg){:.img-right}
+![Behavioral Neurophysiology Lab]({{site.baseurl}}/media/resized Briand+Lab+Photo+copy.jpg){:.responsive-img .img-right}
 Why do some people who experiment drugs of abuse go on to become addicts? Why is it so hard for individuals with substance use disorder to quit? The Behavioral Neurophysiology Lab, directed by **[Lisa Briand](https://liberalarts.temple.edu/academics/faculty/briand-lisa)**, studies the neurobiological underpinnings of vulnerability to addiction. Early life stress experience increases vulnerability to substance use and one goal of our work in the lab is to understand the molecular and electrophysiological changes underlying this increase. To answer these questions, we utilize behavioral neuroscience, cellular and molecular biology, and optogenetic and electrophysiological techniques.
 - [Behavioral Neurophysiology Lab](http://www.briandlab.com/)
 
@@ -50,7 +50,7 @@ What happens to a person’s ability to do everyday tasks following brain damage
 - [Neurocognition Lab](https://sites.temple.edu/cogneuropsylab/)
 
 ### Cognitive Neuroscience
-![Cognitive Neuroscience Lab]({{site.baseurl}}/media/resized Cog Neuro Lab_Ingrid.png){:.img-right}
+![Cognitive Neuroscience Lab]({{site.baseurl}}/media/resized Cog Neuro Lab_Ingrid.png){:.responsive-img .img-right}
 How does memory relate to people establishing successful relationships with society? How is it connected to abstract concepts such as “truth,” decision making and development? Under the direction of **[Ingrid Olson](https://liberalarts.temple.edu/academics/faculty/olson-ingrid)**, this lab studies neural structure-function relationships, especially in regard to episodic memory networks and social perception networks. The lab conducts experiments that use non-invasive brain stimulation techniques and treats memory dysfunction.
 - [Cognitive Neuroscience Lab](https://sites.temple.edu/cnltu/)
 
@@ -71,7 +71,7 @@ What are the causes of the first onset of depression and bipolar disorder in ado
 - [Mood and Cognition Lab](https://sites.temple.edu/moodandcognitionlab/)
 
 ### Neurochemistry and Cognition
-![Neurochemistry and Cognition Lab]({{site.baseurl}}/media/cropped Parikh Lab.jpg){:.img-right}
+![Neurochemistry and Cognition Lab]({{site.baseurl}}/media/cropped Parikh Lab.jpg){:.responsive-img .img-right}
 Why do some older adults—but not all— develop dementia and Alzheimer’s disease? How do neurocognitive changes shape maladaptive drug-taking behaviors in addicts? Under the direction of **[Vinay Parikh](https://liberalarts.temple.edu/academics/faculty/parikh-vinay)**, this lab investigates cellular and neurochemical circuit mechanisms that maintain cognitive processes, specifically those involved in attention and executive functions and how these mechanisms are affected by aging/pathological aging and exposure to drugs of abuse. The lab utilizes a combination of neuroscientific approaches including rodent behavioral paradigms, in vivo electrochemical recordings, genetic manipulations and protein biochemistry.
 - [Neurochemistry and Cognition (NECO) Lab](https://sites.temple.edu/parikh/)
 
@@ -80,12 +80,12 @@ How does working memory affect our daily lives? How do working memory and cognit
 - [Neurocognition Lab](https://www.cla.temple.edu/tunl/index.html)
 
 ### Neuroeconomics Lab
-![Neuroeconomics Lab]({{site.baseurl}}/media/resized Neuroeconomics Lab.jpg){:.img-right}
+![Neuroeconomics Lab]({{site.baseurl}}/media/resized Neuroeconomics Lab.jpg){:.responsive-img .img-right}
 How do we make decisions? How do we process and compare different types of rewards and experiences? This lab, led by principal investigator **[David Smith](https://liberalarts.temple.edu/academics/faculty/smith-david)**, uses neuroimaging, computational modeling and noninvasive brain stimulation to study the mechanisms of value-based decision making in humans. The lab utilizes an interdisciplinary approach, integrating perspectives from psychology, economics and neuroscience.
 - [Neuroeconomics Lab](https://sites.temple.edu/neuroeconlab/)
 
 ### Neuroendocrinology & Behavior Laboratory
-![NBL Lab]({{site.baseurl}}/media/resized Bangasser Lab.jpg){:.img-right}
+![NBL Lab]({{site.baseurl}}/media/resized Bangasser Lab.jpg){:.responsive-img .img-right}
 The Neuroendocrinology and Behavior Laboratory, directed by **[Debra Bangasser](https://liberalarts.temple.edu/academics/faculty/bangasser-debra)**, investigates the neurobiological underpinnings of vulnerability and resilience to stress and stress-related psychiatric disorders, such as depression and post-traumatic stress disorder. Because women are twice as likely to suffer from depression and post-traumatic stress disorder as men, a major goal of the NBL is to identify sex differences in stress responses systems that underlie female susceptibility to stress and these stress-related disorders. To this end, techniques from behavioral neuroscience, neuroendocrinology and cellular and molecular biology are employed to link molecular sex differences within stress circuits to sex specific changes in arousal, attention and cognition following stress.
 - [Neuroendocrinology & Behavior Laboratory (NBL)](https://sites.temple.edu/bangasserlab/)
 
