@@ -14,7 +14,7 @@ description: >-
 The College of Liberal Arts encourages psychology students to make the most of their college experience by getting involved outside the classroom. As a student, you can do so by joining the [Psychology Majors Association](#psychology-majors-association-pma) or Temple University [Psi Chi](#temple-university-psi-chi).
 
 ## Psychology Majors Association (PMA)
-![PMA]({{site.baseurl}}/media/resized PMA.jpg){:.img-center}
+![PMA]({{site.baseurl}}/media/resized PMA.jpg){:.responsive-img .img-center}
 
 The Psychology Majors Association (PMA) strives to provide opportunities for students to enhance the understanding and appreciation of psychology through a variety of social and professional activities that students would not encounter in the classroom. PMA creates environments where students can participate in volunteer work and field trips, learn about post-graduation options and furthering their career opportunities. We strongly encourage and assist students in networking and creating strong connections with faculty members in order to build their skills and develop the abilities needed to succeed in their respective fields. For more information, contact PMA by emailing [pma.temple@gmail.com](mailto:pma.temple@gmail.com).
 
@@ -25,7 +25,7 @@ The Psychology Majors Association (PMA) strives to provide opportunities for stu
 - [Membership forms](https://docs.google.com/document/d/1K707rW8UIZFno13xj2xuhv5hTzrlgPuIS6XR1e0yq-0/edit?usp=sharing) are available online and in Weiss Hall room 605 during scheduled office hours. They may be dropped off in our mailbox in the 6th floor mail room of Weiss Hall or to one of our executive board members during office hours. 
 
 ## Temple University Psi Chi
-![Psi Chi]({{site.baseurl}}/media/resized Psi Chi.png){:.img-center}
+![Psi Chi]({{site.baseurl}}/media/resized Psi Chi.png){:.responsive-img .img-center}
 
 Psi Chi is the national honor society for psychology majors and minors. Its goal is to foster academic excellence and engage students in the exciting field of psychology. The Temple chapter of Psi Chi frequently holds relevant workshops and events so students can build their skills in the field, as well as their academic and professional networks. In 2016, Temple’s Chapter of Psi Chi was awarded the Ruth Hubbard Cousins Chapter Award for honoring the society’s purpose by applying and promoting excellence in psychology. For more information on Temple University Psi Chi contact [psichi@temple.edu](mailto:psichi@temple.edu).
 
