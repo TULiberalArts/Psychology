@@ -16,7 +16,7 @@ sidebar_content: sidebars/graduate.html
 Ready to move your career forward with a doctoral degree? Learn about Temple University’s psychology PhD program, its [four areas of study](#programs-overview) and the sort of [career](#careers) moves it will prepare you to make. Need more info? Take a look at our psychology [graduate resources](#graduate-resources) and [awards](#graduate-awards).
 
 ## Program Overview
-![Behavior Lab]({{site.baseurl}}/media/resized Behavior-Lab-3.jpg){:.img-right}
+![Behavior Lab]({{site.baseurl}}/media/resized Behavior-Lab-3.jpg){:.responsive-img .img-right}
 
 The Department of Psychology has four areas of study in the doctoral program:
 
