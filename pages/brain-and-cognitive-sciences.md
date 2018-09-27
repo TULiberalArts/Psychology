@@ -39,7 +39,7 @@ Email: [iolson@temple.edu](mailto:iolson@temple.edu)<br>
 **Cognitive Neuroscience Faculty**
 - [Jason Chein, Ph.D.](https://liberalarts.temple.edu/academics/faculty/chein-jason): Working memory and cognitive control; Risk taking in adolescence - Currently Accepting Graduate Students
 - [Tania Giovannetti, Ph.D.](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania): Human neuropsychology and Everyday action; Aging, Dementia, and TBI. _*Graduate applications accepted through the Clinical Area only_
-- [Chelsea Helion, Ph.D.](http://chelseahelion.squarespace.com/): Morality; social cognition; affective neuroscience; fMRI; New faculty as of July 2019
+- [Chelsea Helion, Ph.D.](http://chelseahelion.squarespace.com/): Morality; social cognition; affective neuroscience; fMRI; New faculty as of July 2019 - Currently Accepting Graduate Students
 - [Johanna Jarcho, Ph.D.](http://www.sdnlaboratory.com/): Developmental social neuroscience of peer relations, Aggression, Reward processing, and learning - Currently Accepting Graduate Students
 - [Peter Marshall, Ph.D.](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j): Developmental social cognitive neuroscience - Currently Accepting Graduate Students
 - [Vishnu (Deepu) Murty, Ph.D.](https://sites.temple.edu/adaptivememorylab/research/): Episodic Memory; Motivation; Decision-making; Neuromodulation; Psychosis - Currently Accepting Graduate Students
