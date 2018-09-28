@@ -11,7 +11,7 @@ description: >-
   looking to continue cutting-edge research and providing the community with the best current practices in psychology.
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-image: media/centered hero_bg.png
 ---

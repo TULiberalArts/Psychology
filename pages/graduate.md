@@ -10,8 +10,8 @@ description: >-
   Choose from four areas of study when earning your PhD in Psychology from Temple University’s 
   College of Liberal Arts.Learn more about our graduate careers, resources, and awards.
 # custom variables
-sidebar: true
-sidebar_content: sidebars/graduate.html   
+
+sidebar: sidebars/graduate.html   
 ---
 Ready to move your career forward with a doctoral degree? Learn about Temple University’s psychology PhD program, its [four areas of study](#programs-overview) and the sort of [career](#careers) moves it will prepare you to make. Need more info? Take a look at our psychology [graduate resources](#graduate-resources) and [awards](#graduate-awards).
 
