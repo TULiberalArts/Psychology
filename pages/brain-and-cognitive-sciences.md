@@ -44,4 +44,4 @@ Email: [iolson@temple.edu](mailto:iolson@temple.edu)<br>
 - [Peter Marshall, Ph.D.](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j): Developmental social cognitive neuroscience - Currently Accepting Graduate Students
 - [Vishnu (Deepu) Murty, Ph.D.](https://sites.temple.edu/adaptivememorylab/research/): Episodic Memory; Motivation; Decision-making; Neuromodulation; Psychosis - Currently Accepting Graduate Students
 - [Ingrid Olson, Ph.D.](https://liberalarts.temple.edu/academics/faculty/olson-ingrid):Episodic and semantic memory across the lifespan; Social Cognition including person perception and social concepts; TBI; fMRI - Currently Accepting Graduate Students
-- [David Smith, Ph. D.](https://liberalarts.temple.edu/academics/faculty/smith-david): Social and economic decision making in humans; Reward processing; fMRI; Noninvasive brain stimulation - Not Currently Accepting Graduate Students
+- [David Smith, Ph. D.](https://liberalarts.temple.edu/academics/faculty/smith-david): Social and economic decision making in humans; Reward processing; fMRI; Noninvasive brain stimulation - Currently Accepting Graduate Students
