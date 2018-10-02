@@ -25,23 +25,25 @@ Email: [iolson@temple.edu](mailto:iolson@temple.edu)<br>
 ## BCS Faculty & Research Interests
 
 **Behavioral Neuroscience Faculty**
-- [Debra Bangasser, Ph.D.](https://liberalarts.temple.edu/academics/faculty/bangasser-debra): Neurobiology of stress, anxiety, and learning - Currently Accepting Graduate Students
-- [Lisa Briand, Ph.D.](https://liberalarts.temple.edu/academics/faculty/briand-lisa): Animal Models of Addiction - Currently Accepting Graduate Students
-- [Vinay Parikh, Ph.D.](https://liberalarts.temple.edu/academics/faculty/parikh-vinay): Neurochemical substrates of fronto-executive functions; normal and pathological aging; neurocognitive mechanisms of addiction - Currently Accepting Graduate Students
-- [Mathieu Wimmer, Ph.D.](https://liberalarts.temple.edu/academics/faculty/wimmer-mathieu): Epigenetics of addiction and memory - Currently Accepting Graduate Students
+- * [Debra Bangasser, Ph.D.](https://liberalarts.temple.edu/academics/faculty/bangasser-debra): Neurobiology of stress, anxiety, and learning 
+- [Lisa Briand, Ph.D.](https://liberalarts.temple.edu/academics/faculty/briand-lisa): Animal Models of Addiction 
+- [Vinay Parikh, Ph.D.](https://liberalarts.temple.edu/academics/faculty/parikh-vinay): Neurochemical substrates of fronto-executive functions; normal and pathological aging; neurocognitive mechanisms of addiction 
+- [Mathieu Wimmer, Ph.D.](https://liberalarts.temple.edu/academics/faculty/wimmer-mathieu): Epigenetics of addiction and memory 
 
 **Cognitive Faculty**
-- [Elizabeth Gunderson, Ph.D.](https://liberalarts.temple.edu/academics/faculty/gunderson-elizabeth): Cognitive development; Mathematical cognition - Currently Accepting Graduate Students
-- [Nora S. Newcombe, Ph.D.](https://liberalarts.temple.edu/academics/faculty/newcombe-nora): Spatial cognition and development, Episodic memory and development, Science of Learning - Currently Accepting Graduate Students
-- [Thomas F. Shipley, Ph.D.](https://liberalarts.temple.edu/academics/faculty/shipleythomas): Spatial Perception & Cognition; Event perception; STEM Education - Currently Accepting Graduate Students
-- [Robert Weisberg, Ph.D.](https://liberalarts.temple.edu/academics/faculty/weisberg-robert): Creativity
+- [Elizabeth Gunderson, Ph.D.](https://liberalarts.temple.edu/academics/faculty/gunderson-elizabeth): Cognitive development; Mathematical cognition 
+- [Nora S. Newcombe, Ph.D.](https://liberalarts.temple.edu/academics/faculty/newcombe-nora): Spatial cognition and development, Episodic memory and development, Science of Learning 
+- [Thomas F. Shipley, Ph.D.](https://liberalarts.temple.edu/academics/faculty/shipleythomas): Spatial Perception & Cognition; Event perception; STEM Education 
+- * [Robert Weisberg, Ph.D.](https://liberalarts.temple.edu/academics/faculty/weisberg-robert): Creativity
 
 **Cognitive Neuroscience Faculty**
-- [Jason Chein, Ph.D.](https://liberalarts.temple.edu/academics/faculty/chein-jason): Working memory and cognitive control; Risk taking in adolescence - Currently Accepting Graduate Students
+- * [Jason Chein, Ph.D.](https://liberalarts.temple.edu/academics/faculty/chein-jason): Working memory and cognitive control; Risk taking in adolescence 
 - [Tania Giovannetti, Ph.D.](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania): Human neuropsychology and Everyday action; Aging, Dementia, and TBI. _*Graduate applications accepted through the Clinical Area only_
-- [Chelsea Helion, Ph.D.](http://chelseahelion.squarespace.com/): Morality; social cognition; affective neuroscience; fMRI; New faculty as of July 2019 - Currently Accepting Graduate Students
-- [Johanna Jarcho, Ph.D.](http://www.sdnlaboratory.com/): Developmental social neuroscience of peer relations, Aggression, Reward processing, and learning - Currently Accepting Graduate Students
-- [Peter Marshall, Ph.D.](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j): Developmental social cognitive neuroscience - Currently Accepting Graduate Students
-- [Vishnu (Deepu) Murty, Ph.D.](https://sites.temple.edu/adaptivememorylab/research/): Episodic Memory; Motivation; Decision-making; Neuromodulation; Psychosis - Currently Accepting Graduate Students
-- [Ingrid Olson, Ph.D.](https://liberalarts.temple.edu/academics/faculty/olson-ingrid):Episodic and semantic memory across the lifespan; Social Cognition including person perception and social concepts; TBI; fMRI - Currently Accepting Graduate Students
-- [David Smith, Ph. D.](https://liberalarts.temple.edu/academics/faculty/smith-david): Social and economic decision making in humans; Reward processing; fMRI; Noninvasive brain stimulation - Currently Accepting Graduate Students
+- [Chelsea Helion, Ph.D.](http://chelseahelion.squarespace.com/): Morality; social cognition; affective neuroscience; fMRI; New faculty as of July 2019 
+- [Johanna Jarcho, Ph.D.](http://www.sdnlaboratory.com/): Developmental social neuroscience of peer relations, Aggression, Reward processing, and learning 
+- [Peter Marshall, Ph.D.](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j): Developmental social cognitive neuroscience 
+- [Vishnu (Deepu) Murty, Ph.D.](https://sites.temple.edu/adaptivememorylab/research/): Episodic Memory; Motivation; Decision-making; Neuromodulation; Psychosis 
+- [Ingrid Olson, Ph.D.](https://liberalarts.temple.edu/academics/faculty/olson-ingrid):Episodic and semantic memory across the lifespan; Social Cognition including person perception and social concepts; TBI; fMRI 
+- [David Smith, Ph. D.](https://liberalarts.temple.edu/academics/faculty/smith-david): Social and economic decision making in humans; Reward processing; fMRI; Noninvasive brain stimulation 
+
+- **_The asterisk inidicates that faculty are not currently accepting graduate students_**
