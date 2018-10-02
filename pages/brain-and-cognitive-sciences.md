@@ -34,10 +34,10 @@ Email: [iolson@temple.edu](mailto:iolson@temple.edu)<br>
 - [Elizabeth Gunderson, Ph.D.](https://liberalarts.temple.edu/academics/faculty/gunderson-elizabeth): Cognitive development; Mathematical cognition 
 - [Nora S. Newcombe, Ph.D.](https://liberalarts.temple.edu/academics/faculty/newcombe-nora): Spatial cognition and development, Episodic memory and development, Science of Learning 
 - [Thomas F. Shipley, Ph.D.](https://liberalarts.temple.edu/academics/faculty/shipleythomas): Spatial Perception & Cognition; Event perception; STEM Education 
-- [Robert Weisberg, Ph.D.](https://liberalarts.temple.edu/academics/faculty/weisberg-robert): Creativity
+- [\*Robert Weisberg, Ph.D.](https://liberalarts.temple.edu/academics/faculty/weisberg-robert): Creativity
 
 **Cognitive Neuroscience Faculty**
-- [Jason Chein, Ph.D.](https://liberalarts.temple.edu/academics/faculty/chein-jason): Working memory and cognitive control; Risk taking in adolescence 
+- [\*Jason Chein, Ph.D.](https://liberalarts.temple.edu/academics/faculty/chein-jason): Working memory and cognitive control; Risk taking in adolescence 
 - [Tania Giovannetti, Ph.D.](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania): Human neuropsychology and Everyday action; Aging, Dementia, and TBI. _*Graduate applications accepted through the Clinical Area only_
 - [Chelsea Helion, Ph.D.](http://chelseahelion.squarespace.com/): Morality; social cognition; affective neuroscience; fMRI; New faculty as of July 2019 
 - [Johanna Jarcho, Ph.D.](http://www.sdnlaboratory.com/): Developmental social neuroscience of peer relations, Aggression, Reward processing, and learning 
