@@ -54,3 +54,4 @@ Students also should attend talks (e.g., department colloquia, conferences) that
 
 Many of these experiences are easily achieved within the department and through consultation with students’ mentors. Criteria for the Developmental Psychopathology concentration are intended to be flexible, and it is expected that students will meet these criteria in a variety of ways. If you have questions about this concentration, please contact Dr. Deborah Drabick, [ddrabick@temple.edu](mailto:ddrabick@temple.edu).
 
+For information on how to apply to the Brain and Cognitive Sciences program, please visit the [Psychology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext).
