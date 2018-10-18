@@ -47,3 +47,5 @@ Email: [iolson@temple.edu](mailto:iolson@temple.edu)<br>
 - [David Smith, Ph. D.](https://liberalarts.temple.edu/academics/faculty/smith-david): Social and economic decision making in humans; Reward processing; fMRI; Noninvasive brain stimulation 
 
 - **_The asterisk inidicates that faculty are not currently accepting graduate students_**
+
+For information on how to apply to the Brain and Cognitive Sciences program, please visit the [Psychology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext).
