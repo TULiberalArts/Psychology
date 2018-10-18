@@ -28,7 +28,7 @@ Undergraduate students who study psychology at Temple University develop critica
 
 Our nationally ranked graduate program provides doctoral training across four areas of psychology: [Clinical Psychology](https://www.cla.temple.edu/psychology/graduate/clinical-psychology), [Brain and Cognitive Sciences](https://www.cla.temple.edu/psychology/graduate/brain-and-cognitive-sciences), [Developmental Psychology](https://www.cla.temple.edu/psychology/graduate/developmental-psychology) and [Social Psychology](https://www.cla.temple.edu/psychology/graduate/social-psychology). The intensive, full-time doctoral program is highly research-focused and allows students to gain experiences across multiple research methodologies and laboratory environments.
 
-_For information on how to apply to the Psychology PhD program, please visit the [Psychology Graduate Bulletin]_(http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext).
+**For information on how to apply to the Psychology PhD program, please visit the [Psychology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext)**.
 
 ## Leaders in Our Field
 The 32 faculty appointed in our doctoral training programs have won many national and international awards and are experienced leaders in their fields. Their research teams are addressing questions at the forefront of psychological science.
