@@ -28,4 +28,4 @@ E-mail: [andrew.karpinski@temple.edu](mailto:andrew.karpinski@temple.edu)<br/>
 - Johanna Jarcho, Ph.D.: New faculty as of July 2018 - Currently Accepting Graduate Students for Fall 2019
 - [Andrew Karpinski, Ph.D.](https://liberalarts.temple.edu/academics/faculty/karpinski-andrew)
 
-For information on how to apply to the Brain and Cognitive Sciences program, please visit the [Psychology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext).
+For information on how to apply to the Social Psychology program, please visit the [Psychology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext).
