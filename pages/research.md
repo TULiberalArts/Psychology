@@ -122,7 +122,7 @@ ___
 
 ## Temple University Clinics
 
-### Adult Anxiety Cinic of Temple
+### Adult Anxiety Clinic of Temple
 Directed by **[Dr. Richard Heimberg](https://liberalarts.temple.edu/academics/faculty/heimberg-richard)**, the Adult Anxiety Clinic of Temple (AACT) is a treatment and research clinic specializing in evidence-based treatment for adult social anxiety disorder (SAD). SAD is characterized by persistent fears of social and/or performance situations. Clients 18 years and older who pursue treatment at the AACT receive individual cognitive-behavioral therapy (CBT) on a sliding fee scale. Additionally, the AACT conducts a variety of ongoing research studies aimed at understanding the nature and treatment of SAD and related disorders, including dental anxiety and other anxiety-related disorders. For more information about our clinic and the intake process for prospective clients, please visit our website below.
 - [Adult Anxiety Clinic](http://sites.temple.edu/anxiety/)
 
