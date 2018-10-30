@@ -44,3 +44,9 @@ Director of Graduate Studies<br/>
 
 ## Graduate Awards
 Gifts from alumni and friends of the department can be directed to honor former faculty mentors, to support graduate student research and PhD program progress, and to promote science and science education in the grandest of traditions. By donating a gift to either the [Shipley Research Prize](https://docs.google.com/document/d/12GfNkpR1of_akLzA9sY_U6F_m9_YXGKMOo_Yl6BYDqM/edit?usp=sharing) or [Bersh Award](https://docs.google.com/document/d/1BHIq950hysD2EpMVrJ1s-Vhd-eaS8d2lH3b207wRuU4/edit?usp=sharing) fund, you will ensure that each year, a deserving student can receive up to $1000 to put towards data collection or travel.
+
+## Diversity
+The Psychology Department values diversity and understands the importance of diverse perspectives for excellent scholarship and for creating a stimulating and creative learning environment. The **Psychology Department’s Diversity Committee** is committed to promoting the diversity and inclusion of students and faculty in our program. 
+
+### Psychology Graduate Students for Inclusivity (PGSI)
+PGSI is a graduate student group aimed at promoting diversity and inclusivity in the Temple University Psychology Department, in our research and in our clinical work. PGSI’s mission is to promote outreach and connect to Temple undergraduates of diverse, underrepresented and marginalized backgrounds; improve the recruitment and retention of graduate students from diverse, underrepresented and marginalized backgrounds and experiences; facilitate networking and connection with other campuses, and local and national groups that share our goal; and create a space for current psychology graduate students to discuss and reflect upon issues of diversity, multiculturalism, and inclusivity. 
