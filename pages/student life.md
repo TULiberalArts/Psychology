@@ -28,7 +28,7 @@ The Psychology Majors Association (PMA) strives to provide opportunities for stu
 Psychology Majors of Color (PMC) was established to support and retain undergraduate students of color who study psychology, neuroscience, and related areas. PMC aims to holistically enhance students’ academic experiences by 1) providing  opportunities for members to learn about and participate within the field of psychology; educate members about the breadth of careers in psychology; and 3) creating a space for students of color to connect and network.
 
 ### Membership
-Members are required to attend at least three meetings/events per semester (6 for the overall year). For more information contact [templepmc@gmail.com](mailto:templepmc@gmail.com)
+Members are required to attend at least three meetings/events per semester (6 for the overall year). For more information contact [templepmc@gmail.com](mailto:templepmc@gmail.com).
 
 ## Temple University Psi Chi
 ![Psi Chi]({{site.baseurl}}/media/resized Psi Chi.png){:.responsive-img .img-center}
