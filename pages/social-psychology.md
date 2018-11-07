@@ -23,9 +23,9 @@ E-mail: [andrew.karpinski@temple.edu](mailto:andrew.karpinski@temple.edu)<br/>
 
 **Primary Faculty**
 
-- [Donald Hantula, Ph.D.](https://liberalarts.temple.edu/academics/faculty/hantula-donald)
-- Chelsea Helion, Ph.D.: New faculty as of July 2019 - Currently Accepting Graduate Students for Fall 2019
-- Johanna Jarcho, Ph.D.: New faculty as of July 2018 - Currently Accepting Graduate Students for Fall 2019
-- [Andrew Karpinski, Ph.D.](https://liberalarts.temple.edu/academics/faculty/karpinski-andrew)
+- [Donald Hantula, PhD](https://liberalarts.temple.edu/academics/faculty/hantula-donald)
+- Chelsea Helion, PhD: New faculty as of July 2019 - Currently Accepting Graduate Students for Fall 2019
+- [Johanna Jarcho, PhD](https://liberalarts.temple.edu/academics/faculty/jarcho-johanna): New faculty as of July 2018 - Currently Accepting Graduate Students for Fall 2019
+- [Andrew Karpinski, PhD](https://liberalarts.temple.edu/academics/faculty/karpinski-andrew)
 
 For information on how to apply to the Social Psychology program, please visit the [Psychology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext).
