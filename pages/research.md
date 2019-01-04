@@ -66,6 +66,15 @@ This lab group researches the development of the processes involved in social un
 How do we control our emotions? What causes sudden bursts of aggression and how can we manage anger? This lab considers biological, psychological (cognitive-affective) and environmental mechanisms underlying difficulties in affect regulation (control of one’s emotional  state). The lab, under the direction of **[Michael McCloskey](https://liberalarts.temple.edu/academics/faculty/mccloskey-michael)**, conducts a combination of behavioral and neuroimaging studies among individuals with and without difficulties in affect dysregulation.
 - [MAD Lab](https://sites.temple.edu/madlab/)
 
+### Memory Epigenetics and Addiction Laboratory
+Our lab combines animal models of addiction with molecular biological techniques to study epigenetic mechanisms underlying addiction susceptibility. Why are some individuals more susceptible to abuse drugs? The interaction between genome (genetic makeup) and environment shapes the development of psychiatric diseases, including Substance Use Disorder. The etiology of addiction has a large genetic component and epidemiological studies suggest that Substance Use Disorder is heritable. The other side of that coin are epigenetic processes, which can be broadly defined as environmental influences on gene expression. We have developed a multigenerational model to study the influence of drug exposure on future generations. We are interested in two major questions:
+
+1) How is the information passed on from fathers to their offspring? How can paternal drug taking alter the germline epigenome (sperm)? Which germline epigenetic reprogramming events are critical for shaping development toward addiction vulnerability in the next generation?
+
+2) What has changed in the brain of the offspring produced by drug-treated fathers? What are the functionally relevant neuro-epigenetic processes that increase addiction-like behavior in the first generation progeny?
+
+[Wimmer Lab](https://wimmerlab.org/)
+
 ### Mood and Cognition
 What are the causes of the first onset of depression and bipolar disorder in adolescents and young adults? Are there factors that can provide protection against depression and bipolar disorder? This lab, led by principal investigator **[Lauren Alloy](https://liberalarts.temple.edu/academics/faculty/alloy-lauren)** studies the cognitive, psychosocial, developmental, emotional and neurobiological processes in the onset and course of depression and bipolar disorder in adolescents and adults.
 - [Mood and Cognition Lab](https://sites.temple.edu/moodandcognitionlab/)
