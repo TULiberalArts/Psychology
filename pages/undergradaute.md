@@ -37,6 +37,8 @@ The [Psychology Internship/Practicum](http://bulletin.temple.edu/undergraduate/l
 
 View the following pdf to learn more about this course, requirements, guidelines, contact information and deadlines. [Psychology Internship and Practicum](https://docs.google.com/document/d/1DY5OV1xN8VS9ePcHzOvhMVfdJvgBLFGuBbOH97x1mTI/edit?usp=sharing).
 
+You can view a complete list of the **[Department of Psychology Internship Site Listings](https://docs.google.com/document/d/10HBG16SrWkz7FBLCEONrhVYaohYQIUFSF_5qjr5BOeI/edit)** for the 2017-2018 year!
+
 ## Psychology 5-Year Master’s Program (+1)
 ![Research]({{site.baseurl}}/media/resized 4+1.jpg){:.responsive-img .img-right}
 The +1 Master in Psychological Research offers outstanding Temple University psychology majors the opportunity to earn both the Bachelor of Arts in Psychology and the Master of Science in Psychological Research in just 5 years. Admission to the program is highly selective. The program provides a research-intensive experience, advanced coursework and professional development to students who intend to pursue doctoral studies in any of the academic psychology disciplines. Students apply to the program in the spring semester of the junior year after completing a minimum of 72 undergraduate credits. Additionally, students must have a faculty sponsor who has agreed to mentor the student’s master’s project research during the four-semester program.
