@@ -37,7 +37,7 @@ The [Psychology Internship/Practicum](http://bulletin.temple.edu/undergraduate/l
 
 View the following pdf to learn more about this course, requirements, guidelines, contact information and deadlines. [Psychology Internship and Practicum](https://docs.google.com/document/d/1DY5OV1xN8VS9ePcHzOvhMVfdJvgBLFGuBbOH97x1mTI/edit?usp=sharing).
 
-You can view a complete list of the **[Department of Psychology Internship Site Listings](https://docs.google.com/document/d/10HBG16SrWkz7FBLCEONrhVYaohYQIUFSF_5qjr5BOeI/edit)** for the 2017-2018 year!
+You can view a complete list of the **[Department of Psychology Internship Site Listings](https://docs.google.com/document/d/10HBG16SrWkz7FBLCEONrhVYaohYQIUFSF_5qjr5BOeI/edit)** for the 2018-2019 year!
 
 ## Psychology 5-Year Master’s Program (+1)
 ![Research]({{site.baseurl}}/media/resized 4+1.jpg){:.responsive-img .img-right}
