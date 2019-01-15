@@ -30,14 +30,14 @@ The Honors Psychology program is designed to be a 2-year study that begins with 
 
 The Honors Psychology program has several main goals. First, students may expect an integrated panoramic view of the field of psychology, from its historical roots to current perspectives. Second, the program will provide students with a foundation in scientific methodology. Students will then take that knowledge to design, implement and analyze data for their senior thesis. Third, this hands-on experience encourages students to grapple with key theoretical and research ideas related to their particular interest. Additionally, the program offers an intimate and individualized experience to prepare students for the future career paths to which they aspire.
 
-[Learn More about the Honors Psychology Program](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/ba-psychology/#psichi-thenationalhonorsocietyinpsychology).
+Learn More about the [Honors Psychology Program](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/ba-psychology/#psichi-thenationalhonorsocietyinpsychology).
 
 ## Psychology Internship and Practicum
 The [Psychology Internship/Practicum](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/#internshippracticum) course gives you experience in the work-world and, as such, is unlike most other courses you will take. There are two courses required for completion: [Internship (Psych 3785)](http://bulletin.temple.edu/search/?P=PSY%203785) and [Practicum (Psych 3787)](http://bulletin.temple.edu/search/?P=PSY%203787). You will have dual responsibility: to provide the best service possible to your agency/school/company (you will be, in some sense, an ambassador for Temple and for the Department) and to communicate regularly with your advisor.
 
-View the following pdf to learn more about this course, requirements, guidelines, contact information and deadlines. [Psychology Internship and Practicum](https://docs.google.com/document/d/1DY5OV1xN8VS9ePcHzOvhMVfdJvgBLFGuBbOH97x1mTI/edit?usp=sharing).
+- View the following pdf to learn more about this course, requirements, guidelines, contact information and deadlines. [Psychology Internship and Practicum](https://docs.google.com/document/d/1DY5OV1xN8VS9ePcHzOvhMVfdJvgBLFGuBbOH97x1mTI/edit?usp=sharing).
 
-You can view a complete list of the **[Department of Psychology Internship Site Listings](https://docs.google.com/document/d/10HBG16SrWkz7FBLCEONrhVYaohYQIUFSF_5qjr5BOeI/edit)** for the 2018-2019 year!
+- You can view a complete list of the **[Department of Psychology Internship Site Listings](https://docs.google.com/document/d/10HBG16SrWkz7FBLCEONrhVYaohYQIUFSF_5qjr5BOeI/edit)** for the 2018-2019 year!
 
 ## Psychology 5-Year Master’s Program (+1)
 ![Research]({{site.baseurl}}/media/resized 4+1.jpg){:.responsive-img .img-right}
