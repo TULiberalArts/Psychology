@@ -49,6 +49,8 @@ To learn more about this accelerated degree offering, please visit the [Psycholo
 For a list of current labs and research opportunities, please see the [Department of Psychology
 Collaborative Research Register of Faculty Sponsors](https://docs.google.com/document/d/1kiv0Zf9QgRmbyEqoExB1j9CUE24IILxVDciuXHmO4U4/edit) which lists all current opportunities, requirements, lab and research project descriptions and applications to apply.
 
+You cav view [a list of summer research opportunities at other institutions](https://listserv.temple.edu/cgi-bin/wa?A1=ind1902&L=PSYRESEARCH&O=D&H=0&D=1&T=0), and [research employment opportunities for Psychology graduates](https://listserv.temple.edu/cgi-bin/wa?A1=ind1902&L=PSYRESEARCH&O=D&H=0&D=1&T=0). 
+
 ### Getting Involved in Research
 ![Olino Lab]({{site.baseurl}}/media/resized Olino lab.jpg){:.responsive-img .img-right}
 Graduate programs in psychology highly regard students with research experience. At Temple you have the opportunity to volunteer in labs representing a wide range of psychological interests. Many of the faculty pages link to lab websites where you can learn more about their research. If you want to volunteer in a particular lab, email the faculty member to inquire if there are openings for a research volunteer.
