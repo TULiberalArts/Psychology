@@ -18,11 +18,11 @@ Gifts from alumni and friends of the department can be directed to honor beloved
 To make a gift to the department, visit [Temple University’s Giving Site](https://advancement-sec.temple.edu/s/705/giving/19/interior_form.aspx?sid=705&gid=1&pgid=3813&cid=5100&bledit=1&dids=.611.50.158.134.668.306.5&sort=1&appealcode=SOL_CUSTOMURL) and locate the “designation” area. Enter “Department of Psychology” in the “Other” box. To give to one of the aforementioned funds, in the box, type “Shipley Award” or “Bersh Award.” On the next page, enter your billing information.
 
 ## Make a Gift By Phone
-You can also make your gift by speaking with College of Liberal Arts Development Staff at [215-204-9153](tel:2152049153)<br>.
+You can also make your gift by speaking with College of Liberal Arts Development Staff at [215-204-9153](tel:2152049153).<br>
 
 ## Make a Gift by Check
 Download our [form](https://www.cla.temple.edu/wp-content/uploads/2010/11/CLA-Gift-Form.pdf) and mail it to the address below:<br>
-Temple University<br>
+**Temple University**<br>
 Institutional Advancement<br>
 P.O. Box 827651<br>
 Philadelphia, PA 19182-7651<br>
