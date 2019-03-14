@@ -5,7 +5,7 @@ permalink: /giving/
 published: true
 # meta-data variables
 title: Giving
-keywords: ''
+keywords: 'giving, donate, alumni, awards, gift'
 description: >-
 # custom variables
 ---
