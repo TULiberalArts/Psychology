@@ -21,7 +21,7 @@ To make a gift to the department, visit [Temple University’s Giving Site](http
 You can also make your gift by speaking with College of Liberal Arts Development Staff at [215-204-9153](tel:2152049153)<br>.
 
 ## Make a Gift by Check
-Download our [form](https://www.cla.temple.edu/wp-content/uploads/2010/11/CLA-Gift-Form.pdf) and mail it to the address below<br>.
+Download our [form](https://www.cla.temple.edu/wp-content/uploads/2010/11/CLA-Gift-Form.pdf) and mail it to the address below:<br>
 Temple University<br>
 Institutional Advancement<br>
 P.O. Box 827651<br>
