@@ -67,6 +67,10 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
   Postdoctoral fellow in David Heeger’s Computational Neuroimaging Lab at NYU<br/>
   B.A. in Psychology from Temple in 2012<br/>
   
+- [Mark Schenker](https://liberalarts.temple.edu/news/alumni-spotlight-mark-schenker)<br/> 
+  Clinical Psychologist<br/>
+  M.A. and Ph.D. in Clinical Psychology from Temple<br/>  
+  
 ___
   
 ## Make Your Declaration
