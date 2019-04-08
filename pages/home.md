@@ -13,7 +13,7 @@ description: >-
 promotion-table: true
 
 feature: true
-feature-image: media/psychherospring2019.jpg
+feature-image: media/psych2herospring2019.jpg
 ---
 ## Promoting Excellence in Psychological Science
 The Department of Psychology has a threefold mission: To answer questions on the cutting edge of psychology research,
