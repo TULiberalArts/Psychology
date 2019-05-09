@@ -13,7 +13,7 @@ description: >-
 
 sidebar: sidebars/undergraduate.html
 ---
-Interested in earning a Psychology degree? Learn about the College of Liberal Arts’ [undergraduate psychology degree](#program-overview) program, our [honors](#honors-psychology-program) program, [internships](#psychology-internship-and-racticum), [five-year combined bachelor’s and master’s degree](#psychology-5-year-masters-program-1), [research](#research-opportunities) opportunities and [Temple Ambler](#ambler-campus-psychology-program) options.
+Interested in earning a Psychology degree? Learn about the College of Liberal Arts’ [undergraduate psychology degree](#program-overview) program, our [honors](#honors-psychology-program) program, [internships](#psychology-internship-and-racticum), [five-year combined bachelor’s and master’s degree](#psychology-5-year-masters-program-1), [research](#research-opportunities) opportunities and how to earn your degree at our suburban [Temple Ambler](#psychology-program-at-temple-ambler) campus.
 
 ![Weiss Hall]({{site.baseurl}}/media/Weiss Hall.png){:.responsive-img .img-right}
 ## Program Overview
