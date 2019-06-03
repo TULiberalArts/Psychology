@@ -21,7 +21,7 @@ The formal course [Careers in Psychology](https://bulletin.temple.edu/search/?se
 
 Another valuable option comes through our **Psychology Internship and Practicum** courses, which provide placements in the Philadelphia and often provide valuable opportunities to develop workplace connections and skills. 
 
-## Notable Alumni
+## Featured Alumni
 The stories below feature some of our outstanding alumni, and they further illustrate the diversity of options available to Psychology graduates. 
 
 **_Alumni Spotlight_**
