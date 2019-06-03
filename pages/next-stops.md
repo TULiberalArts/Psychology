@@ -15,31 +15,14 @@ A Temple University psychology degree can take you to a great internship and a r
 
 ## Where Can a Degree in Psychology Take You?
 ![Your Career]({{site.baseurl}}/media/resized Your Career sign.png){:.responsive-img .img-left}
-Getting your psychology education is about more than getting your psychology degree. It’s about preparing for your future. Because the knowledge and skills you’ll learn as an undergraduate Psychology major (e.g., critical thinking, human behavior) are crucial to many disciplines, you’ll find yourself with a multitude of career and graduate study opportunities upon graduation. Psychology majors are often employed in management positions, real estate, sales, marketing, social services and labor relations. Many psychology majors also go on to graduate study in psychology or other fields, including law, medicine and business school.
+Getting your psychology education is about more than getting your psychology degree. It’s about preparing for your future. With the knowledge and skills you’ll learn as an undergraduate Psychology major (e.g., critical thinking, understanding human behavior) you will find yourself with a multitude of career and graduate study opportunities upon graduation. Psychology majors often go into careers involving research, human resources, education, marketing, social services, or healthcare. Many psychology majors also go on to graduate study in psychology or other fields, including counseling, law, medicine, occupational or speech therapy, or business.
 
-The formal course [Careers in Psychology](http://bulletin.temple.edu/search/?P=PSY%201002) teaches Temple Psychology students about their career options and provides advice for career decisions. This course encourages students to begin preparing for their career early during their undergraduate training so that they may maximally benefit from their undergraduate education.
+The formal course [Careers in Psychology](https://bulletin.temple.edu/search/?search=careers+in+psychology) teaches Temple Psychology majors about their career options. This course, designed to be taken by students in their first year as a psychology major, introduces students to the various career and graduate school options that are available to them after graduation.
 
-Examples of internship settings include:
-- Abington Memorial Hospital
-- Children’s Crisis Treatment Center
-- Children’s Hospital of Philadelphia
-- Kidsville Learning Center
-- PeopleShare
-- The Social Enrichment Center
-- Tuttleman Counseling Services<br>
-
-After graduation, our students pursue a diverse range of careers, such as:
-- Research Coordinator (BA)
-- Clinical Case Manager (BA)
-- Human Resources (BA)
-- Speech Pathology (MS)
-- Law School (JD)
-- Psychology (PhD)
-- Neuropsychology (PhD)
-- Medical School (MD, DO)
+Another valuable option comes through our **Psychology Internship and Practicum** courses, which provide placements in the Philadelphia and often provide valuable opportunities to develop workplace connections and skills. 
 
 ## Notable Alumni
-So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes!
+The stories below feature some of our outstanding alumni, and they further illustrate the diversity of options available to Psychology graduates. 
 
 **_Alumni Spotlight_**
 
