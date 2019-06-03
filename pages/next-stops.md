@@ -11,7 +11,7 @@ description: >-
   Get to know our notable alumniand careers, visit us, review application deadlines and transfer options, and apply.
 # custom variables
 ---
-A Temple University psychology degree can take you to a great internship and a rewarding career. Get to know some of your [notable alumni](#notable-alumni)—one day you might just join them! So [make your declaration](#make-your-declaration), review our [application deadlines](#deadlines) and learn how to [apply](#make-your-declaration)!
+A Temple University psychology degree can take you to a great internship and a rewarding career. Get to know some of your [featured alumni](#featured-alumni)—one day you might just join them! So [make your declaration](#make-your-declaration), review our [application deadlines](#deadlines) and learn how to [apply](#make-your-declaration)!
 
 ## Where Can a Degree in Psychology Take You?
 ![Your Career]({{site.baseurl}}/media/resized Your Career sign.png){:.responsive-img .img-left}
