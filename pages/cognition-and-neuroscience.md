@@ -21,7 +21,7 @@ Dr. Ingrid Olson<br>
 Director, Cognition and Neuroscience<br>
 Email: [iolson@temple.edu](mailto:iolson@temple.edu)<br>
 
-## BCS Faculty & Research Interests
+## Cognition and Neuroscience Faculty & Research Interests
 
 **Behavioral Neuroscience Faculty**
 - [\*Debra Bangasser, Ph.D.](https://liberalarts.temple.edu/academics/faculty/bangasser-debra): Neurobiology of stress, anxiety, and learning 
