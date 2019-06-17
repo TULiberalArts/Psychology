@@ -26,7 +26,7 @@ The Department of Psychology has a threefold mission: to answer questions on the
 
 Undergraduate students who study psychology at Temple University develop critical thinking skills through courses that emphasizing the scientific basis of psychology, statistical analysis and experimental design. Advanced courses introduce students to current psychological research on mental disorders and treatments, learning and memory, social development, and many other topics. Students are encouraged to develop applied skills through focused experiential learning in research laboratories and through community-based internships. 
 
-Our nationally ranked graduate program provides doctoral training across four areas of psychology: [Clinical Psychology](https://www.cla.temple.edu/psychology/graduate/clinical-psychology), [Brain and Cognitive Sciences](https://www.cla.temple.edu/psychology/graduate/brain-and-cognitive-sciences), [Developmental Psychology](https://www.cla.temple.edu/psychology/graduate/developmental-psychology) and [Social Psychology](https://www.cla.temple.edu/psychology/graduate/social-psychology). The intensive, full-time doctoral program is highly research-focused and allows students to gain experiences across multiple research methodologies and laboratory environments.
+Our nationally ranked graduate program provides doctoral training across four areas of psychology: [Clinical Psychology](https://www.cla.temple.edu/psychology/graduate/clinical-psychology), [Cognition and Neuroscience](https://www.cla.temple.edu/psychology/graduate/brain-and-cognitive-sciences), [Developmental Psychology](https://www.cla.temple.edu/psychology/graduate/developmental-psychology) and [Social Psychology](https://www.cla.temple.edu/psychology/graduate/social-psychology). The intensive, full-time doctoral program is highly research-focused and allows students to gain experiences across multiple research methodologies and laboratory environments.
 
 - **For information on how to apply to the Psychology PhD program, please visit the [Psychology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext)**.
 
@@ -44,7 +44,7 @@ Psychology's dedicated academic advisor is available to meet with students to pr
 - [Minor in Clinical and Health Psychology](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-clinical-health-psychology/)
 - [+1 Master of Science in Psychological Research](/psychology/undergraduate/#psychology-5-year-masters-program-1)<br/>
 **Please note that the deadline to apply to the Psychology +1 Master’s Program has been extended to April 1. Undergraduate students interested in applying to the +1 program please see the [Psychology 5-Year Master’s Program (+1)](http://www.cla.temple.edu/psychology/undergraduate/#psychology-5-year-masters-program-1).**
-- [PhD in Psychology](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/) (Concentrations in: Brain and Cognitive Sciences, Clinical Psychology, Developmental Psychology, and Social Psychology)
+- [PhD in Psychology](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/) (Concentrations in: Cognition and Neuroscience, Clinical Psychology, Developmental Psychology, and Social Psychology)
 
 ___
 
