@@ -20,7 +20,7 @@ Ready to move your career forward with a doctoral degree? Learn about Temple Uni
 
 The Department of Psychology has four areas of study in the doctoral program:
 
-- [Brain and Cognitive Sciences](https://www.cla.temple.edu/psychology/graduate/brain-and-cognitive-sciences)<br>
+- [Cognition and Neuroscience](https://www.cla.temple.edu/psychology/graduate/brain-and-cognitive-sciences)<br>
 - [Clinical Psychology](https://www.cla.temple.edu/psychology/graduate/clinical-psychology)<br>
 - [Developmental Psychology](https://www.cla.temple.edu/psychology/graduate/developmental-psychology)<br>
 - [Social Psychology](https://www.cla.temple.edu/psychology/graduate/social-psychology)<br>
