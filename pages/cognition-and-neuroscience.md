@@ -47,4 +47,4 @@ Email: [iolson@temple.edu](mailto:iolson@temple.edu)<br>
 
 - **_The asterisk inidicates that faculty are not currently accepting graduate students_**
 
-For information on how to apply to the Brain and Cognitive Sciences program, please visit the [Psychology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext).
+For information on how to apply to the Cognition and Neuroscience Sciences program, please visit the [Psychology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext).
