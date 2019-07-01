@@ -17,9 +17,9 @@ A list of faculty working in the Cognition and Neuroscience Program is given bel
 
 For further information, please refer to our [FAQs page](https://docs.google.com/document/d/1ivOkALO5TPzHucnu6X8tCwhDbZI0bV_HKslMpBJKD00/edit?usp=sharing). For specific questions concerning the Doctoral Program in Cognition and Neuroscience, contact:
 
-Dr. Ingrid Olson<br>
+Dr. Thomas Shipley<br>
 Director, Cognition and Neuroscience<br>
-Email: [iolson@temple.edu](mailto:iolson@temple.edu)<br>
+Email: [tshipley@temple.edu](mailto:tshipley@temple.edu)<br>
 
 ## Cognition and Neuroscience Faculty & Research Interests
 
@@ -47,4 +47,4 @@ Email: [iolson@temple.edu](mailto:iolson@temple.edu)<br>
 
 - **_The asterisk inidicates that faculty are not currently accepting graduate students_**
 
-For information on how to apply to the Cognition and Neuroscience Sciences program, please visit the [Psychology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext).
+For information on how to apply to the Cognition and Neuroscience Science program, please visit the [Psychology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext).
