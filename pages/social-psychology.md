@@ -17,16 +17,16 @@ For more details, prospective applicants are encouraged to explore the faculty w
 
 For further information or questions concerning the Doctoral Program in Social Psychology, contact:
 
-[Dr. Andrew Karpinski](https://liberalarts.temple.edu/academics/faculty/karpinski-andrew)<br/>
-_Social Area Director_<br/>
-E-mail: [andrew.karpinski@temple.edu](mailto:andrew.karpinski@temple.edu)<br/>
+_Interim Social Area Director_<br/>
+[Dr. Johanna Jarcho](https://liberalarts.temple.edu/academics/faculty/jarcho-johanna)<br/>
+E-mail: [johanna.jarcho@temple.edu](mailto:johanna.jarcho@temple.edu)<br/>
 
 **Primary Faculty**
 
 - [Donald Hantula, PhD](https://liberalarts.temple.edu/academics/faculty/hantula-donald)
-- Chelsea Helion, PhD: New faculty as of July 2019 - Currently Accepting Graduate Students for Fall 2019
-- [Johanna Jarcho, PhD](https://liberalarts.temple.edu/academics/faculty/jarcho-johanna): New faculty as of July 2018 - Currently Accepting Graduate Students for Fall 2019
+- [Chelsea Helion, PhD](https://liberalarts.temple.edu/academics/faculty/helion-chelsea): Currently Accepting Graduate Students for Fall 2020
+- [Johanna Jarcho, PhD](https://liberalarts.temple.edu/academics/faculty/jarcho-johanna): Currently Accepting Graduate Students for Fall 2020
 - [Andrew Karpinski, PhD](https://liberalarts.temple.edu/academics/faculty/karpinski-andrew)
-- [Ingrid Olson, PhD](https://liberalarts.temple.edu/academics/faculty/olson-ingrid)
+- [Ingrid Olson, PhD](https://liberalarts.temple.edu/academics/faculty/olson-ingrid): Currently Accepting Graduate Students for Fall 2020
 
 For information on how to apply to the Social Psychology program, please visit the [Psychology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext).
