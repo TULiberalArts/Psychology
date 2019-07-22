@@ -14,7 +14,7 @@ description: >-
 ---
 At the College of Liberal Arts, psychology research is geared towards finding vital answers to the big questions in our modern [research laboratories](#psychology-research-laboratories) and [clinics](#temple-university-clinics). Non Temple University students are also eligible to [participate in our research](#opportunities-to-participate-in-research-non-temple-students).
 
-[![Psychology Brochure](https://github.com/TULiberalArts/Psychology/blob/master/media/resized%20Brochure%20homepage.png?raw=true)](https://liberalarts.temple.edu/sites/liberalarts/files/TU_Psych_Viewbook_Layout_Final_OFFICIAL%20%281%29.pdf){:.img-right}
+[![Psychology Brochure](https://github.com/TULiberalArts/Psychology/blob/master/media/resized2brochure.png?raw=true)](https://liberalarts.temple.edu/sites/liberalarts/files/TU_Psych_Viewbook_Layout_Final_OFFICIAL%20%281%29.pdf){:.img-right}
 ## Big Questions, Vital Answers
 Our award-winning faculty is at the heart of our program. Nationally recognized scientists and practicing psychologists investigate how people think, feel and develop using state-of-the-art methods in behavioral and cognitive neuroscience, and clinical, developmental and social psychology.
 
