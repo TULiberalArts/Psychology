@@ -20,6 +20,8 @@ Our award-winning faculty is at the heart of our program. Nationally recognized 
 
 The research conducted in our world-renowned laboratories addresses a wide-range of human conditions and behaviors. There are many opportunities for students to participate in faculty research or conduct independent study under faculty supervision.
 
+___
+
 ## Psychology Research Laboratories
 
 ### Adaptive Memory Lab
