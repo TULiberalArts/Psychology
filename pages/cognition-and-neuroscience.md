@@ -24,15 +24,15 @@ Email: [tshipley@temple.edu](mailto:tshipley@temple.edu)<br>
 ## Cognition and Neuroscience Faculty & Research Interests
 
 **Behavioral Neuroscience Faculty**
-- [\*Debra Bangasser, Ph.D.](https://liberalarts.temple.edu/academics/faculty/bangasser-debra): Neurobiology of stress, anxiety, and learning 
+- [Debra Bangasser, Ph.D.](https://liberalarts.temple.edu/academics/faculty/bangasser-debra): Neurobiology of stress, anxiety, and learning 
 - [Lisa Briand, Ph.D.](https://liberalarts.temple.edu/academics/faculty/briand-lisa): Animal Models of Addiction 
 - [Vinay Parikh, Ph.D.](https://liberalarts.temple.edu/academics/faculty/parikh-vinay): Neurochemical substrates of fronto-executive functions; normal and pathological aging; neurocognitive mechanisms of addiction 
-- [Mathieu Wimmer, Ph.D.](https://liberalarts.temple.edu/academics/faculty/wimmer-mathieu): Epigenetics of addiction and memory 
+- [\*Mathieu Wimmer, Ph.D.](https://liberalarts.temple.edu/academics/faculty/wimmer-mathieu): Epigenetics of addiction and memory 
 
 **Cognitive Faculty**
 - [Elizabeth Gunderson, Ph.D.](https://liberalarts.temple.edu/academics/faculty/gunderson-elizabeth): Cognitive development; Mathematical cognition 
-- [Nora S. Newcombe, Ph.D.](https://liberalarts.temple.edu/academics/faculty/newcombe-nora): Spatial cognition and development, Episodic memory and development, Science of Learning 
-- [Thomas F. Shipley, Ph.D.](https://liberalarts.temple.edu/academics/faculty/shipleythomas): Spatial Perception & Cognition; Event perception; STEM Education 
+- [\*Nora S. Newcombe, Ph.D.](https://liberalarts.temple.edu/academics/faculty/newcombe-nora): Spatial cognition and development, Episodic memory and development, Science of Learning 
+- [\*Thomas F. Shipley, Ph.D.](https://liberalarts.temple.edu/academics/faculty/shipleythomas): Spatial Perception & Cognition; Event perception; STEM Education 
 - [\*Robert Weisberg, Ph.D.](https://liberalarts.temple.edu/academics/faculty/weisberg-robert): Creativity
 
 **Cognitive Neuroscience Faculty**
