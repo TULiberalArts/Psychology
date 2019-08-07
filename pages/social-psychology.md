@@ -28,5 +28,7 @@ E-mail: [johanna.jarcho@temple.edu](mailto:johanna.jarcho@temple.edu)<br/>
 - [Johanna Jarcho, PhD](https://liberalarts.temple.edu/academics/faculty/jarcho-johanna): Currently Accepting Graduate Students for Fall 2020
 - [Andrew Karpinski, PhD](https://liberalarts.temple.edu/academics/faculty/karpinski-andrew)
 - [Ingrid Olson, PhD](https://liberalarts.temple.edu/academics/faculty/olson-ingrid): Currently Accepting Graduate Students for Fall 2020
+- [David Smith, PhD](https://liberalarts.temple.edu/academics/faculty/smith-david-v): Currently Accepting Graduate Students for Fall 2020
+
 
 For information on how to apply to the Social Psychology program, please visit the [Psychology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext).
