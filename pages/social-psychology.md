@@ -10,7 +10,7 @@ description: >-
 # custom variables
 ---
 ## Social Psychology
-![CIA Lab]({{site.baseurl}}/media/resized Social Psychology.jpg){:.img-right}
+![CIA Lab]({{site.baseurl}}/media/resizedsocial.jpg){:.img-right}
 Our program in Social Psychology prepares students to be skilled social psychological researchers and data analysts. Students will gain a broad knowledge of psychology in general through coursework and a detailed knowledge of social psychological research by conducting research in their mentor’s lab. Students in our program receive training in multiple research methods and advanced statistical techniques.
 
 For more details, prospective applicants are encouraged to explore the faculty web pages to get a closer look at the research topics that are currently being investigated. A strong fit between an applicant’s research interests and those of a specific social faculty member is a very important aspect of the admissions process.
