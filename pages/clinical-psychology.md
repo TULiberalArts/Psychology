@@ -47,7 +47,6 @@ Email: [rfauber@temple.edu](mailto:rfauber@temple.edu)<br/>
 - [Richard Heimberg, Ph.D.](https://liberalarts.temple.edu/academics/faculty/heimberg-richard) – Not accepting clinical students for 2020.
 - [Philip Kendall, Ph.D.](https://liberalarts.temple.edu/academics/faculty/kendall-philip-c)
 - [Michael McCloskey, Ph.D.](https://liberalarts.temple.edu/academics/faculty/mccloskey-michael)
-- [Catherine Panzarella, Ph.D.](https://liberalarts.temple.edu/academics/faculty/panzarella-catherine) – Not accepting clinical students for 2020.
 - [Thomas Olino, Ph.D.](https://liberalarts.temple.edu/academics/faculty/olino-thomas) 
 
 ## Goals of Clinical Psychology
