@@ -22,7 +22,6 @@ and the community with psychological services based on the best current practice
 
 ## Excel in Our Program
 [![Psychology Brochure](https://github.com/TULiberalArts/Psychology/blob/master/media/resized%20Brochure%20homepage.png?raw=true)](https://liberalarts.temple.edu/sites/liberalarts/files/TU_Psych_Viewbook_Layout_Final_OFFICIAL%20%281%29.pdf){:.responsive-img .img-right}
-The Department of Psychology has a threefold mission: to answer questions on the cutting edge of psychology research, to provide training to undergraduate and graduate students in the broad fields of psychology, and to provide individuals and the community with psychological services based on the best current practices in psychology.
 
 Undergraduate students who study psychology at Temple University develop critical thinking skills through courses that emphasizing the scientific basis of psychology, statistical analysis and experimental design. Advanced courses introduce students to current psychological research on mental disorders and treatments, learning and memory, social development, and many other topics. Students are encouraged to develop applied skills through focused experiential learning in research laboratories and through community-based internships. 
 
