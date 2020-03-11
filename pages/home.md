@@ -48,7 +48,7 @@ Psychology's dedicated academic advisor is available to meet with students to pr
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Get Involved in Research!"
     content="Undergraduate students gain vital skills through hands-on experience in laboratories and research groups."
     image=""
@@ -56,7 +56,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Graduate Programs"
       content="The world-renowned faculty in our graduate program are highly collaborative, with many connections within and outside Temple. This allows students to gain truly interdisciplinary training for the next stage of their career."
       image=""
@@ -64,7 +64,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Clinical Services"
         content="Three clinics provide mental health services to the community in and around Temple: The Psychological Services Center, the Adult Anxiety Clinic, and the Child and Adolescent Anxiety Disorders Clinic."
         image=""
