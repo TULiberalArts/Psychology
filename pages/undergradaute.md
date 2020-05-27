@@ -23,10 +23,10 @@ Temple University's Undergraduate Psychology program provides a modern curriculu
 
 Students are strongly encouraged to develop applied skills through rigorous and highly focused experiential learning in research laboratories and community–based internships. The curriculum is designed to be sufficiently flexible to satisfy undergraduates’ diverse needs. As such, students may select an individually tailored curriculum for employment or further study in psychology, neuroscience, medicine, law, business or other fields.
 
-- Learn More About the [BA in Psychology](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/ba-psychology/)<br>
-- Learn More About the [Minor in Psychology](https://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-psychology/)
-- Learn More About the [Minor in Clinical and Health Psychology](https://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-clinical-health-psychology/)
-- Learn More About the [Minor in Cognitive Neuroscience](https://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-cognitive-neuroscience/)
+- Learn More about the [BA in Psychology](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/ba-psychology/)<br>
+- Learn More about the [Minor in Psychology](https://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-psychology/)
+- Learn More about the [Minor in Clinical and Health Psychology](https://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-clinical-health-psychology/)
+- Learn More about the [Minor in Cognitive Neuroscience](https://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-cognitive-neuroscience/)
 
 ## Honors Psychology Program
 The Honors Psychology program is designed to be a 2-year study that begins with a yearlong investigation of methodology, critical thinking and writing. In the second year, the program culminates in the production of a senior thesis that is presented at the student poster session. Each semester, the class explores a new topic in-depth. Student-led discussions complement traditional lectures, encouraging students to engage fully with the course content.
