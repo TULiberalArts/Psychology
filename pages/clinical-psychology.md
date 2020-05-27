@@ -38,15 +38,15 @@ Email: [rfauber@temple.edu](mailto:rfauber@temple.edu)<br/>
 
 ## Primary Faculty
 
-- [Lauren Alloy, Ph.D.](https://liberalarts.temple.edu/academics/faculty/alloy-lauren)
-- [Eunice Chen, Ph.D.](https://liberalarts.temple.edu/academics/faculty/chen-eunice)
-- [Deborah Drabick, Ph.D.](https://liberalarts.temple.edu/academics/faculty/drabick-deborah)
-- [Lauren Ellman, Ph.D.](https://liberalarts.temple.edu/academics/faculty/ellman-lauren)
-- [Robert Fauber, Ph.D.](https://liberalarts.temple.edu/academics/faculty/fauber-robert) – Not accepting clinical students for 2020.
-- [Tania Giovannetti, Ph.D.](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania) – Not accepting clinical students for 2020.
-- [Richard Heimberg, Ph.D.](https://liberalarts.temple.edu/academics/faculty/heimberg-richard) – Not accepting clinical students for 2020.
-- [Philip Kendall, Ph.D.](https://liberalarts.temple.edu/academics/faculty/kendall-philip-c)
-- [Michael McCloskey, Ph.D.](https://liberalarts.temple.edu/academics/faculty/mccloskey-michael) – Not accepting clinical students for 2020.
+- [Lauren Alloy, PhD](https://liberalarts.temple.edu/academics/faculty/alloy-lauren)
+- [Eunice Chen, PhD](https://liberalarts.temple.edu/academics/faculty/chen-eunice)
+- [Deborah Drabick, PhD](https://liberalarts.temple.edu/academics/faculty/drabick-deborah)
+- [Lauren Ellman, PhD](https://liberalarts.temple.edu/academics/faculty/ellman-lauren)
+- [Robert Fauber, PhD](https://liberalarts.temple.edu/academics/faculty/fauber-robert) – Not accepting clinical students for 2020.
+- [Tania Giovannetti, PhD](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania) – Not accepting clinical students for 2020.
+- [Richard Heimberg, PhD](https://liberalarts.temple.edu/academics/faculty/heimberg-richard) – Not accepting clinical students for 2020.
+- [Philip Kendall, PhD](https://liberalarts.temple.edu/academics/faculty/kendall-philip-c)
+- [Michael McCloskey, PhD](https://liberalarts.temple.edu/academics/faculty/mccloskey-michael) – Not accepting clinical students for 2020.
 - [Thomas Olino, Ph.D.](https://liberalarts.temple.edu/academics/faculty/olino-thomas) 
 
 ## Goals of Clinical Psychology
