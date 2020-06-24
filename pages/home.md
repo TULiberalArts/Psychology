@@ -27,7 +27,7 @@ Undergraduate students who study psychology at Temple University develop critica
 
 Our nationally ranked graduate program provides doctoral training across four areas of psychology: [Clinical Psychology](https://www.cla.temple.edu/psychology/graduate/clinical-psychology), [Cognition and Neuroscience](https://www.cla.temple.edu/psychology/graduate/cognition-and-neuroscience/), [Developmental Psychology](https://www.cla.temple.edu/psychology/graduate/developmental-psychology) and [Social Psychology](https://www.cla.temple.edu/psychology/graduate/social-psychology). The intensive, full-time doctoral program is highly research-focused and allows students to gain experiences across multiple research methodologies and laboratory environments.
 
-- **For information on how to apply to the Psychology PhD program, please visit the [Psychology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext)**.
+- **For information on how to apply to the Psychology PhD program, please visit the [Psychology Graduate Admissions page](https://www.temple.edu/academics/degree-programs/psychology-phd-la-psy-phd/cla-psychology-phd-admissions)**.
 
 ## Leaders in Our Field
 The 32 faculty appointed in our doctoral training programs have won many national and international awards and are experienced leaders in their fields. Their research teams are addressing questions at the forefront of psychological science.
@@ -37,13 +37,13 @@ Psychology's dedicated academic advisor is available to meet with students to pr
 
 ## Academic Offerings
 
-- [BA in Psychology](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/ba-psychology/)
+- [BA in Psychology](https://www.temple.edu/academics/degree-programs/psychology-major-la-psy-ba)
 - [Minor in Psychology](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-psychology/)
 - [Minor in Cognitive Neuroscience](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-cognitive-neuroscience/)
 - [Minor in Clinical and Health Psychology](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-clinical-health-psychology/)
-- [+1 Master of Science in Psychological Research](/psychology/undergraduate/#psychology-5-year-masters-program-1)<br/>
-**Please note that the deadline to apply to the Psychology +1 Master’s Program has been extended to April 1. Undergraduate students interested in applying to the +1 program please see the [Psychology 5-Year Master’s Program (+1)](http://www.cla.temple.edu/psychology/undergraduate/#psychology-5-year-masters-program-1).**
-- [PhD in Psychology](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/) (Concentrations in: Cognition and Neuroscience, Clinical Psychology, Developmental Psychology, and Social Psychology)
+- [+1 Master of Science in Psychological Research](https://www.temple.edu/academics/degree-programs/psychological-research-ms-la-psyr-ms)<br/>
+**Please note that the deadline to apply to the Psychology +1 Master’s Program has been extended to April 1. Undergraduate students interested in applying to the +1 program please see the [Psychology 5-Year Master’s Program (+1)](https://www.temple.edu/academics/degree-programs/psychological-research-ms-la-psyr-ms).**
+- [PhD in Psychology](https://www.temple.edu/academics/degree-programs/psychology-phd-la-psy-phd/cla-psychology-phd-admissions) (Concentrations in: Cognition and Neuroscience, Clinical Psychology, Developmental Psychology, and Social Psychology)
 
 ___
 
