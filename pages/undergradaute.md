@@ -16,14 +16,14 @@ sidebar: sidebars/undergraduate.html
 Interested in earning a Psychology degree? Learn about the College of Liberal Arts’ [undergraduate psychology degree](#program-overview) program, our [honors](#honors-psychology-program) program, [internships](#psychology-internship-and-racticum), [five-year combined bachelor’s and master’s degree](#psychology-5-year-masters-program-1), [research](#research-opportunities) opportunities and how to earn your degree at our suburban [Temple Ambler](#psychology-program-at-temple-ambler) campus.
 
 ![Weiss Hall]({{site.baseurl}}/media/Weiss Hall.png){:.responsive-img .img-right}
-## Program Overview
 The Department of Psychology has a strong commitment to scholarly and scientific excellence. It has been heralded as one of the most diverse universities in the nation. This setting offers exciting opportunities for research and scholarly discourse.
 
-Temple University's Undergraduate Psychology program provides a modern curriculum covering a breadth of content, ranging from biological bases of cognition and behavior to sociocultural influences on human interactions and psychological disorders. The curriculum is designed to develop students’ critical thinking skills through emphasis of the scientific basis of Psychology and courses in statistics and research methodology. The program also emphasizes the integration and synthesis of information across courses and activities through the stepwise progression of the curriculum from the introductory, foundational and advanced classes up to the final capstone course that is taken senior year.
+## Bachelor of Arts in Psychology
+Temple University's Undergraduate Psychology program provides a modern curriculum covering a breadth of content, ranging from biological bases of cognition and behavior to sociocultural influences on human interactions and psychological disorders. The curriculum is designed to develop students’ critical thinking skills through emphasis of the scientific basis of Psychology and courses in statistics and research methodology. 
 
 Students are strongly encouraged to develop applied skills through rigorous and highly focused experiential learning in research laboratories and community–based internships. The curriculum is designed to be sufficiently flexible to satisfy undergraduates’ diverse needs. As such, students may select an individually tailored curriculum for employment or further study in psychology, neuroscience, medicine, law, business or other fields.
 
-- Learn More about the [BA in Psychology](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/ba-psychology/)<br>
+- Learn More about the [BA in Psychology](https://www.temple.edu/academics/degree-programs/psychology-major-la-psy-ba)<br>
 - Learn More about the [Minor in Psychology](https://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-psychology/)
 - Learn More about the [Minor in Clinical and Health Psychology](https://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-clinical-health-psychology/)
 - Learn More about the [Minor in Cognitive Neuroscience](https://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-cognitive-neuroscience/)
@@ -49,8 +49,7 @@ The +1 Master in Psychological Research offers outstanding Temple University psy
 To learn more about this accelerated degree offering, please visit the [Psychology Accelerated Degree Admissions](https://liberalarts.temple.edu/ba-psychology-ms-psychological-research) page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.  
 
 ## Research Opportunities
-For a list of current labs and research opportunities, please see the [Department of Psychology
-Collaborative Research Register of Faculty Sponsors](https://docs.google.com/document/d/1kiv0Zf9QgRmbyEqoExB1j9CUE24IILxVDciuXHmO4U4/edit) which lists all current opportunities, requirements, lab and research project descriptions and applications to apply.
+For a list of current labs and research opportunities, please visit the Undergraduate Research Opportunities section of the [Psychology Research and Facilities page](https://www.temple.edu/academics/degree-programs/psychology-major-la-psy-ba/cla-psychology-ba-research).
 
 You can view [a list of summer research opportunities at other institutions, and research employment opportunities for Psychology graduates](https://listserv.temple.edu/cgi-bin/wa?A0=PSYRESEARCH). 
 
@@ -64,4 +63,4 @@ Another opportunity to carry out research is through the [Psychology Honors Prog
 There are various opportunities to participate in psychology research studies at Temple. If you are a Temple student, you can find out more about participating in research through the Sona Systems site at: [temple.sona-systems.com](https://temple.sona-systems.com).
 
 ## Psychology Program at Temple Ambler
- Did you know you can also complete most of the undergraduate Temple psychology requirements at our Ambler Campus? Ambler Psychology students complete the same coursework as Main Campus students while benefiting from smaller class sizes in a suburban setting. Students can take advantage of exciting research opportunities at the campus’ nationally acclaimed [Infant Lab](http://www.cla.temple.edu/psychology/research#temple-infant-and-child-lab). Visit [Temple Ambler’s Psychology page](https://ambler.temple.edu/academics/degree-programs/undergraduate/psychology) to learn more.
+Did you know you can also complete most of the undergraduate Temple psychology requirements at our Ambler Campus? Ambler Psychology students complete the same coursework as Main Campus students while benefiting from smaller class sizes in a suburban setting. Students can take advantage of exciting research opportunities at the campus’ nationally acclaimed [Infant Lab](http://www.cla.temple.edu/psychology/research#temple-infant-and-child-lab). Visit [Temple Ambler’s Psychology page](https://ambler.temple.edu/academics/degree-programs/undergraduate/psychology) to learn more.
