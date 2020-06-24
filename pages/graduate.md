@@ -25,9 +25,9 @@ The Department of Psychology has four areas of study in the doctoral program:
 - [Developmental Psychology](https://www.cla.temple.edu/psychology/graduate/developmental-psychology)<br>
 - [Social Psychology](https://www.cla.temple.edu/psychology/graduate/social-psychology)<br>
 
-All PhD applicants must meet the requirements for admission. Please visit the [Psychology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+All PhD applicants must meet the requirements for admission. Please visit the [Psychology Graduate Admissions page](https://www.temple.edu/academics/degree-programs/psychology-phd-la-psy-phd/cla-psychology-phd-admissions) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
-Doctoral students in Psychology also have the opportunity to complete an interdisciplinary Neuroscience specialization via the Neuroscience Program in the College of Liberal Arts. Students interested in the Specialization in Neuroscience should visit the [Neuroscience Program website](http://www.cla.temple.edu/neuroscience/).
+Doctoral students in Psychology also have the opportunity to complete an interdisciplinary Neuroscience specialization via the Neuroscience Program in the College of Liberal Arts. Students interested in the Specialization in Neuroscience should visit the [Neuroscience Graduate page](https://www.cla.temple.edu/neuroscience/graduate/).
 
 ## Careers
 Individuals earning PhD degrees in Psychology have moved on to a variety of interesting and fulfilling positions. We have been consistently successful in placing our graduates in the types of positions they were hoping to obtain. Currently, it is typical for most individuals with newly earned Psychology PhD degrees to go on to postdoctoral research positions, and this holds for our students. Many of our graduates secure prestigious postdoctoral positions where they bring their skills and knowledge to the highest levels. Many of those students then obtain faculty positions at well-known institutions, where they carry out cutting-edge research in diverse areas from behavioral neuroscience to clinical science. Other students obtain research positions in various industries.
