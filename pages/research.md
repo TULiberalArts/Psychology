@@ -130,10 +130,6 @@ ___
 
 ## Temple University Clinics
 
-### Adult Anxiety Clinic of Temple
-Directed by **[Dr. Richard Heimberg](https://liberalarts.temple.edu/academics/faculty/heimberg-richard)**, the Adult Anxiety Clinic of Temple (AACT) is a treatment and research clinic specializing in evidence-based treatment for adult social anxiety disorder (SAD). SAD is characterized by persistent fears of social and/or performance situations. Clients 18 years and older who pursue treatment at the AACT receive individual cognitive-behavioral therapy (CBT) on a sliding fee scale. Additionally, the AACT conducts a variety of ongoing research studies aimed at understanding the nature and treatment of SAD and related disorders, including dental anxiety and other anxiety-related disorders. For more information about our clinic and the intake process for prospective clients, please visit our website below.
-- [Adult Anxiety Clinic](http://sites.temple.edu/anxiety/)
-
 ### Child and Adolescent Anxiety Disorders
 Different treatments for anxiety disorders in youth have different success rates. Which treatments are more effective than others and for whom? The Child & Adolescent Anxiety Disorders Clinic (CAADC), where the Coping Cat program was developed, is always engaged in research evaluating the efficacy and effectiveness of treatment approaches for anxiety in youth. Our hope is that the research results will lead to a better understanding of anxiety and how to best help youth to manage it. We have been involved in several multi-site Randomized Clinical Trials evaluating anxiety treatments and we have examined the dissemination of our Coping Cat treatment in school settings. **[Philip C. Kendall, PhD, ABPP](https://liberalarts.temple.edu/academics/faculty/kendall-philip-c)** is director of the clinic.
 - [Child and Adolescent Anxiety Disorders Clinic](http://childanxiety.org/wps/)
