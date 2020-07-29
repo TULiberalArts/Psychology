@@ -9,7 +9,9 @@ keywords: 'clinical psychology, graduate, APA'
 description: >-
 # custom variables
 ---
-<div align="center" class="video-container"><iframe width="360" height="115" src="https://www.youtube.com/embed/cUJsqTpx1lA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/cUJsqTpx1lA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+___
 
 ## Clinical Psychology
 The Clinical Psychology Program at Temple University subscribes to the clinical scientist model and provides sound, rigorous training in clinical and research methodologies. The overarching mission of the program is to train creative and accomplished clinical scientists who produce, consume, and disseminate psychological science and who function successfully in academic, research, and applied settings. Doctoral students receive broad-based training in preparation for careers as researchers, educators, and scientifically minded clinicians. Coursework provides students with a solid theoretical and scientific foundation in the core areas of psychology and essential aspects of clinical psychology. Students are immersed in the conduct of research in clinical psychology and its application to the assessment and treatment of persons with mental, emotional, and behavioral disorders. Many of our students conduct research with applied emphases, and they are encouraged to incorporate empirical research directly into their assessment, intervention, and treatment planning. For graduates who choose an academically or research-oriented career path, it is our goal that their research endeavors be informed by a fundamental understanding of basic psychological science, including psychopathology and a solid foundation of clinical skill and experience in the assessment and treatment of persons with psychological, emotional, and behavioral disorders.
