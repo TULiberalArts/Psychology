@@ -4,16 +4,16 @@ layout: tla_page
 permalink: /graduate/clinical-psychology/
 published: true
 # meta-data variables
-title: Graduate Areas of Study
+title: Clinical Psychology
 keywords: 'clinical psychology, graduate, APA'
 description: >-
 # custom variables
 ---
+
 <div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/cUJsqTpx1lA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ___
 
-## Clinical Psychology
 The Clinical Psychology Program at Temple University subscribes to the clinical scientist model and provides sound, rigorous training in clinical and research methodologies. The overarching mission of the program is to train creative and accomplished clinical scientists who produce, consume, and disseminate psychological science and who function successfully in academic, research, and applied settings. Doctoral students receive broad-based training in preparation for careers as researchers, educators, and scientifically minded clinicians. Coursework provides students with a solid theoretical and scientific foundation in the core areas of psychology and essential aspects of clinical psychology. Students are immersed in the conduct of research in clinical psychology and its application to the assessment and treatment of persons with mental, emotional, and behavioral disorders. Many of our students conduct research with applied emphases, and they are encouraged to incorporate empirical research directly into their assessment, intervention, and treatment planning. For graduates who choose an academically or research-oriented career path, it is our goal that their research endeavors be informed by a fundamental understanding of basic psychological science, including psychopathology and a solid foundation of clinical skill and experience in the assessment and treatment of persons with psychological, emotional, and behavioral disorders.
 
 For students who go on to do work that is more clinical in nature, our goal is that these graduates not only bring excellence, professionalism, and leadership to their clinical work, but that they do so within a scientific framework. As we define it, this means that they bring the perspectives and habits of scientific inquiry into their clinical work and that their work is continually informed by advances in the scientific literature. To accomplish these goals, Temple students are directly involved in both research and clinical training throughout their tenure, beginning in their very first year.
@@ -50,7 +50,7 @@ Email: [rfauber@temple.edu](mailto:rfauber@temple.edu)<br/>
 - [Richard Heimberg, PhD](https://liberalarts.temple.edu/academics/faculty/heimberg-richard) – Not accepting clinical students for 2020.
 - [Philip Kendall, PhD](https://liberalarts.temple.edu/academics/faculty/kendall-philip-c)
 - [Michael McCloskey, PhD](https://liberalarts.temple.edu/academics/faculty/mccloskey-michael) – Not accepting clinical students for 2020.
-- [Thomas Olino, Ph.D.](https://liberalarts.temple.edu/academics/faculty/olino-thomas) 
+- [Thomas Olino, Ph.D.](https://liberalarts.temple.edu/academics/faculty/olino-thomas)
 
 ## Goals of Clinical Psychology
 The goals of the clinical psychology Ph.D. training program are:
