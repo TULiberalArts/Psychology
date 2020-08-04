@@ -10,7 +10,7 @@ description: >-
 # custom variables
 ---
 
-<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/cUJsqTpx1lA?ref=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/cUJsqTpx1lA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ___
 
