@@ -50,7 +50,8 @@ Email: [rfauber@temple.edu](mailto:rfauber@temple.edu)<br/>
 - [Richard Heimberg, PhD](https://liberalarts.temple.edu/academics/faculty/heimberg-richard) – Not accepting clinical students for 2020.
 - [Philip Kendall, PhD](https://liberalarts.temple.edu/academics/faculty/kendall-philip-c)
 - [Michael McCloskey, PhD](https://liberalarts.temple.edu/academics/faculty/mccloskey-michael) – Not accepting clinical students for 2020.
-- [Thomas Olino, Ph.D.](https://liberalarts.temple.edu/academics/faculty/olino-thomas)
+- [Thomas Olino, PhD](https://liberalarts.temple.edu/academics/faculty/olino-thomas)
+- [Wilson Vincent, PhD](https://liberalarts.temple.edu/academics/faculty/vincent-wilson)
 
 ## Goals of Clinical Psychology
 The goals of the clinical psychology Ph.D. training program are:
