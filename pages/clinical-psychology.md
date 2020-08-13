@@ -43,15 +43,15 @@ Email: [rfauber@temple.edu](mailto:rfauber@temple.edu)<br/>
 
 - [Lauren Alloy, PhD](https://liberalarts.temple.edu/academics/faculty/alloy-lauren)
 - [Eunice Chen, PhD](https://liberalarts.temple.edu/academics/faculty/chen-eunice)
-- [Deborah Drabick, PhD](https://liberalarts.temple.edu/academics/faculty/drabick-deborah)
+- [Deborah Drabick, PhD](https://liberalarts.temple.edu/academics/faculty/drabick-deborah) – Not accepting clinical students for 2020.
 - [Lauren Ellman, PhD](https://liberalarts.temple.edu/academics/faculty/ellman-lauren)
 - [Robert Fauber, PhD](https://liberalarts.temple.edu/academics/faculty/fauber-robert) – Not accepting clinical students for 2020.
-- [Tania Giovannetti, PhD](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania) – Not accepting clinical students for 2020.
+- [Tania Giovannetti, PhD](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania) 
 - [Richard Heimberg, PhD](https://liberalarts.temple.edu/academics/faculty/heimberg-richard) – Not accepting clinical students for 2020.
 - [Philip Kendall, PhD](https://liberalarts.temple.edu/academics/faculty/kendall-philip-c)
-- [Michael McCloskey, PhD](https://liberalarts.temple.edu/academics/faculty/mccloskey-michael) – Not accepting clinical students for 2020.
+- [Michael McCloskey, PhD](https://liberalarts.temple.edu/academics/faculty/mccloskey-michael) 
 - [Thomas Olino, PhD](https://liberalarts.temple.edu/academics/faculty/olino-thomas)
-- [Wilson Vincent, PhD](https://liberalarts.temple.edu/academics/faculty/vincent-wilson)
+- [Wilson Vincent, PhD, MPH](https://liberalarts.temple.edu/academics/faculty/vincent-wilson)
 
 ## Goals of Clinical Psychology
 The goals of the clinical psychology Ph.D. training program are:
