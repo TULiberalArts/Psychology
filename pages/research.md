@@ -135,7 +135,7 @@ Different treatments for anxiety disorders in youth have different success rates
 - [Child and Adolescent Anxiety Disorders Clinic](http://childanxiety.org/wps/)
 
 ### Psychological Services
-The Psychological Services Center, under the direction of **[Catherine Panzarella](https://liberalarts.temple.edu/academics/faculty/panzarella-catherine)**, is a nonprofit community center providing counseling, psychological services, and comprehensive psychological assessments. It serves individuals from Temple University and the surrounding communities. The PSC is a training clinic for the doctoral students in the Clinical Psychology Program, one of the top clinical  psychology doctoral programs in the country. Among the faculty are leading  researchers in the fields of depression and anxiety disorders.
+The Psychological Services Center, under the direction of **[Robert Fauber](https://liberalarts.temple.edu/academics/faculty/fauber-robert)**, is a nonprofit community center providing counseling, psychological services, and comprehensive psychological assessments. It serves individuals from Temple University and the surrounding communities. The PSC is a training clinic for the doctoral students in the Clinical Psychology Program, one of the top clinical  psychology doctoral programs in the country. Among the faculty are leading  researchers in the fields of depression and anxiety disorders.
 - [Psychological Services Center](https://sites.temple.edu/psc/)
 
 ## Opportunities to Participate in Research: Non Temple Students
