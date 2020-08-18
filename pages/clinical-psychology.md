@@ -43,11 +43,11 @@ Email: [rfauber@temple.edu](mailto:rfauber@temple.edu)<br/>
 
 - [Lauren Alloy, PhD](https://liberalarts.temple.edu/academics/faculty/alloy-lauren)
 - [Eunice Chen, PhD](https://liberalarts.temple.edu/academics/faculty/chen-eunice)
-- [Deborah Drabick, PhD](https://liberalarts.temple.edu/academics/faculty/drabick-deborah) – Not accepting clinical students for 2020.
+- [Deborah Drabick, PhD](https://liberalarts.temple.edu/academics/faculty/drabick-deborah) – Not accepting clinical students for 2021.
 - [Lauren Ellman, PhD](https://liberalarts.temple.edu/academics/faculty/ellman-lauren)
-- [Robert Fauber, PhD](https://liberalarts.temple.edu/academics/faculty/fauber-robert) – Not accepting clinical students for 2020.
+- [Robert Fauber, PhD](https://liberalarts.temple.edu/academics/faculty/fauber-robert) – Not accepting clinical students for 2021.
 - [Tania Giovannetti, PhD](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania) 
-- [Richard Heimberg, PhD](https://liberalarts.temple.edu/academics/faculty/heimberg-richard) – Not accepting clinical students for 2020.
+- [Richard Heimberg, PhD](https://liberalarts.temple.edu/academics/faculty/heimberg-richard) – Not accepting clinical students for 2021.
 - [Philip Kendall, PhD](https://liberalarts.temple.edu/academics/faculty/kendall-philip-c)
 - [Michael McCloskey, PhD](https://liberalarts.temple.edu/academics/faculty/mccloskey-michael) 
 - [Thomas Olino, PhD](https://liberalarts.temple.edu/academics/faculty/olino-thomas)
