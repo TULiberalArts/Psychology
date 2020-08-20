@@ -38,7 +38,7 @@ Email: [tshipley@temple.edu](mailto:tshipley@temple.edu)<br>
 **Cognitive Neuroscience Faculty** 
 - [Jason Chein, Ph.D.](https://liberalarts.temple.edu/academics/faculty/chein-jason): Working memory and cognitive control; Risk taking in adolescence 
 - [Tania Giovannetti, PhD](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania): Human neuropsychology and Everyday action; Aging, Dementia, and TBI. _*Graduate applications accepted through the Clinical Area only_
-- [Chelsea Helion, PhD](https://liberalarts.temple.edu/academics/faculty/helion-chelsea): Morality; social cognition; affective neuroscience; fMRI; - New faculty as of July 2019 
+- [Chelsea Helion, PhD](https://liberalarts.temple.edu/academics/faculty/helion-chelsea): Morality; social cognition; affective neuroscience; fMRI; - New faculty  
 - [Johanna Jarcho, PhD](http://www.sdnlaboratory.com/): Developmental social neuroscience of peer relations, Aggression, Reward processing, and learning 
 - [Peter Marshall, PhD](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j): Developmental social cognitive neuroscience 
 - [Vishnu (Deepu) Murty, PhD](https://sites.temple.edu/adaptivememorylab/research/): Episodic Memory; Motivation; Decision-making; Neuromodulation; Psychosis – Not accepting cognition and neuroscience students for 2021.
