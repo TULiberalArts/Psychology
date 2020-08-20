@@ -24,11 +24,10 @@ E-mail: [johanna.jarcho@temple.edu](mailto:johanna.jarcho@temple.edu)<br/>
 **Primary Faculty**
 
 - [Donald Hantula, PhD](https://liberalarts.temple.edu/academics/faculty/hantula-donald)
-- [Chelsea Helion, PhD](https://liberalarts.temple.edu/academics/faculty/helion-chelsea): Currently Accepting Graduate Students for Fall 2020
-- [Johanna Jarcho, PhD](https://liberalarts.temple.edu/academics/faculty/jarcho-johanna): Currently Accepting Graduate Students for Fall 2020
-- [Andrew Karpinski, PhD](https://liberalarts.temple.edu/academics/faculty/karpinski-andrew)
-- [Ingrid Olson, PhD](https://liberalarts.temple.edu/academics/faculty/olson-ingrid): Currently Accepting Graduate Students for Fall 2020
-- [David Smith, PhD](https://liberalarts.temple.edu/academics/faculty/smith-david-v): Currently Accepting Graduate Students for Fall 2020
-
+- [Chelsea Helion, PhD](https://liberalarts.temple.edu/academics/faculty/helion-chelsea)
+- [Johanna Jarcho, PhD](https://liberalarts.temple.edu/academics/faculty/jarcho-johanna)– Not accepting social psychology students for 2021.
+- [Andrew Karpinski, PhD](https://liberalarts.temple.edu/academics/faculty/karpinski-andrew)– Not accepting social psychology students for 2021.
+- [Ingrid Olson, PhD](https://liberalarts.temple.edu/academics/faculty/olson-ingrid)– Not accepting social psychology students for 2021.
+- [David Smith, PhD](https://liberalarts.temple.edu/academics/faculty/smith-david-v)– Not accepting social psychology students for 2021.
 
 For information on how to apply to the Social Psychology program, please visit the [Psychology Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/psychology-phd/#admissiontext).
