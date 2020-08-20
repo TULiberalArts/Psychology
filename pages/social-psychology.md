@@ -24,7 +24,7 @@ E-mail: [johanna.jarcho@temple.edu](mailto:johanna.jarcho@temple.edu)<br/>
 **Primary Faculty**
 
 - [Donald Hantula, PhD](https://liberalarts.temple.edu/academics/faculty/hantula-donald)
-- [Chelsea Helion, PhD](https://liberalarts.temple.edu/academics/faculty/helion-chelsea)
+- [Chelsea Helion, PhD](https://liberalarts.temple.edu/academics/faculty/helion-chelsea)- New faculty as of July 2019. 
 - [Johanna Jarcho, PhD](https://liberalarts.temple.edu/academics/faculty/jarcho-johanna)– Not accepting social psychology students for 2021.
 - [Andrew Karpinski, PhD](https://liberalarts.temple.edu/academics/faculty/karpinski-andrew)– Not accepting social psychology students for 2021.
 - [Ingrid Olson, PhD](https://liberalarts.temple.edu/academics/faculty/olson-ingrid)– Not accepting social psychology students for 2021.
