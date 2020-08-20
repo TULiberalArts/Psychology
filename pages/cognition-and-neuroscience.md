@@ -26,14 +26,14 @@ Email: [tshipley@temple.edu](mailto:tshipley@temple.edu)<br>
 **Behavioral Neuroscience Faculty**
 - [Debra Bangasser, PhD](https://liberalarts.temple.edu/academics/faculty/bangasser-debra): Neurobiology of stress, anxiety, and learning 
 - [Lisa Briand, PhD](https://liberalarts.temple.edu/academics/faculty/briand-lisa): Animal Models of Addiction 
-- [Vinay Parikh, PhD](https://liberalarts.temple.edu/academics/faculty/parikh-vinay): Neurochemical substrates of fronto-executive functions; normal and pathological aging; neurocognitive mechanisms of addiction – Not accepting clinical students for 2021.
+- [Vinay Parikh, PhD](https://liberalarts.temple.edu/academics/faculty/parikh-vinay): Neurochemical substrates of fronto-executive functions; normal and pathological aging; neurocognitive mechanisms of addiction – Not accepting cognition and neuroscience students for 2021.
 - [Mathieu Wimmer, PhD](https://liberalarts.temple.edu/academics/faculty/wimmer-mathieu): Molecular and epigenetic mechanisms underlying memory and addiction-like behaviors.
 
 **Cognitive Faculty**
 - [Elizabeth Gunderson, PhD](https://liberalarts.temple.edu/academics/faculty/gunderson-elizabeth): Cognitive development; Mathematical cognition 
-- [Nora S. Newcombe, PhD](https://liberalarts.temple.edu/academics/faculty/newcombe-nora): Spatial cognition and development, Episodic memory and development, Science of Learning – Not accepting clinical students for 2021.
-- [Thomas F. Shipley, PhD](https://liberalarts.temple.edu/academics/faculty/shipleythomas): Spatial Perception & Cognition; Event perception; STEM Education – Not accepting clinical students for 2021.
-- [Robert Weisberg, PhD](https://liberalarts.temple.edu/academics/faculty/weisberg-robert): Creativity – Not accepting clinical students for 2021.
+- [Nora S. Newcombe, PhD](https://liberalarts.temple.edu/academics/faculty/newcombe-nora): Spatial cognition and development, Episodic memory and development, Science of Learning– Not accepting cognition and neuroscience students for 2021.
+- [Thomas F. Shipley, PhD](https://liberalarts.temple.edu/academics/faculty/shipleythomas): Spatial Perception & Cognition; Event perception; STEM Education – Not accepting cognition and neuroscience students for 2021.
+- [Robert Weisberg, PhD](https://liberalarts.temple.edu/academics/faculty/weisberg-robert): Creativity – Not accepting cognition and neuroscience students for 2021.
 
 **Cognitive Neuroscience Faculty** 
 - [Jason Chein, Ph.D.](https://liberalarts.temple.edu/academics/faculty/chein-jason): Working memory and cognitive control; Risk taking in adolescence 
@@ -41,7 +41,7 @@ Email: [tshipley@temple.edu](mailto:tshipley@temple.edu)<br>
 - [Chelsea Helion, PhD](https://liberalarts.temple.edu/academics/faculty/helion-chelsea): Morality; social cognition; affective neuroscience; fMRI; - New faculty as of July 2019 
 - [Johanna Jarcho, PhD](http://www.sdnlaboratory.com/): Developmental social neuroscience of peer relations, Aggression, Reward processing, and learning 
 - [Peter Marshall, PhD](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j): Developmental social cognitive neuroscience 
-- [Vishnu (Deepu) Murty, PhD](https://sites.temple.edu/adaptivememorylab/research/): Episodic Memory; Motivation; Decision-making; Neuromodulation; Psychosis – Not accepting clinical students for 2021.
+- [Vishnu (Deepu) Murty, PhD](https://sites.temple.edu/adaptivememorylab/research/): Episodic Memory; Motivation; Decision-making; Neuromodulation; Psychosis – Not accepting cognition and neuroscience students for 2021.
 - [Ingrid Olson, PhD](https://liberalarts.temple.edu/academics/faculty/olson-ingrid):Episodic and semantic memory across the lifespan; Social Cognition including person perception and social concepts; TBI; fMRI 
 - [David Smith, PhD](https://liberalarts.temple.edu/academics/faculty/smith-david): Social and economic decision making in humans; Reward processing; fMRI; Noninvasive brain stimulation 
 
