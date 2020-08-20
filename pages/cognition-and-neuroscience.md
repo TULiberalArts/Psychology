@@ -31,7 +31,7 @@ Email: [tshipley@temple.edu](mailto:tshipley@temple.edu)<br>
 
 **Cognitive Faculty**
 - [Elizabeth Gunderson, PhD](https://liberalarts.temple.edu/academics/faculty/gunderson-elizabeth): Cognitive development; Mathematical cognition 
-- [Nora S. Newcombe, PhD](https://liberalarts.temple.edu/academics/faculty/newcombe-nora): Spatial cognition and development, Episodic memory and development, Science of Learning– Not accepting cognition and neuroscience students for 2021.
+- [Nora S. Newcombe, PhD](https://liberalarts.temple.edu/academics/faculty/newcombe-nora): Spatial cognition and development, Episodic memory and development, Science of Learning – Not accepting cognition and neuroscience students for 2021.
 - [Thomas F. Shipley, PhD](https://liberalarts.temple.edu/academics/faculty/shipleythomas): Spatial Perception & Cognition; Event perception; STEM Education – Not accepting cognition and neuroscience students for 2021.
 - [Robert Weisberg, PhD](https://liberalarts.temple.edu/academics/faculty/weisberg-robert): Creativity – Not accepting cognition and neuroscience students for 2021.
 
