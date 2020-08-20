@@ -22,18 +22,16 @@ Email: [hongling.xie@temple.edu](mailto:hongling.xie@temple.edu)<br/>
 
 **Primary Developmental Area Faculty**
 
-- [Deborah Drabick](https://liberalarts.temple.edu/academics/faculty/drabick-deborah)
+- [Deborah Drabick](https://liberalarts.temple.edu/academics/faculty/drabick-deborah)– Not accepting developmental psychology students for 2021.
 - [Elizabeth Gunderson](https://liberalarts.temple.edu/academics/faculty/gunderson-elizabeth)
 - [Kathy Hirsh-Pasek](https://liberalarts.temple.edu/academics/faculty/hirsh-pasek-kathryn)
 - [Peter Marshall](https://liberalarts.temple.edu/academics/faculty/marshall-peter-j)
-- [Nora Newcombe](https://liberalarts.temple.edu/academics/faculty/newcombe-nora)
+- [Nora Newcombe](https://liberalarts.temple.edu/academics/faculty/newcombe-nora)– Not accepting developmental psychology students for 2021.
 - [Willis Overton](https://liberalarts.temple.edu/academics/faculty/overton-willis)(emeritus)
-- [Laurence Steinberg](https://liberalarts.temple.edu/academics/faculty/steinberg-laurence)
+- [Laurence Steinberg](https://liberalarts.temple.edu/academics/faculty/steinberg-laurence)– Not accepting developmental psychology students for 2021.
 - [Ronald Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ronald)
-- [Marsha Weinraub](https://liberalarts.temple.edu/academics/faculty/weinraub-marsha)
+- [Marsha Weinraub](https://liberalarts.temple.edu/academics/faculty/weinraub-marsha)– Not accepting developmental psychology students for 2021.
 - [Hongling Xie](https://liberalarts.temple.edu/academics/faculty/xie-hongling)
-
-**Please note that Dr. Weinraub and Dr. Overton are not currently accepting new graduate students.**
 
 ## Developmental Psychopathology Concentration
 
