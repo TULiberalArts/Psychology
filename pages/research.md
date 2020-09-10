@@ -88,8 +88,8 @@ Why do some older adults—but not all— develop dementia and Alzheimer’s dis
 How does working memory affect our daily lives? How do working memory and cognitive control operate and can they be improved? How do they change as people mature from pre-adolescence into adulthood? This lab, led by principal investigator **[Jason Chein](https://liberalarts.temple.edu/academics/faculty/chein-jason)**, researches basic mechanisms of working memory and cognitive control; how to train working memory and cognitive control; and the development of cognitive control and its impact on adolescent decision-making.
 - [Neurocognition Lab](https://sites.temple.edu/neurocognitionlab)
 
-### Neuroeconomics Lab
 ![Neuroeconomics Lab]({{site.baseurl}}/media/resized Neuroeconomics Lab.jpg){:.responsive-img .img-right}
+### Neuroeconomics Lab
 How do we make decisions? How do we process and compare different types of rewards and experiences? This lab, led by principal investigator **[David Smith](https://liberalarts.temple.edu/academics/faculty/smith-david)**, uses neuroimaging, computational modeling and noninvasive brain stimulation to study the mechanisms of value-based decision making in humans. The lab utilizes an interdisciplinary approach, integrating perspectives from psychology, economics and neuroscience.
 - [Neuroeconomics Lab](https://sites.temple.edu/neuroeconlab/)
 
