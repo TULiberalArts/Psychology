@@ -24,8 +24,8 @@ ___
 
 ## Psychology Research Laboratories
 
-### Adaptive Memory Lab
 ![Adaptive Memory Lab]({{site.baseurl}}/media/resized Adaptive Memory Lab.png){:.responsive-img .img-right}
+### Adaptive Memory Lab
 The Adaptive Memory Lab **[(PI: Murty)](https://liberalarts.temple.edu/academics/faculty/murty-vishnu)** focuses on how engagement of neuromodulatory systems, particularly the mesolimbic dopamine system, influences memory and memory-guided behavior in order to help individuals’ achieve their goals. We investigate these systems in a variety of affective and motivational states including reward, novelty and threat. Additionally, we probe these systems in individuals with or at-risk for psychosis to better understand the role of episodic memory in adaptive behavior.
 - [Adaptive Memory Lab](https://sites.temple.edu/adaptivememorylab/)
 
@@ -51,8 +51,8 @@ How can a disadvantaged youth improve his or her chances for success? Do family,
 What happens to a person’s ability to do everyday tasks following brain damage or disease? What determines error detection and correction in everyday life? The goals of the Cognitive Neuropsychology Laboratory at Temple University, led by **[Tania Giovannetti](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania)**, are to develop and refine our understanding of the neurocognitive processes necessary for optimal everyday functioning in healthy people; understand the breakdown of everyday functioning following brain damage or disease; and develop and evaluate rehabilitation strategies.
 - [Neurocognition Lab](https://sites.temple.edu/cogneuropsylab/)
 
-### Cognitive Neuroscience
 ![Cognitive Neuroscience Lab]({{site.baseurl}}/media/resized Cog Neuro Lab_Ingrid.png){:.responsive-img .img-right}
+### Cognitive Neuroscience
 How does memory relate to people establishing successful relationships with society? How is it connected to abstract concepts such as “truth,” decision making and development? Under the direction of **[Ingrid Olson](https://liberalarts.temple.edu/academics/faculty/olson-ingrid)**, this lab studies neural structure-function relationships, especially in regard to episodic memory networks and social perception networks. The lab conducts experiments that use non-invasive brain stimulation techniques and treats memory dysfunction.
 - [Cognitive Neuroscience Lab](https://sites.temple.edu/cnltu/)
 
