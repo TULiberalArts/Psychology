@@ -125,7 +125,7 @@ How do infants and children discover the world around them? Researchers at this 
 One key new resource for Psychology faculty research is the **[Temple University Brain Research and Imaging Center (TUBRIC)](https://www.cla.temple.edu/temple-university-brain-research-imaging-center/)**, located in the basement of Weiss Hall. TUBRIC opened in Fall 2017 and features a state-of-the-art magnetic resonance imaging (MRI) scanner that was procured through a major research instrumentation grant from the National Science Foundation. The scanner is the centerpiece of newly renovated research space that also includes staff offices and rooms for behavioral testing. Other resources at TUBRIC include an MRI-compatible eye tracker and a BioSemi EEG system.
 
 ### TEDp (Temple Eating Disorders Program)
-![TEDp]({{site.baseurl}}/media/TEDp.png){:.responsive-img .img-right}
+![TEDp]({{site.baseurl}}/media/TEDp2.png){:.responsive-img .img-right}
 We do science to improve the lives of the clients we serve. At **[TEDp](https://sites.temple.edu/tedp/)**, under the direction of **[Eunice Chen](https://sites.temple.edu/tedp/our-team/principal-investigator/)**, our work seeks to improve our understanding of eating and weight disorders. We have adapted and tested a range of psychosocial interventions for eating and weight disorders. We use clinical trial designs, behavioral and neuropsychological assessment, psychophysiological and neuroimaging methods, as well as clinical interview and self-report methods. More recent work uses meta-analytic methods and analysis of existing datasets.
 
 ___
