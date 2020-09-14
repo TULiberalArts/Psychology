@@ -56,6 +56,10 @@ What happens to a person’s ability to do everyday tasks following brain damage
 How does memory relate to people establishing successful relationships with society? How is it connected to abstract concepts such as “truth,” decision making and development? Under the direction of **[Ingrid Olson](https://liberalarts.temple.edu/academics/faculty/olson-ingrid)**, this lab studies neural structure-function relationships, especially in regard to episodic memory networks and social perception networks. The lab conducts experiments that use non-invasive brain stimulation techniques and treats memory dysfunction.
 - [Cognitive Neuroscience Lab](https://sites.temple.edu/cnltu/)
 
+### Control and Adaptive Behavior Lab 
+How does working memory affect our daily lives? How do working memory and cognitive control operate and can they be improved? How do they change as people mature from pre-adolescence into adulthood? This lab, led by principal investigator **[Jason Chein](https://liberalarts.temple.edu/academics/faculty/chein-jason)**, researches basic mechanisms of working memory and cognitive control; how to train working memory and cognitive control; and the development of cognitive control and its impact on adolescent decision-making.
+- [Control and Adaptive Behavior Lab](https://sites.temple.edu/neurocognitionlab)
+
 ### Determinants of Major Psychopathology
 What factors contribute to risk for mental disorders? In the Determinants of Major Psychopathology Lab (DMPL), **[Lauren Ellman](https://liberalarts.temple.edu/academics/faculty/ellman-lauren)** and her students investigate the environmental and biological contributions to development  of schizophrenia and related disorders, such as other psychotic disorders and depression. As understanding of disorder trajectories increases, so does the potential for earlier identification and treatment of at-risk individuals.
 - [Ellman Lab](https://sites.temple.edu/ellmanlab/)
@@ -83,10 +87,6 @@ What are the causes of the first onset of depression and bipolar disorder in ado
 ![Neurochemistry and Cognition Lab]({{site.baseurl}}/media/cropped Parikh Lab.jpg){:.responsive-img .img-right}
 Why do some older adults—but not all— develop dementia and Alzheimer’s disease? How do neurocognitive changes shape maladaptive drug-taking behaviors in addicts? Under the direction of **[Vinay Parikh](https://liberalarts.temple.edu/academics/faculty/parikh-vinay)**, this lab investigates cellular and neurochemical circuit mechanisms that maintain cognitive processes, specifically those involved in attention and executive functions and how these mechanisms are affected by aging/pathological aging and exposure to drugs of abuse. The lab utilizes a combination of neuroscientific approaches including rodent behavioral paradigms, in vivo electrochemical recordings, genetic manipulations and protein biochemistry.
 - [Neurochemistry and Cognition (NECO) Lab](https://sites.temple.edu/parikh/)
-
-### Neurocognition
-How does working memory affect our daily lives? How do working memory and cognitive control operate and can they be improved? How do they change as people mature from pre-adolescence into adulthood? This lab, led by principal investigator **[Jason Chein](https://liberalarts.temple.edu/academics/faculty/chein-jason)**, researches basic mechanisms of working memory and cognitive control; how to train working memory and cognitive control; and the development of cognitive control and its impact on adolescent decision-making.
-- [Neurocognition Lab](https://sites.temple.edu/neurocognitionlab)
 
 ![Neuroeconomics Lab]({{site.baseurl}}/media/resized Neuroeconomics Lab.jpg){:.responsive-img .img-right}
 ### Neuroeconomics Lab
