@@ -84,3 +84,7 @@ The [Council of University Directors of Clinical Training](http://www.cudcp.us/)
 - View [Student Selection Process](https://docs.google.com/document/d/1kb87q_CaHzYuJBplAshF5x2Vze6u2qujZvsuPnnjlf4/edit?usp=sharing)
 - View [Student Admissions, Outcomes, and Other Data](https://docs.google.com/document/d/1_4VGOo6n8MWj89HY-Doza2gcUM9vcGxdadRtlRc8iNc/edit?usp=sharing)
 - View [How to apply to the Clinical Psychology PhD Program](https://docs.google.com/document/d/1pAgL4W8gTuzZ0kpF7Ua6zwcdKEfzsNKODWqGde2RQ8c/edit?usp=sharing)
+
+[![US CP Ranking Badge](https://github.com/TULiberalArts/Psychology/blob/master/media/usnclinicalpsych2021.png?raw=true)](https://www.usnews.com/best-graduate-schools/top-health-schools/clinical-psychology-rankings){:.responsive-img .img-right}
+
+U.S. News has ranked Temple’s Clinical Psychology PhD program #10 in the nation on its Best Graduate Schools list. Temple, the College of Liberal Arts and the Psychology Department are honored by this distinction, which is based on a survey of academics at peer institutions. Our program tied for the #10 ranking with such prestigious schools as Harvard University. The ranking is reflective of our faculty’s dedication to providing our students with one of the finest Clinical Psychology doctoral programs in the United States. 
