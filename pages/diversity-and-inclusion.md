@@ -20,6 +20,7 @@ Faculty are working together on these 4 initiatives to achieve the following goa
 
 ### Psychology Graduate Students for Inclusivity (PGSI)
 PGSI is a graduate student group aimed at promoting diversity and inclusivity in the Psychology Department through several arms and initiatives. For example, the PGSI Undergraduate Arm connects with Temple undergraduates through various channels (e.g., RAs in labs, Psychology Majors Association, Careers in Psychology course) to encourage and support students from diverse backgrounds in our department. This arm also supports recruitment and retention of students from diverse backgrounds to the Temple Psychology graduate program, including organizing summer and school year programs for undergraduates who may be interested in graduate school. Undergraduate students seeking mentoring from PGSI graduate students should contact PGSI representatives at [tupsychmentorship@gmail.com](mailto:tupsychmentorship@gmail.com).
+
  - [IDEAL website](https://diversity.temple.edu)<br>
 
 ### Ongoing Research Related to DEI
