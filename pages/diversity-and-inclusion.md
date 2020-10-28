@@ -30,5 +30,7 @@ PGSI is a graduate student group aimed at promoting diversity and inclusivity in
 - [Office of Institutional Diversity, Equity, Advocacy and Leadership](https://diversity.temple.edu/)
 - [Disability, Resources and Services](https://disabilityresources.temple.edu/)
 - [Psychology Majors Association (PMA)](https://www.cla.temple.edu/psychology/student-life/#psychology-majors-association-pma)
-- [Antiracism Resources](https://diversity.temple.edu/antiracist)
+- [Antiracism Resources](https://diversity.temple.edu/antiracist) 
 - [Guide to Diversity Resources at Temple](https://news.temple.edu/nutshell/2020-09-11/your-guide-diversity-resources-campus-ideal)
+
+
