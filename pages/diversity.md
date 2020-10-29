@@ -1,10 +1,10 @@
 ---
 # global predefined variables
 layout: tla_page
-permalink: /diversity-and-inclusion/
+permalink: /diversity/
 published: true
 # meta-data variables
-title: Diversity and Inclusion
+title: Diversity
 keywords: 'clinical services, psychology, diversity, resources'
 description: >-
 # custom variables
