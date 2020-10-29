@@ -24,7 +24,8 @@ PGSI is a graduate student group aimed at promoting diversity and inclusivity in
 - [IDEAL website](https://diversity.temple.edu)<br>
 
 ### Ongoing Research Related to DEI
-[TEDp (Temple Eating Disorders program)](https://sites.temple.edu/tedp/diversity/). Our work has addressed issues regarding obesity stigma and also the relationship between gender and eating disordered behavior. Our most recent clinical trial using imaging recruited primarily African-American women. Our recent work with colleagues in our department (Ronald Taylor and Mike McCloskey) also examine racial diversity in neuroimaging studies. 
+[TEDp (Temple Eating Disorders Program)](https://sites.temple.edu/tedp/diversity/)<br>
+Our work has addressed issues regarding obesity stigma and also the relationship between gender and eating disordered behavior. Our most recent clinical trial using imaging recruited primarily African-American women. Our recent work with colleagues in our department (Ronald Taylor and Mike McCloskey) also examine racial diversity in neuroimaging studies. 
 
 ## Additional Temple University Resources
 - [Office of Institutional Diversity, Equity, Advocacy and Leadership](https://diversity.temple.edu/)
