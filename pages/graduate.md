@@ -8,7 +8,7 @@ title: Graduate
 keywords: 'graduate, phd, students, Psychology program'
 description: >-
   Choose from four areas of study when earning your PhD in Psychology from Temple University’s 
-  College of Liberal Arts.Learn more about our graduate careers, resources, and awards.
+  College of Liberal Arts. Learn more about our graduate careers, resources, and awards.
 # custom variables
 
 sidebar: sidebars/graduate.html   
