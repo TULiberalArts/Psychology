@@ -9,7 +9,7 @@ keywords: 'clinical services, psychology, diversity, resources'
 description: >-
 # custom variables
 ---
-![DEI Flag]({{site.baseurl}}/media/PsyFlag.jpg){:.responsive-img .img-center}
+![DEI Flag]({{site.baseurl}}/media/resizedPsyFlag2.jpg){:.responsive-img .img-center}
 
 ## Diversity, Equity and Inclusion Mission
 To develop and promote strategies and best practices to increase diversity, equity and inclusion within the Department of Psychology and across our field. We strive to promote inclusive research, scholarship and leadership by fostering a diverse and equitable educational experience. 
@@ -17,7 +17,7 @@ To develop and promote strategies and best practices to increase diversity, equi
 **DEI Faculty Members:**<br>
 Lisa Brand, Eunice Chen (Committee Chair), Tania Giovannetti, Deepu Murty, Sandra Sepulveda-Kozakowski, Ronald Taylor and Mathieu Wimmer. Graduate student representatives collaborate with us.
 
-![DEI Chart]({{site.baseurl}}/media/resizedPsyChart.jpg){:.responsive-img .img-right}
+![DEI Chart]({{site.baseurl}}/media/resized2PsyChart.jpg){:.responsive-img .img-right}
 ## DEI Initiatives
 Faculty are working together on these 4 initiatives to achieve the following goals: 
 
