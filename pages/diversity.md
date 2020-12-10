@@ -9,7 +9,7 @@ keywords: 'clinical services, psychology, diversity, resources'
 description: >-
 # custom variables
 ---
-![DEI Flag]({{site.baseurl}}/media/resizedPsyFlag2.jpg){:.responsive-img .img-center}
+![DEI Flag]({{site.baseurl}}/media/PsyFlag2.jpg){:.responsive-img .img-center}
 
 ## Diversity, Equity and Inclusion Mission
 To develop and promote strategies and best practices to increase diversity, equity and inclusion within the Department of Psychology and across our field. We strive to promote inclusive research, scholarship and leadership by fostering a diverse and equitable educational experience. 
