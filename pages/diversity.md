@@ -16,7 +16,7 @@ To develop and promote strategies and best practices to increase diversity, equi
 **DEI Faculty Members:**<br>
 Lisa Brand, Eunice Chen (Committee Chair), Tania Giovannetti, Deepu Murty, Sandra Sepulveda-Kozakowski, Ronald Taylor and Mathieu Wimmer. Graduate student representatives collaborate with us.
 
-![DEI Chart]({{site.baseurl}}/media/resized2PsyChart.jpg){:.responsive-img .img-right}
+![DEI Chart]({{site.baseurl}}/media/Psy_Chart2.jpg){:.responsive-img .img-right}
 ## DEI Initiatives
 - **Faculty Education Initiatives:** To promote faculty knowledge and awareness of diversity and inclusivity
 - **Graduate Education Initiatives:** To increase diversity in our graduate student body; to increase inclusivity within our graduate program; to integrate DEI training into graduate Courses
