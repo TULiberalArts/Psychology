@@ -37,7 +37,7 @@ Psi Chi is the national honor society for psychology majors and minors. Its goal
 
 ### Membership
 - All members must have an overall 3.2 GPA, with a 3.5 within the major. Each member must have completed 9 psychology credit hours at Temple University.
-- Upon completing an [application](https://docs.google.com/document/d/1tpdtOka45uguwz6RBllp79bdALKLJDSCJ3tK8BU_eB8/edit), place it in the Psi Chi mailbox (located on the 6th floor of Weiss Hall), then email [psichi@temple.edu](mailto:psichi@temple.edu) to inform us that you have dropped off your application and would like an interview.
+- Upon completing an application, place it in the Psi Chi mailbox (located on the 6th floor of Weiss Hall), then email [psichi@temple.edu](mailto:psichi@temple.edu) to inform us that you have dropped off your application and would like an interview.
 - If you meet the requirements, you will pay a lifetime membership fee of $75 ($55 goes to the society, $20 goes to our chapter). The check should be made out to Psi Chi Temple.
 
 ## Psychology Graduate Students for Inclusivity (PGSI)- Undergraduate Arm
