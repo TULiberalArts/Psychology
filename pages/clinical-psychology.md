@@ -10,9 +10,9 @@ description: >-
 # custom variables
 ---
 
-<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/cUJsqTpx1lA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/cUJsqTpx1lA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
 
-_**All admissions interview invitations for the Temple University Clinical Psychology PhD program have been sent out._**
+**_All admissions interview invitations for the Temple University Clinical Psychology PhD program have been sent out._**
 
 ___
 
