@@ -68,7 +68,7 @@ ___
         title="Clinical Services"
         content="Three clinics provide mental health services to the community in and around Temple: The Psychological Services Center, the Adult Anxiety Clinic, and the Child and Adolescent Anxiety Disorders Clinic."
         image=""
-        button-link="clinical-services"
+        button-link="/psychology/undergraduate/#research"
         button-text="Learn More" %}
       </div>
 </div>
