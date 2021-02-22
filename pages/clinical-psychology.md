@@ -22,6 +22,8 @@ For students who go on to do work that is more clinical in nature, our goal is t
 
 The Clinical Psychology Program is fully accredited by the Psychological Clinical Science Accreditation System (PCSAS) and the American Psychological Association (APA).
 
+The tenets and expectations of PCSAS are highly consistent with our training goals and methods, and we plan to maintain PCSAS accreditation indefinitely. We are actively promoting efforts to ensure that, in the future, programs accredited by PCSAS are given the same access to internship and licensure opportunities as are programs accredited by APA. Once this is achieved, we may re-evaluate our need to maintain APA accreditation.
+
 American Psychological Association (APA)<br/>
 Office of Program Consultation and Accreditation<br/>
 750 First St, NE<br/>
