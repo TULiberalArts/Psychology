@@ -12,7 +12,7 @@ description: >-
 
 <div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/cUJsqTpx1lA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
 
-**All admissions interview invitations for the Temple University Clinical Psychology PhD program have been sent out.**
+**All admissions interviews for the Clinical Psychology PhD program for Fall 2021 have occurred and admissions offers have been extended. If you did not receive an interview, unfortunately, this means that you will not be accepted to Temple's Clinical program this year.**
 
 ___
 
