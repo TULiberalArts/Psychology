@@ -53,6 +53,13 @@ For a list of current labs and research opportunities, please visit the Undergra
 
 You can view [a list of summer research opportunities at other institutions, and research employment opportunities for Psychology graduates](https://listserv.temple.edu/cgi-bin/wa?A0=PSYRESEARCH). 
 
+### BRIDGE Program
+The Building Research Independence by Developing Goals and hands-on Experiences (BRIDGE) program is designed to give Temple undergraduate students from populations underrepresented in psychology and neuroscience paid summer research experience, individualized mentoring, and professional development opportunities. The summer training will allow for students to determine if they’re interested in research and provide them with experiential learning and skill development that will translate into a variety of post graduation opportunities. Networking opportunities and career development workshops will increase the likelihood students get the job or postgraduate training that they desire.
+
+- [Bridge Program Information & FAQS](https://docs.google.com/document/d/1jS7mt8bhBqc92B2H5yDy__kEuv39PhxLHSnryJIL_3Y/edit)
+- [Participating Lab Information](https://docs.google.com/document/d/1y1pJXXYV5LRBDBYUUFzHNf5lPc55XhUuwqcb82tRCy0/edit)
+- [Application Link](https://docs.google.com/forms/d/e/1FAIpQLSeWlsnHuWa1qwtqXmb-z-wmQAtADXPFyiR5VS3fQe11QgSdEw/viewform)
+
 ### Getting Involved in Research
 ![Olino Lab]({{site.baseurl}}/media/resized Olino lab.jpg){:.responsive-img .img-right}
 Graduate programs in psychology highly regard students with research experience. At Temple you have the opportunity to volunteer in labs representing a wide range of psychological interests. Many of the faculty pages link to lab websites where you can learn more about their research. If you want to volunteer in a particular lab, email the faculty member to inquire if there are openings for a research volunteer.
