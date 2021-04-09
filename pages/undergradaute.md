@@ -44,7 +44,7 @@ The [Psychology Internship/Practicum](http://bulletin.temple.edu/undergraduate/l
 
 ## Psychology 5-Year Master’s Program (+1)
 ![Research]({{site.baseurl}}/media/resized 4+1.jpg){:.responsive-img .img-right}
-The +1 Master in Psychological Research offers outstanding Temple University psychology majors the opportunity to earn both the Bachelor of Arts in Psychology and the Master of Science in Psychological Research in just 5 years.
+The +1 Master in Psychological Research offers outstanding Temple University psychology majors the opportunity to earn both the Bachelor of Arts in Psychology and the Master of Science in Psychological Research in just 5 years. **Application deadline is March 1**.
 
 Learn More about the [Psychology 5-Year Master’s Program (+1)](https://www.temple.edu/academics/degree-programs/psychological-research-ms-la-psyr-ms) 
 
