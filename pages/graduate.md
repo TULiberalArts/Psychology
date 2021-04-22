@@ -29,6 +29,9 @@ All PhD applicants must meet the requirements for admission. Please visit the [P
 
 Doctoral students in Psychology also have the opportunity to complete an interdisciplinary Neuroscience specialization via the Neuroscience Program in the College of Liberal Arts. Students interested in the Specialization in Neuroscience should visit the [Neuroscience Graduate page](https://www.cla.temple.edu/neuroscience/graduate/).
 
+## Psychology 5-Year Master’s Program (+1)
+The [+1 Master in Psychological Research](https://www.temple.edu/academics/degree-programs/psychological-research-ms-la-psyr-ms) offers outstanding Temple University psychology majors the opportunity to earn both the Bachelor of Arts in Psychology and the Master of Science in Psychological Research in just 5 years.
+
 ## Careers
 Individuals earning PhD degrees in Psychology have moved on to a variety of interesting and fulfilling positions. We have been consistently successful in placing our graduates in the types of positions they were hoping to obtain. Currently, it is typical for most individuals with newly earned Psychology PhD degrees to go on to postdoctoral research positions, and this holds for our students. Many of our graduates secure prestigious postdoctoral positions where they bring their skills and knowledge to the highest levels. Many of those students then obtain faculty positions at well-known institutions, where they carry out cutting-edge research in diverse areas from behavioral neuroscience to clinical science. Other students obtain research positions in various industries.
 
